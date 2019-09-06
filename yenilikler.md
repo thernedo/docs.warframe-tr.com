@@ -47,6 +47,10 @@ Sentinel temalı fayans işlemesi
 
 {% embed url="https://www.youtube.com/watch?v=8DObN\_3ha6M&t=77s" caption="" %}
 
+#### Dax Duviri
+
+![https://www.artstation.com/artwork/w8KzP6](.gitbook/assets/9e9a604ac04b060fad079e47a91e2037.jpg)
+
 ### Deluxe
 
 Yeni deluxe derileri
