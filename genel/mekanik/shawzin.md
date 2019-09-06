@@ -7,17 +7,25 @@ Daha sonra oyuncuların kendi müziklerini çalmalarını sağlayan bir Orbiter 
 ## Örnekler
 
 {% code-tabs %}
-{% code-tabs-item title="“Sweden” - C418: u/ZayTheRonin" %}
+{% code-tabs-item title="“Song of Storms” - Legend of Zelda: Ocarina of Time: u/werewodo" %}
 ```text
-5aAAEAhMAiKAwxA/MBhSBwUB4cCAJCghCwkC4yC/aEASEREEfMEgKEvxFBMFgSFvUF3cGAJGgkGwhG4yHAaH/EIfKIgMIwxI/MJghJwUJ4cJ/JKgSKwRK4yLAaL/EMfMMgKMwxNAMNgSNwUN4cN/JOhhOwkO4yO/
+6BAAEADSAIBAWEAaSAdUAuhA5UA9hBBUBFSBJKBNKBdBBkEBsJBwKB0KCFBCMECTJCXCCbBCtECxSC0BDCEDGSDJUDZhDjUDnhDrUDvSDzKD3KEHBEPEEXJEcKEgKExBE6
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
 {% code-tabs %}
-{% code-tabs-item title="“Song of Storms” - Legend of Zelda: Ocarina of Time: u/werewodo" %}
+{% code-tabs-item title="“Uprising” - Sabaton: u/Noobkakka1234" %}
 ```text
-6BAAEADSAIBAWEAaSAdUAuhA5UA9hBBUBFSBJKBNKBdBBkEBsJBwKB0KCFBCMECTJCXCCbBCtECxSC0BDCEDGSDJUDZhDjUDnhDrUDvSDzKD3KEHBEPEEXJEcKEgKExBE6
+1aAAaALcAVaAXZAaaAgUArUAwUAzUA1SA3RA5SA/SBESBGRBIMBNaBSaBccBmZBqaBwUB6UCBSCESCLRCPRCZSCdaCjaCrcC0aC3ZC6aDAUDLUDPUDSUDVSDYRDbSDgSDmSDpRDrMDxaD2aEBaEJcELaERaEXUEiUEnUEqUEtSEvREwSE3cE9cFCaFJaFO
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+{% code-tabs %}
+{% code-tabs-item title="“Awaken Pillarmen” - Jojo’s Bizarre Adventure: u/Distiler" %}
+```text
+3MAAMAJMALMAOJARMATRAWUAZhAbUAeRAhMAkMAsMA0MA3MA6JA9MA/RBCUBFhBIUBKRBNMBQJBYMBgMBjMBmJBpMBrRBuUBxhB0UB2RB5MB8MCEMCMMCPRCVRCXUCdUCghClhCohCwUCzRC2MC+MDBMDDJDGMDJRDMUDOhDRUDURDXMDZMDiMDqMDtMDvJDyMD1RD4UD6hD9UEAREDMEFJEOMEWMEZMEbJEeMEhREjUEmhEpUEsREvMExME6MFCMFFRFKRFNUFSUFVhFbhFdhFmUFpRFrMFu
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
@@ -31,33 +39,9 @@ Daha sonra oyuncuların kendi müziklerini çalmalarını sağlayan bir Orbiter 
 {% endcode-tabs %}
 
 {% code-tabs %}
-{% code-tabs-item title="“We all Lift Together - 1 min version” - Warframe OST: u/abababbb" %}
-```text
-6JAABAMEAQJAZMAhKApJAxBA2JBBBBNEBRJBYMBgRBoJBwJCABCNECRJCZMChKCpJCxBC2SDBRDNMDSJDZMDhRDpJDxJEABENEEQJEYMEgKEoJExBE2JFBBFNEFQJFYMFgRFoJFwJGABGMEGQJGYSGhRGpMGwJG1hHBSHNRHRMHfRHnSHvJH4JIIBIVEIYJIhMIoKIwJI4BI+JJJBJVEJYJJhMJoRJxJJ5JKIBKNEKZJKhSKoRKwMK4JK9hLJSLOSLZRLeMLpKLtJL4EMAJMIJMdJMhKMlMMpRM4KNgKNjMNnRNuMN7ROAMONROSSOYSOvRO6KPF
-```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
-
-{% code-tabs %}
-{% code-tabs-item title="House of Rising Sun : u/DNexus" %}
-```text
-6BAABAJBAQEAUJAaBAeBAnBAtEAxJA3KA7KBFKBMJBPEBVBBZBBjBBqEBuJB1BB5BCCBCIECMJCTKCXKCgJCqECxBC1BC/BDEEDIJDPKDTBDtBDxBD7BEEBELEEPEEZEEiJEpKEtKE3JFCEFJBFMBFWBFgSFnSFrSF1SF/SGHRGKRGURGeJGmKGpKGzEG+JHEKHIKHSKHcSHkSHnSHxSH8BIDEIGEIREIbJIhKIlKIuKI5JJAEJEEJOEJYBJfBJiBJsBJ2EJ+CKBCKLEKWCKgBKmBKqBKwBKzBK9
-```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
-
-{% code-tabs %}
 {% code-tabs-item title="Sweet Dreams: u/Buff00n" %}
 ```text
 6BAABADSAHSALhAPhATSAXSAaMAfMAjMAnSArKAvKAzKA3SA7BA/BBDSBHSBLhBPhBTSBXSBaMBfMBjMBnSBrKBvKBzKB3SB6BB+BCCSCHSCLhCPhCSSCXSCbMCfMCjMCnSCrKCvKCzKC3SC6BC/BDDSDHSDKhDPhDTSDXSDbMDfMDjMDnSDrKDvKDzKD3SD7BD/hEHhEPSEXhEfhEjhErUEwhE/hFDSFHhFMhFXSFbhFfiFnhFvUF0BF/
-```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
-
-{% code-tabs %}
-{% code-tabs-item title="Rasputin: u/DNexus" %}
-```text
-6BAAKAIKARKAcMAgRAmMAoKAsKAwBA3CA4EA8JBBJBJJBRCBZEBdKBhKBlJBmEBpCBuBByBB+BCCKCKKCSKCeMCiRCoMCrKCvKCzBC6CC7EC/JDEJDLJDUCDcEDgKDkKDoJDqEDtCDxBD2BEGCETEEXJEfKEnMErKEwJE0EE5BFBCFJCFRCFVBFeBFiBFmCFqBGMCGYEGcJGkKGsMGwKG0JG5EG9BHGCHOJHWEHeCHnBHv
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
@@ -71,17 +55,17 @@ Daha sonra oyuncuların kendi müziklerini çalmalarını sağlayan bir Orbiter 
 {% endcode-tabs %}
 
 {% code-tabs %}
-{% code-tabs-item title="“Morrowind Theme” - Elder Scrolls: u/Drydner" %}
+{% code-tabs-item title="“They’re Taking the Hobbits to Isengard!” - The Lord of the Rings: The Two Towers: u/xStealth545" %}
 ```text
-6BAACAFEAJEAbJAhKAmKA3RA8JBCKBQJBTEBWCBcBBiBB2CB7ECBECVJCaKCgKCxRC3SC8RDOUDWSDZSDqUDzhD3UECSEOREaMElKEwJE7EFQKFWJFcKFrJFtEFxCF4BF+
+5BAACAFEAHKAOEAVCAcBAjEA1KA6MA8SBDRBKKBREBYJBiEBkCBmBBtCByEB0KB7ECCCCEBCKCCPBCRECjKCoMCqMCxMC4KC/EDBKDDEDFCDHEDJCDLBDN
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
 {% code-tabs %}
-{% code-tabs-item title="“Duel of the Fates” - Star Wars: Episode 1 - The Phantom Menace: u/daerogami" %}
+{% code-tabs-item title="“He’s A Pirate” - Pirates of the Caribbean: u/bassooncam" %}
 ```text
-6qAAqAHsAfpAnqBGqBNsBlpBtJB/KCEECICCLBCNJCSKCXECcCCeBChJCmKCrECwCCzBC1JC6KDAEDFCDIBDK
+6BAAEACJAGJAMJASKAVMAYMAeMAkRAnKAqKAwJA2EA5EA8JA/BBIEBLJBOJBVJBaKBeMBhMBnMBtRBxKB0KB6JCAECDJCHBCTECWJCZJCfJClMCoRCsRCyRC4SC7UC+UDESDKRDOSDRJDUJDdKDgMDkMDqRDwSD2JD5JECMEFKEJKESMEWJEaKEdJEpEEsJEw
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
