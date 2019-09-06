@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Hakkında](README.md)
-* [Yenilikler](yenilikler.md)
+* [Yenilikler](yenilikler/README.md)
+  * [Art](yenilikler/art.md)
 
 ## Genel
 
