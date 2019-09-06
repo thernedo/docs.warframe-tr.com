@@ -31,7 +31,7 @@ Sonbahar ayında gelmesi planlanıyor.
 
 Yeni warframe **Grendel**
 
-![](../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lniwfg3akmmqe1ibbal_-lniwxifihqi6yv7dq7z_concept-art-futur-warframe-ima.jpg)
+![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lniwfg3akmmqe1ibbal_-lniwxifihqi6yv7dq7z_concept-art-futur-warframe-ima.jpg)
 
 ### Sentinel
 
@@ -51,17 +51,17 @@ Sentinel temalı fayans işlemesi
 
 Yeni deluxe derileri
 
-![](../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmz0qh8nd99syxj5pa_image.png)
+![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmz0qh8nd99syxj5pa_image.png)
 
-![](../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmzbguxcatytpnpggx_image.png)
+![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmzbguxcatytpnpggx_image.png)
 
-![](../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmncuuupph177e2kvn2_-lmnd49warqwjata2yqm_image.png)
+![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmncuuupph177e2kvn2_-lmnd49warqwjata2yqm_image.png)
 
 ### MR
 
 Yeni Ustalık Rütbe Rozetleri
 
-![](../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmzo7uqhe9ws45vs15_image.png)
+![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmzo7uqhe9ws45vs15_image.png)
 
 ### Echoes of Umbra
 
