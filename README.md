@@ -1,4 +1,4 @@
-# Hakkında
+# Doküman
 
-Warframe - Türkçe Doküman Sayfası
+Warframe - Türkçe Doküman
 

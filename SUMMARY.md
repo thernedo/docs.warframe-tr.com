@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Hakkında](README.md)
+* [Doküman](README.md)
 * [Yenilikler](yenilikler/README.md)
   * [Art](yenilikler/art.md)
 
