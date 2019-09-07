@@ -13,6 +13,8 @@
     * [Temsilci](genel/etkinlik/nightwave/temsilci.md)
     * [Wolf of Saturn Six](genel/etkinlik/nightwave/wolf-of-saturn-six.md)
 * [Mekanik](genel/mekanik/README.md)
+  * [Exilus Adapter](genel/mekanik/exilus-adapter.md)
+  * [Orokin Dukat](genel/mekanik/orokin-dukat.md)
   * [Questler](genel/mekanik/questler.md)
   * [Tarama Hedefleri](genel/mekanik/tarama-hedefleri.md)
   * [Arcane](genel/mekanik/arcane.md)
@@ -29,4 +31,5 @@
   * [Ayatan Hazinesi](genel/mekanik/ayatan-hazinesi.md)
   * [Yuvalar](genel/mekanik/yuvalar.md)
   * [Shawzin](genel/mekanik/shawzin.md)
+* [S.S.S.](genel/s.s.s..md)
 
