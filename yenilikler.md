@@ -31,8 +31,6 @@ Sonbahar ayında gelmesi planlanıyor.
 
 Yeni warframe **Grendel**
 
-\*\*\*\*
-
 ![](https://lh3.googleusercontent.com/OeAOSnlWSD-oSHQE0sEmkFf5oeWcYm1ukgIQVqgEVU2q4N7QRX77OugxdOQyClF_0Cd2AFtqfIZv-FdMbfo=w1753-h887-rw-no)
 
 ### Sentinel
@@ -62,8 +60,6 @@ Yeni deluxe derileri
 ![](https://lh3.googleusercontent.com/UgmKIZ4RoFoSkHB6gMkHSOCqnazIKJKygxUl18DQlpvFY0ZxJiFTUhJkbcC1SirBTf4B6z46vdg5wHBaLCc=w1509-h969-rw-no)
 
 ![](https://lh3.googleusercontent.com/fvvS8VsniCulFGXM5hjlu9DxEylnfzUF7RoQW5ipWHUv1sRyQGGDWumkXKmufB8rEB8z-ck4arzwRr48c0g=w1723-h969-rw-no)
-
-
 
 ### MR
 
