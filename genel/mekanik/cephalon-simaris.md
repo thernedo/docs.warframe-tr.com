@@ -2,7 +2,7 @@
 
 Güneş Sistemi genelinde Tenno Relay’larının bünyesinde bulunan Cephalon yapısıdır. Cephalon Simaris’in gelişmiş sentez tarayıcısı kullanılarak Kodeks’e özgü hedefleri tarayarak yeni bilgiler ve Sendika ödülleri elde edilir.
 
-![](../../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lhznolo0rpkxafjwfkp_-lhzo7s4zz7oxmsi7laq_1.webp)
+![](https://lh3.googleusercontent.com/V35YZz_wIa9L3WigWUjRmDR5vmY2Zpe4y3dsm6fJ351wNDy4h70YiIebERt0kZ6BDoLHa8B65clD0wmKDNk=w1878-h969-rw-no)
 
 {% tabs %}
 {% tab title="Bilgi" %}

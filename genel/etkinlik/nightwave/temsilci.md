@@ -1,6 +1,6 @@
 # Temsilci
 
-![](../../../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmrst1orqcdindsuoms_-lmrsub5zhoore5qnnx7_image.png)
+![](https://lh3.googleusercontent.com/6MgjfwULQiYHtUZen2mPjToMtLcjcE5kBihVSx-kCGipXLaKhWR6UcQ1khkzknUAaBkZqmLZ43wV_YF5hY8=w1850-h628-rw-no)
 
 ## Outbreak <a id="outbreak"></a>
 

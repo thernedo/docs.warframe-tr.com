@@ -2,7 +2,7 @@
 
 Oyun içerisinde birtakım özellikleri kullanabilmenizi sağlayan geliştirilebilir ögelerdir.
 
-![](../../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lhzivu81kmgiulz81jg_-lhziiud-h9fwx2ojkja_arcane.webp)
+![](https://lh3.googleusercontent.com/EbBZNaYXsWNowi7rz2eU4pfrKtaMUEBxpnQCtSSlWmNe9v0UvK7ChKzHH3EMVUgw4mxcFKvvB0bh5owCIns=w1674-h900-rw-no)
 
 ## Notlar  <a id="notlar"></a>
 

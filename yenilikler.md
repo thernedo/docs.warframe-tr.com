@@ -69,7 +69,7 @@ Yeni deluxe derileri
 
 Yeni Ustalık Rütbe Rozetleri
 
-![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmzo7uqhe9ws45vs15_image.png)
+![](https://lh3.googleusercontent.com/UmmDJjkmFzBl0AZ0QxehDAN_Pf52rzQVv-PJX1n_6anmxZ1NQx0irqiP4mKjZEnmQQXO5iRRXJRQGUAeMT8=w1920-h428-rw-no)
 
 ### Echoes of Umbra
 
