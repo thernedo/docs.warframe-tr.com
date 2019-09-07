@@ -51,13 +51,13 @@ Sentinel temalı fayans işlemesi
 
 #### Dax Duviri
 
-![https://www.artstation.com/artwork/w8KzP6](.gitbook/assets/9e9a604ac04b060fad079e47a91e2037.jpg)
+![](https://lh3.googleusercontent.com/o5gcYy0HeOt1Yg4eeW5LYAY_DueYblggcqVUIbQM94q9p8FfSS9p8kArYycRictLd9GBapncWtaOTjnVHFo=w1723-h969-rw-no)
 
 ### Deluxe
 
 Yeni deluxe derileri
 
-![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmz0qh8nd99syxj5pa_image.png)
+![](https://lh3.googleusercontent.com/xnGRFzOtP38jgu7Oz_UrivrVhxBTW6gaUBogJsQL9hcXuHshgJ-Gg1E_uXxuWk1emn0TYamwQqpJkyX-cCE=w1842-h969-rw-no)
 
 ![](https://lh3.googleusercontent.com/UgmKIZ4RoFoSkHB6gMkHSOCqnazIKJKygxUl18DQlpvFY0ZxJiFTUhJkbcC1SirBTf4B6z46vdg5wHBaLCc=w1509-h969-rw-no)
 
