@@ -31,7 +31,9 @@ Sonbahar ayında gelmesi planlanıyor.
 
 Yeni warframe **Grendel**
 
-![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lniwfg3akmmqe1ibbal_-lniwxifihqi6yv7dq7z_concept-art-futur-warframe-ima.jpg)
+\*\*\*\*
+
+![](https://lh3.googleusercontent.com/OeAOSnlWSD-oSHQE0sEmkFf5oeWcYm1ukgIQVqgEVU2q4N7QRX77OugxdOQyClF_0Cd2AFtqfIZv-FdMbfo=w1753-h887-rw-no)
 
 ### Sentinel
 
@@ -57,9 +59,11 @@ Yeni deluxe derileri
 
 ![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmz0qh8nd99syxj5pa_image.png)
 
-![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmzbguxcatytpnpggx_image.png)
+![](https://lh3.googleusercontent.com/UgmKIZ4RoFoSkHB6gMkHSOCqnazIKJKygxUl18DQlpvFY0ZxJiFTUhJkbcC1SirBTf4B6z46vdg5wHBaLCc=w1509-h969-rw-no)
 
-![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmncuuupph177e2kvn2_-lmnd49warqwjata2yqm_image.png)
+![](https://lh3.googleusercontent.com/fvvS8VsniCulFGXM5hjlu9DxEylnfzUF7RoQW5ipWHUv1sRyQGGDWumkXKmufB8rEB8z-ck4arzwRr48c0g=w1723-h969-rw-no)
+
+
 
 ### MR
 
