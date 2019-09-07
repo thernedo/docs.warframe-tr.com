@@ -1,17 +1,16 @@
 # Table of contents
 
 * [Doküman](README.md)
-* [Yenilikler](yenilikler/README.md)
-  * [Art](yenilikler/art.md)
+* [Yenilikler](yenilikler.md)
 
 ## Genel
 
 * [Etkinlik](genel/etkinlik/README.md)
-  * [Pyrus Projesi](genel/etkinlik/pyrus-projesi.md)
-  * [Revenant'ın Maskesi](genel/etkinlik/revenantin-maskesi.md)
   * [Nightwave](genel/etkinlik/nightwave/README.md)
     * [Temsilci](genel/etkinlik/nightwave/temsilci.md)
     * [Wolf of Saturn Six](genel/etkinlik/nightwave/wolf-of-saturn-six.md)
+  * [Pyrus Projesi](genel/etkinlik/pyrus-projesi.md)
+  * [Revenant'ın Maskesi](genel/etkinlik/revenantin-maskesi.md)
 * [Mekanik](genel/mekanik/README.md)
   * [Exilus Adapter](genel/mekanik/exilus-adapter.md)
   * [Orokin Dukat](genel/mekanik/orokin-dukat.md)
