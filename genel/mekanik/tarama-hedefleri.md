@@ -18,6 +18,10 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">Arid Eviscerator</td>
+      <td style="text-align:left"><b>Mars</b> - Ara</td>
+    </tr>
+    <tr>
       <td style="text-align:left">Brood Mother</td>
       <td style="text-align:left">
         <p><b>Ceres</b> - Gabii</p>
