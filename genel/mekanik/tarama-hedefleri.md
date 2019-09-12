@@ -61,7 +61,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Corrupted Ancient</td>
-      <td style="text-align:left">Void - Hepit, Stribog, Ani</td>
+      <td style="text-align:left"><b>Void</b> - Hepit, Stribog, Ani</td>
     </tr>
     <tr>
       <td style="text-align:left">Corrupted Butcher</td>
