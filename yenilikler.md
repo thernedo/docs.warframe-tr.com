@@ -27,6 +27,10 @@ Sonbahar ayında gelmesi planlanıyor.
 
 ## ∞ - Yakında
 
+### TennoGen 17
+
+{% embed url="https://streamable.com/igacw" %}
+
 ### **Grendel**
 
 Yeni warframe **Grendel**
