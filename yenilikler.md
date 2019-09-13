@@ -77,9 +77,5 @@ Yeni Ustalık Rütbe Rozetleri
 Spoiler!
 {% endhint %}
 
-{% embed url="https://streamable.com/5buwq" %}
-
-> We're going to hold this back to act on weekend feedback and more - 2 days isn't enough time to inject all the changes we want to add, so we will release this at a later date in a different form. The reward will likely be replaced with a new 'Lua Lens' for earning Focus - details to come!
->
-> [https://forums.warframe.com/topic/1122422-echoes-of-umbra-feedback/page/10/?tab=comments\#comment-10991646](https://forums.warframe.com/topic/1122422-echoes-of-umbra-feedback/page/10/?tab=comments#comment-10991646)
+{% embed url="https://streamable.com/5buwq" caption="https://forums.warframe.com/topic/1122422-echoes-of-umbra-feedback/page/10/?tab=comments\#comment-10991646" %}
 
