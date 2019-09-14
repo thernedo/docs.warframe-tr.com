@@ -2,6 +2,7 @@
 
 * [Doküman](README.md)
 * [Yenilikler](yenilikler.md)
+* [Haberler](haberler.md)
 
 ## Genel
 
