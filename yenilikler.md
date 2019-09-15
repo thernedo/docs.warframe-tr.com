@@ -15,6 +15,8 @@ Sonbahar ayında gelmesi planlanıyor.
 * Warframe & Silah modlamasına aşina olduğunuz sistem yerine aktif olan modüller ile birlikte görev esnasında seviyeye göre etkinleştirilebilen ve devre dışı bırakılabilen güç ayarlamaları yapılabilecek
 * Görev durumuna bağlı olarak modüller arasında güç ayarlaması, bunu yapmak içinde herhangi bir yerden sistem ekranına erişebilinecek.
 
+{% embed url="https://streamable.com/zqcsf" %}
+
 {% embed url="https://www.youtube.com/watch?v=wEgRfCef3Q4" caption="Uzun versiyon" %}
 
 ## 2019 - Aralık
@@ -26,6 +28,10 @@ Sonbahar ayında gelmesi planlanıyor.
 {% embed url="https://www.youtube.com/watch?v=7ZW4cfsB6Pw" %}
 
 ## ∞ - Yakında
+
+### Atlas Prime + Dethcube Prime
+
+{% embed url="https://streamable.com/3aag7" %}
 
 ### TennoGen 17
 
@@ -60,6 +66,8 @@ Sentinel temalı fayans işlemesi
 Yeni deluxe derileri
 
 ![](https://lh3.googleusercontent.com/xnGRFzOtP38jgu7Oz_UrivrVhxBTW6gaUBogJsQL9hcXuHshgJ-Gg1E_uXxuWk1emn0TYamwQqpJkyX-cCE=w1842-h969-rw-no)
+
+{% embed url="https://streamable.com/qdyy7" %}
 
 ![](https://lh3.googleusercontent.com/UgmKIZ4RoFoSkHB6gMkHSOCqnazIKJKygxUl18DQlpvFY0ZxJiFTUhJkbcC1SirBTf4B6z46vdg5wHBaLCc=w1509-h969-rw-no)
 
