@@ -5,6 +5,7 @@
 
 ## Genel
 
+* [Haberler](genel/haberler.md)
 * [Etkinlik](genel/etkinlik/README.md)
   * [Nightwave](genel/etkinlik/nightwave/README.md)
     * [Temsilci](genel/etkinlik/nightwave/temsilci.md)
