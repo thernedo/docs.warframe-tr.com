@@ -1,5 +1,15 @@
 # Yenilikler
 
+## 2019 - 1 Ekim
+
+### Atlas Prime Access
+
+> [Atlas Prime Access 1 Ekim'de Başlıyor!](https://forums.warframe.com/topic/1130329-atlas-prime-access-coming-soon/)
+
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/98df2f886efd1e479c87649a65cbdfe1.jpg)
+
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/d8ee5b9c47253472b76aa36a336ece16.jpg)
+
 ## 2019 - Sonbahar
 
 ### Empyrean
@@ -28,10 +38,6 @@ Sonbahar ayında gelmesi planlanıyor.
 {% embed url="https://www.youtube.com/watch?v=7ZW4cfsB6Pw" %}
 
 ## ∞ - Yakında
-
-### Atlas Prime + Dethcube Prime
-
-{% embed url="https://streamable.com/3aag7" %}
 
 ### TennoGen 17
 
