@@ -8,7 +8,7 @@
 
 ![](https://n9e5v4d8.ssl.hwcdn.net/uploads/98df2f886efd1e479c87649a65cbdfe1.jpg)
 
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/d8ee5b9c47253472b76aa36a336ece16.jpg)
+{% embed url="https://streamable.com/zfg85" %}
 
 ## 2019 - Sonbahar
 
