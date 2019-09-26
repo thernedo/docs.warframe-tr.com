@@ -1,6 +1,12 @@
 # Yenilikler
 
-## 2019 - 1 Ekim
+## 2019 / 26-27 Eylül
+
+### TennoGen 17
+
+{% embed url="https://streamable.com/igacw" %}
+
+## 2019 / 1 Ekim
 
 ### Atlas Prime Access
 
@@ -12,7 +18,7 @@
 
 ![](https://pbs.twimg.com/media/EFQjxohXkAE1U0f?format=jpg&name=large)
 
-## 2019 - Sonbahar
+## 2019 / Sonbahar
 
 ### Empyrean
 
@@ -31,7 +37,7 @@ Sonbahar ayında gelmesi planlanıyor.
 
 {% embed url="https://www.youtube.com/watch?v=wEgRfCef3Q4" caption="Uzun versiyon" %}
 
-## 2019 - Aralık
+## 2019 / Aralık
 
 ### The New War
 
@@ -39,11 +45,7 @@ Sonbahar ayında gelmesi planlanıyor.
 
 {% embed url="https://www.youtube.com/watch?v=7ZW4cfsB6Pw" %}
 
-## ∞ - Yakında
-
-### TennoGen 17
-
-{% embed url="https://streamable.com/igacw" %}
+## ∞ / Yakında
 
 ### **Grendel**
 
