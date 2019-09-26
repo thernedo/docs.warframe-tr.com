@@ -1,11 +1,5 @@
 # Yenilikler
 
-## 2019 / 26-27 Eylül
-
-### TennoGen 17
-
-{% embed url="https://streamable.com/igacw" %}
-
 ## 2019 / 1 Ekim
 
 ### Atlas Prime Access
