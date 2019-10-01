@@ -1,17 +1,5 @@
 # Yenilikler
 
-## 2019 / 1 Ekim
-
-### Atlas Prime Access
-
-> [Atlas Prime Access 1 Ekim'de Başlıyor!](https://forums.warframe.com/topic/1130329-atlas-prime-access-coming-soon/)
-
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/98df2f886efd1e479c87649a65cbdfe1.jpg)
-
-{% embed url="https://www.youtube.com/watch?v=IUdYlchxb1E" %}
-
-![](https://pbs.twimg.com/media/EFQjxohXkAE1U0f?format=jpg&name=large)
-
 ## 2019 / Sonbahar
 
 ### Empyrean
