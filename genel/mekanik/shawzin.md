@@ -7,9 +7,25 @@ Daha sonra oyuncuların kendi müziklerini çalmalarını sağlayan bir Orbiter 
 ## Örnekler
 
 {% code-tabs %}
+{% code-tabs-item title="“Hedwig’s Theme” - Harry Potter: u/Empyrrhus" %}
+```text
+3UAACAKKAZJAeCAoUA8RBGJBkCCCKCRJCWBCgEC0UC+UDvCD5KEJJEOCEYUEskE2iFKhFUMFohFyUGBSGGSGQKGkCGuKHgUHqKH+UIIKIchImUI6SJEJJYKJiUJxSJ2SKAUKUUKeKLPULZKLtUL3KMLkMViMphMzMNHhNRUNhSNlSNvKODCOO
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+{% code-tabs %}
 {% code-tabs-item title="“Song of Storms” - Legend of Zelda: Ocarina of Time: u/werewodo" %}
 ```text
 6BAAEADSAIBAWEAaSAdUAuhA5UA9hBBUBFSBJKBNKBdBBkEBsJBwKB0KCFBCMECTJCXCCbBCtECxSC0BDCEDGSDJUDZhDjUDnhDrUDvSDzKD3KEHBEPEEXJEcKEgKExBE6
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+{% code-tabs %}
+{% code-tabs-item title="“Bonetrousle” - Undertale: u/Empyrrhus" %}
+```text
+3JADiAGJAJRAMJATEAZJAcMAgJAmiApRAsJAwMAzRA2hA5iBARBDJBGBBJEBMJBPMBTJBZJBpiBsJBvRBziB5BB6CB7BB/iCDBCGCCMiCPRCTJCWECZJCcMCfRCmJCpiCsRCvECzBC2EC5BC6FC7EC8JC/
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
@@ -34,14 +50,6 @@ Daha sonra oyuncuların kendi müziklerini çalmalarını sağlayan bir Orbiter 
 {% code-tabs-item title="“Concerning Hobbits” - The Fellowship of the Ring: u/WhynautTV" %}
 ```text
 5BAACAIZAQKAgcAvCBHxBPZBsBCHECPKCWxCeSCuRC8KDTZDapD5BEICEQZEXKEmcE1CFOZFXBGAEGHKGPxGXMG/KHHEHZpHiBIBCIPxIepI5ZJV
-```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
-
-{% code-tabs %}
-{% code-tabs-item title="Sweet Dreams: u/Buff00n" %}
-```text
-6BAABADSAHSALhAPhATSAXSAaMAfMAjMAnSArKAvKAzKA3SA7BA/BBDSBHSBLhBPhBTSBXSBaMBfMBjMBnSBrKBvKBzKB3SB6BB+BCCSCHSCLhCPhCSSCXSCbMCfMCjMCnSCrKCvKCzKC3SC6BC/BDDSDHSDKhDPhDTSDXSDbMDfMDjMDnSDrKDvKDzKD3SD7BD/hEHhEPSEXhEfhEjhErUEwhE/hFDSFHhFMhFXSFbhFfiFnhFvUF0BF/
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
