@@ -22,7 +22,7 @@ Birincil ve ikincil silahlar için Exilus yuvası, yani yardımcı Modlarınız�
 
 Üç ek satın alınabilir yükseltme ve Görünüm yapılandırması, yani Warframe başına toplam 6'a kadar genişletebilirsiniz.
 
-### Vauban ve Ember Reworks
+### Vauban & Ember Reworks
 
 > [https://forums.warframe.com/topic/1132197-vauban-ember-dev-workshop/](https://forums.warframe.com/topic/1132197-vauban-ember-dev-workshop/)
 
@@ -32,13 +32,13 @@ Birincil ve ikincil silahlar için Exilus yuvası, yani yardımcı Modlarınız�
 
 ### Halloween
 
-Cadılar bayramı etkinlik yaklaşıyor. Etkinlik boyunca kazanılacak ödüllerin yanı sıra warframe görünümüne görsellik katabileceğiniz yarasa ephemera alınabilecek.
+Cadılar bayramı etkinlik yaklaşıyor. Etkinlik boyunca kazanılacak ödüllerin yanı sıra warframe görünümüne görsellik katabileceğiniz **yarasa ephemera** alınabilecek.
 
 ### Bat Ephemera
 
 {% embed url="https://clips.twitch.tv/ChillyLivelyJaguarDeIlluminati" %}
 
-###  **Vampire Kavat**
+### **Vampire Kavat**
 
 Eidolon Ovasında yeni bir vahşi yaşam türü olan vampir kavat yalnızca geceleri doğacak ve koruma eko sisteminin bir parçası olacak. Aynı zamanda kendi Vampir Kavat'ınızı da alabileceksiniz.
 
