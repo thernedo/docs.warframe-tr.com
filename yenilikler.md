@@ -1,10 +1,58 @@
 # Yenilikler
 
+## 2019 / Ekim
+
+{% hint style="info" %}
+Anahat Güncellemesi
+{% endhint %}
+
+### **Grendel** <a id="grendel"></a>
+
+Yeni warframe **Grendel**
+
+![](https://lh3.googleusercontent.com/OeAOSnlWSD-oSHQE0sEmkFf5oeWcYm1ukgIQVqgEVU2q4N7QRX77OugxdOQyClF_0Cd2AFtqfIZv-FdMbfo=w1753-h887-rw-no)
+
+{% embed url="https://clips.twitch.tv/ColorfulEnergeticPastaDoubleRainbow" caption="Syandana & Yakın Dövüş Silahı" %}
+
+Birincil ve ikincil silahlar için Exilus yuvası, yani yardımcı Modlarınızı donatmak için ekstra bir alana sahip olacaksınız. Melee 3.0 aktif olana kadar bu silahları alamayacak.
+
+{% embed url="https://www.twitch.tv/warframe/clip/ObservantTallQueleaYee" %}
+
+### Yapılandırmalar
+
+Üç ek satın alınabilir yükseltme ve Görünüm yapılandırması, yani Warframe başına toplam 6'a kadar genişletebilirsiniz.
+
+### Vauban ve Ember Reworks
+
+> [https://forums.warframe.com/topic/1132197-vauban-ember-dev-workshop/](https://forums.warframe.com/topic/1132197-vauban-ember-dev-workshop/)
+
+### Titania Deluxe
+
+{% embed url="https://www.twitch.tv/warframe/clip/StupidInexpensiveParrotTheTarFu?filter=clips&range=7d&sort=time" %}
+
+### Halloween
+
+Cadılar bayramı etkinlik yaklaşıyor. Etkinlik boyunca kazanılacak ödüllerin yanı sıra warframe görünümüne görsellik katabileceğiniz yarasa ephemera alınabilecek.
+
+### Bat Ephemera
+
+{% embed url="https://clips.twitch.tv/ChillyLivelyJaguarDeIlluminati" %}
+
+###  **Vampire Kavat**
+
+Eidolon Ovasında yeni bir vahşi yaşam türü olan vampir kavat yalnızca geceleri doğacak ve koruma eko sisteminin bir parçası olacak. Aynı zamanda kendi Vampir Kavat'ınızı da alabileceksiniz.
+
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/14fef24223106c5170a9c9ffe1600b25.jpg)
+
 ## 2019 / Sonbahar
 
 ### Empyrean
 
 Sonbahar ayında gelmesi planlanıyor.
+
+> Empyrean güncellemesi üç aşamada gerçekleştirilecek
+
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/910f743102c36726495549eae1789ccd.jpg)
 
 #### Railjack Hakkında Bilgiler
 
@@ -14,8 +62,6 @@ Sonbahar ayında gelmesi planlanıyor.
 * Ekip harici Railjack'inizde size katılabilecek mürettebat üyelerini kullanabileceksiniz
 * Warframe & Silah modlamasına aşina olduğunuz sistem yerine aktif olan modüller ile birlikte görev esnasında seviyeye göre etkinleştirilebilen ve devre dışı bırakılabilen güç ayarlamaları yapılabilecek
 * Görev durumuna bağlı olarak modüller arasında güç ayarlaması, bunu yapmak içinde herhangi bir yerden sistem ekranına erişebilinecek.
-
-{% embed url="https://streamable.com/zqcsf" %}
 
 {% embed url="https://www.youtube.com/watch?v=wEgRfCef3Q4" caption="Uzun versiyon" %}
 
@@ -28,12 +74,6 @@ Sonbahar ayında gelmesi planlanıyor.
 {% embed url="https://www.youtube.com/watch?v=7ZW4cfsB6Pw" %}
 
 ## ∞ / Yakında
-
-### **Grendel**
-
-Yeni warframe **Grendel**
-
-![](https://lh3.googleusercontent.com/OeAOSnlWSD-oSHQE0sEmkFf5oeWcYm1ukgIQVqgEVU2q4N7QRX77OugxdOQyClF_0Cd2AFtqfIZv-FdMbfo=w1753-h887-rw-no)
 
 ### Sentinel
 
@@ -79,5 +119,11 @@ Spoiler!
 
 {% embed url="https://streamable.com/5buwq" caption="https://forums.warframe.com/topic/1122422-echoes-of-umbra-feedback/page/10/?tab=comments\#comment-10991646" %}
 
+### Kuva Lich
 
+Prosedürel bir düşmanın sizin için ortaya çıktığı ve bir Warframe'den ilişkili yetenek güclerinin yer alacağı bir sistemdir. Her Lich'in kendi doğuştan gelen bonusları ile kendine özgü silahları vardır. Nesillerinde, benzersiz oyun anlarıyla birlikte gelen tuhaf bir özellikle de gelebilirler. 
+
+{% embed url="https://www.twitch.tv/warframe/clip/BashfulIcyEelPhilosoraptor" %}
+
+Sol sistemdeki Kuva Lich etkisi. Takipçilerinin yıldız tablosunda işaretleneceği düğümler yer alıyor. Bu etkiyi azaltmak için bu takipçileri öldür.
 
