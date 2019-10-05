@@ -30,6 +30,10 @@ Birincil ve ikincil silahlar için Exilus yuvası, yani yardımcı Modlarınız�
 
 > [https://forums.warframe.com/topic/1132197-vauban-ember-dev-workshop/](https://forums.warframe.com/topic/1132197-vauban-ember-dev-workshop/)
 
+{% embed url="https://www.facebook.com/PlayWarframe/videos/1111318845924961/?v=1111318845924961" %}
+
+{% embed url="https://www.facebook.com/PlayWarframe/videos/2320732961512664/?v=2320732961512664" %}
+
 ### Titania Deluxe
 
 {% embed url="https://www.twitch.tv/warframe/clip/StupidInexpensiveParrotTheTarFu?filter=clips&range=7d&sort=time" %}
@@ -125,9 +129,9 @@ Spoiler!
 
 ### Kuva Lich
 
-Prosedürel bir düşmanın sizin için ortaya çıktığı ve bir Warframe'den ilişkili yetenek güclerinin yer alacağı bir sistemdir. Her Lich'in kendi doğuştan gelen bonusları ile kendine özgü silahları vardır. Nesillerinde, benzersiz oyun anlarıyla birlikte gelen tuhaf bir özellikle de gelebilirler. 
+Prosedürel bir düşmanın sizin için ortaya çıktığı ve bir Warframe'den ilişkili yetenek güclerinin yer alacağı bir sistemdir. Her Lich'in kendi doğuştan gelen bonusları ile kendine özgü silahları vardır. Nesillerinde, benzersiz oyun anlarıyla birlikte gelen tuhaf bir özellikle de gelebilirler.
 
-{% embed url="https://www.twitch.tv/warframe/clip/BashfulIcyEelPhilosoraptor" %}
+{% embed url="https://www.facebook.com/PlayWarframe/videos/741524012962398/?v=741524012962398" %}
 
 Sol sistemdeki Kuva Lich etkisi. Takipçilerinin yıldız tablosunda işaretleneceği düğümler yer alıyor. Bu etkiyi azaltmak için bu takipçileri öldür.
 
