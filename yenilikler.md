@@ -1,3 +1,7 @@
+---
+description: Gelecek yenilikler hakkında kısa bilgiler
+---
+
 # Yenilikler
 
 ## 2019 / Ekim
