@@ -16,11 +16,11 @@ Yeni warframe **Grendel**
 
 ![](https://lh3.googleusercontent.com/OeAOSnlWSD-oSHQE0sEmkFf5oeWcYm1ukgIQVqgEVU2q4N7QRX77OugxdOQyClF_0Cd2AFtqfIZv-FdMbfo=w1753-h887-rw-no)
 
-{% embed url="https://clips.twitch.tv/ColorfulEnergeticPastaDoubleRainbow" caption="Syandana & Yakın Dövüş Silahı" %}
+{% embed url="https://streamable.com/5m94y" %}
 
 Birincil ve ikincil silahlar için Exilus yuvası, yani yardımcı Modlarınızı donatmak için ekstra bir alana sahip olacaksınız. Melee 3.0 aktif olana kadar bu silahları alamayacak.
 
-{% embed url="https://www.twitch.tv/warframe/clip/ObservantTallQueleaYee" %}
+{% embed url="https://streamable.com/6jexy" %}
 
 ### Yapılandırmalar
 
@@ -30,13 +30,13 @@ Birincil ve ikincil silahlar için Exilus yuvası, yani yardımcı Modlarınız�
 
 > [https://forums.warframe.com/topic/1132197-vauban-ember-dev-workshop/](https://forums.warframe.com/topic/1132197-vauban-ember-dev-workshop/)
 
-{% embed url="https://www.facebook.com/PlayWarframe/videos/1111318845924961/?v=1111318845924961" %}
+{% embed url="https://streamable.com/bl4as" %}
 
-{% embed url="https://www.facebook.com/PlayWarframe/videos/2320732961512664/?v=2320732961512664" %}
+{% embed url="https://streamable.com/3ntdy" %}
 
 ### Titania Deluxe
 
-{% embed url="https://www.twitch.tv/warframe/clip/StupidInexpensiveParrotTheTarFu?filter=clips&range=7d&sort=time" %}
+{% embed url="https://streamable.com/3kixk" %}
 
 ### Halloween
 
@@ -44,7 +44,7 @@ Cadılar bayramı etkinlik yaklaşıyor. Etkinlik boyunca kazanılacak ödüller
 
 ### Bat Ephemera
 
-{% embed url="https://clips.twitch.tv/ChillyLivelyJaguarDeIlluminati" %}
+{% embed url="https://streamable.com/pl210" %}
 
 ### **Vampire Kavat**
 
@@ -87,9 +87,9 @@ Sonbahar ayında gelmesi planlanıyor.
 
 Sentinel temalı fayans işlemesi
 
-{% embed url="https://clips.twitch.tv/SpeedyGrotesqueZucchiniWOOP?tt\_medium=clips\_api&tt\_content=url" caption="" %}
+{% embed url="https://streamable.com/p4cjy" %}
 
-{% embed url="https://clips.twitch.tv/TriumphantInquisitiveSushiAMPEnergy?tt\_medium=clips\_api&tt\_content=url" %}
+{% embed url="https://streamable.com/x4z8t" %}
 
 ### Duviri Paradoks
 
@@ -106,8 +106,6 @@ Sentinel temalı fayans işlemesi
 Yeni deluxe derileri
 
 ![](https://lh3.googleusercontent.com/xnGRFzOtP38jgu7Oz_UrivrVhxBTW6gaUBogJsQL9hcXuHshgJ-Gg1E_uXxuWk1emn0TYamwQqpJkyX-cCE=w1842-h969-rw-no)
-
-{% embed url="https://streamable.com/qdyy7" %}
 
 ![](https://lh3.googleusercontent.com/UgmKIZ4RoFoSkHB6gMkHSOCqnazIKJKygxUl18DQlpvFY0ZxJiFTUhJkbcC1SirBTf4B6z46vdg5wHBaLCc=w1509-h969-rw-no)
 
@@ -131,7 +129,7 @@ Spoiler!
 
 Prosedürel bir düşmanın sizin için ortaya çıktığı ve bir Warframe'den ilişkili yetenek güclerinin yer alacağı bir sistemdir. Her Lich'in kendi doğuştan gelen bonusları ile kendine özgü silahları vardır. Nesillerinde, benzersiz oyun anlarıyla birlikte gelen tuhaf bir özellikle de gelebilirler.
 
-{% embed url="https://www.facebook.com/PlayWarframe/videos/741524012962398/?v=741524012962398" %}
+{% embed url="https://streamable.com/5ihs6" %}
 
 Sol sistemdeki Kuva Lich etkisi. Takipçilerinin yıldız tablosunda işaretleneceği düğümler yer alıyor. Bu etkiyi azaltmak için bu takipçileri öldür.
 
