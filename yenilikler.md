@@ -52,6 +52,8 @@ Eidolon Ovasında yeni bir vahşi yaşam türü olan vampir kavat yalnızca gece
 
 ![](https://n9e5v4d8.ssl.hwcdn.net/uploads/14fef24223106c5170a9c9ffe1600b25.jpg)
 
+{% embed url="https://streamable.com/ae93k" %}
+
 ## 2019 / Sonbahar
 
 ### Empyrean
