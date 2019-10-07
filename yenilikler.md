@@ -85,6 +85,22 @@ Sonbahar ayında gelmesi planlanıyor.
 
 ## ∞ / Yakında
 
+### Tile Sets
+
+Yenilenen fayans işlemeleri
+
+{% embed url="https://streamable.com/c7p6l" %}
+
+{% embed url="https://streamable.com/07nx1" %}
+
+### Kuva Lich
+
+Prosedürel bir düşmanın sizin için ortaya çıktığı ve bir Warframe'den ilişkili yetenek güclerinin yer alacağı bir sistemdir. Her Lich'in kendi doğuştan gelen bonusları ile kendine özgü silahları vardır. Nesillerinde, benzersiz oyun anlarıyla birlikte gelen tuhaf bir özellikle de gelebilirler.
+
+{% embed url="https://streamable.com/5ihs6" %}
+
+Sol sistemdeki Kuva Lich etkisi. Takipçilerinin yıldız tablosunda işaretleneceği düğümler yer alıyor. Bu etkiyi azaltmak için bu takipçileri öldür.
+
 ### Sentinel
 
 Sentinel temalı fayans işlemesi
@@ -103,6 +119,12 @@ Sentinel temalı fayans işlemesi
 
 ![](https://lh3.googleusercontent.com/o5gcYy0HeOt1Yg4eeW5LYAY_DueYblggcqVUIbQM94q9p8FfSS9p8kArYycRictLd9GBapncWtaOTjnVHFo=w1723-h969-rw-no)
 
+### MR <a id="mr"></a>
+
+Yeni Ustalık Rütbe Rozetleri
+
+![](https://lh3.googleusercontent.com/UmmDJjkmFzBl0AZ0QxehDAN_Pf52rzQVv-PJX1n_6anmxZ1NQx0irqiP4mKjZEnmQQXO5iRRXJRQGUAeMT8=w1920-h428-rw-no)
+
 ### Deluxe
 
 Yeni deluxe derileri
@@ -113,12 +135,6 @@ Yeni deluxe derileri
 
 ![](https://lh3.googleusercontent.com/fvvS8VsniCulFGXM5hjlu9DxEylnfzUF7RoQW5ipWHUv1sRyQGGDWumkXKmufB8rEB8z-ck4arzwRr48c0g=w1723-h969-rw-no)
 
-### MR
-
-Yeni Ustalık Rütbe Rozetleri
-
-![](https://lh3.googleusercontent.com/UmmDJjkmFzBl0AZ0QxehDAN_Pf52rzQVv-PJX1n_6anmxZ1NQx0irqiP4mKjZEnmQQXO5iRRXJRQGUAeMT8=w1920-h428-rw-no)
-
 ### Echoes of Umbra
 
 {% hint style="danger" %}
@@ -126,12 +142,4 @@ Spoiler!
 {% endhint %}
 
 {% embed url="https://streamable.com/5buwq" caption="https://forums.warframe.com/topic/1122422-echoes-of-umbra-feedback/page/10/?tab=comments\#comment-10991646" %}
-
-### Kuva Lich
-
-Prosedürel bir düşmanın sizin için ortaya çıktığı ve bir Warframe'den ilişkili yetenek güclerinin yer alacağı bir sistemdir. Her Lich'in kendi doğuştan gelen bonusları ile kendine özgü silahları vardır. Nesillerinde, benzersiz oyun anlarıyla birlikte gelen tuhaf bir özellikle de gelebilirler.
-
-{% embed url="https://streamable.com/5ihs6" %}
-
-Sol sistemdeki Kuva Lich etkisi. Takipçilerinin yıldız tablosunda işaretleneceği düğümler yer alıyor. Bu etkiyi azaltmak için bu takipçileri öldür.
 
