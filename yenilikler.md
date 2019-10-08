@@ -87,11 +87,15 @@ Sonbahar ayında gelmesi planlanıyor.
 
 ### Tile Sets
 
-Yenilenen fayans işlemeleri
+Yenilenen & Gelecek fayans işlemeleri
 
 {% embed url="https://streamable.com/c7p6l" %}
 
 {% embed url="https://streamable.com/07nx1" %}
+
+{% embed url="https://streamable.com/u2q1t" %}
+
+{% embed url="https://streamable.com/5x2fx" %}
 
 ### Kuva Lich
 
