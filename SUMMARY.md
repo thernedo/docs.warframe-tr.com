@@ -12,6 +12,7 @@
   * [Pyrus Projesi](genel/etkinlik/pyrus-projesi.md)
   * [Revenant'ın Maskesi](genel/etkinlik/revenantin-maskesi.md)
 * [Mekanik](genel/mekanik/README.md)
+  * [Glyph Kodları](genel/mekanik/glyph-kodlari.md)
   * [Exilus Adapter](genel/mekanik/exilus-adapter.md)
   * [Orokin Dukat](genel/mekanik/orokin-dukat.md)
   * [Questler](genel/mekanik/questler.md)
