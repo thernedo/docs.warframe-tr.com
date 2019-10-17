@@ -7,7 +7,7 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 ## 2019 / Ekim
 
 {% hint style="info" %}
-Anahat Güncellemesi
+**Update 26** / Anahat Güncellemesi
 {% endhint %}
 
 ### **Grendel** <a id="grendel"></a>
@@ -104,6 +104,10 @@ Prosedürel bir düşmanın sizin için ortaya çıktığı ve bir Warframe'den 
 {% embed url="https://streamable.com/5ihs6" %}
 
 Sol sistemdeki Kuva Lich etkisi. Takipçilerinin yıldız tablosunda işaretleneceği düğümler yer alıyor. Bu etkiyi azaltmak için bu takipçileri öldür.
+
+![](https://pbs.twimg.com/media/EHCfPAGXUAAtEcO?format=jpg&name=large)
+
+![](https://pbs.twimg.com/media/EHCd5ySWoAAKBDN?format=jpg&name=large)
 
 ### Sentinel
 
