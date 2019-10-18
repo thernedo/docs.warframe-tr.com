@@ -14,7 +14,7 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 Yeni warframe **Grendel**
 
-![](https://lh3.googleusercontent.com/OeAOSnlWSD-oSHQE0sEmkFf5oeWcYm1ukgIQVqgEVU2q4N7QRX77OugxdOQyClF_0Cd2AFtqfIZv-FdMbfo=w1753-h887-rw-no)
+![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lniwfg3akmmqe1ibbal_-lniwxifihqi6yv7dq7z_concept-art-futur-warframe-ima.webp)
 
 {% embed url="https://streamable.com/5m94y" %}
 
@@ -125,23 +125,23 @@ Sentinel temalı fayans işlemesi
 
 #### Dax Duviri
 
-![](https://lh3.googleusercontent.com/o5gcYy0HeOt1Yg4eeW5LYAY_DueYblggcqVUIbQM94q9p8FfSS9p8kArYycRictLd9GBapncWtaOTjnVHFo=w1723-h969-rw-no)
+![](.gitbook/assets/9e9a604ac04b060fad079e47a91e2037.webp)
 
 ### MR <a id="mr"></a>
 
 Yeni Ustalık Rütbe Rozetleri
 
-![](https://lh3.googleusercontent.com/UmmDJjkmFzBl0AZ0QxehDAN_Pf52rzQVv-PJX1n_6anmxZ1NQx0irqiP4mKjZEnmQQXO5iRRXJRQGUAeMT8=w1920-h428-rw-no)
+![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmzo7uqhe9ws45vs15_image.webp)
 
 ### Deluxe
 
 Yeni deluxe derileri
 
-![](https://lh3.googleusercontent.com/xnGRFzOtP38jgu7Oz_UrivrVhxBTW6gaUBogJsQL9hcXuHshgJ-Gg1E_uXxuWk1emn0TYamwQqpJkyX-cCE=w1842-h969-rw-no)
+![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmz0qh8nd99syxj5pa_image.webp)
 
-![](https://lh3.googleusercontent.com/UgmKIZ4RoFoSkHB6gMkHSOCqnazIKJKygxUl18DQlpvFY0ZxJiFTUhJkbcC1SirBTf4B6z46vdg5wHBaLCc=w1509-h969-rw-no)
+![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmzbguxcatytpnpggx_image.webp)
 
-![](https://lh3.googleusercontent.com/fvvS8VsniCulFGXM5hjlu9DxEylnfzUF7RoQW5ipWHUv1sRyQGGDWumkXKmufB8rEB8z-ck4arzwRr48c0g=w1723-h969-rw-no)
+![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmncuuupph177e2kvn2_-lmnd49warqwjata2yqm_image.webp)
 
 ### Echoes of Umbra
 
