@@ -6,6 +6,8 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 ## 2019 / Ekim
 
+
+
 {% hint style="info" %}
 **Update 26** / Anahat Güncellemesi
 {% endhint %}
