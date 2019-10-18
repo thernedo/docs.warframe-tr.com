@@ -6,17 +6,17 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 ## 2019 / Ekim
 
-
-
 {% hint style="info" %}
-**Update 26** / Anahat Güncellemesi
+**Update 26** / The Old Blood
+
+[https://www.warframe.com/tr/news/the-old-blood](https://www.warframe.com/tr/news/the-old-blood)
 {% endhint %}
 
 ### **Grendel** <a id="grendel"></a>
 
 Yeni warframe **Grendel**
 
-![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lniwfg3akmmqe1ibbal_-lniwxifihqi6yv7dq7z_concept-art-futur-warframe-ima.webp)
+{% embed url="https://www.youtube.com/watch?v=skl12MMi0Kw" %}
 
 {% embed url="https://streamable.com/5m94y" %}
 
@@ -24,9 +24,23 @@ Birincil ve ikincil silahlar için Exilus yuvası, yani yardımcı Modlarınız�
 
 {% embed url="https://streamable.com/6jexy" %}
 
+### Kuva Lich <a id="kuva-lich"></a>
+
+Prosedürel bir düşmanın sizin için ortaya çıktığı ve bir Warframe'den ilişkili yetenek güclerinin yer alacağı bir sistemdir. Her Lich'in kendi doğuştan gelen bonusları ile kendine özgü silahları vardır. Nesillerinde, benzersiz oyun anlarıyla birlikte gelen tuhaf bir özellikle de gelebilirler.
+
+{% embed url="https://streamable.com/5ihs6" %}
+
+Sol sistemdeki Kuva Lich etkisi. Takipçilerinin yıldız tablosunda işaretleneceği düğümler yer alıyor. Bu etkiyi azaltmak için bu takipçileri öldür.
+
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/84ac505df29b9fa411d3cca54df1e428.jpg)
+
 ### Yapılandırmalar
 
 Üç ek satın alınabilir yükseltme ve Görünüm yapılandırması, yani Warframe başına toplam 6'a kadar genişletebilirsiniz.
+
+### Melee Değişimleri: 2. Aşama
+
+{% embed url="https://forums.warframe.com/topic/1134482-dev-workshop-melee-rework-phase-2-technique/" %}
 
 ### Vauban & Ember Reworks
 
@@ -38,7 +52,7 @@ Birincil ve ikincil silahlar için Exilus yuvası, yani yardımcı Modlarınız�
 
 ### Titania Deluxe
 
-{% embed url="https://streamable.com/3kixk" %}
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/05bdada56680821177fe67ea5be467f1.jpg)
 
 ### Halloween
 
@@ -48,13 +62,11 @@ Cadılar bayramı etkinlik yaklaşıyor. Etkinlik boyunca kazanılacak ödüller
 
 {% embed url="https://streamable.com/pl210" %}
 
-### **Vampire Kavat**
+### Vasca Kavat
 
 Eidolon Ovasında yeni bir vahşi yaşam türü olan vampir kavat yalnızca geceleri doğacak ve koruma eko sisteminin bir parçası olacak. Aynı zamanda kendi Vampir Kavat'ınızı da alabileceksiniz.
 
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/14fef24223106c5170a9c9ffe1600b25.jpg)
-
-{% embed url="https://streamable.com/ae93k" %}
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/a2e899903c403c6d206b02a995e41d05.jpg)
 
 ## 2019 / Sonbahar
 
@@ -98,18 +110,6 @@ Yenilenen & Gelecek fayans işlemeleri
 {% embed url="https://streamable.com/u2q1t" %}
 
 {% embed url="https://streamable.com/5x2fx" %}
-
-### Kuva Lich
-
-Prosedürel bir düşmanın sizin için ortaya çıktığı ve bir Warframe'den ilişkili yetenek güclerinin yer alacağı bir sistemdir. Her Lich'in kendi doğuştan gelen bonusları ile kendine özgü silahları vardır. Nesillerinde, benzersiz oyun anlarıyla birlikte gelen tuhaf bir özellikle de gelebilirler.
-
-{% embed url="https://streamable.com/5ihs6" %}
-
-Sol sistemdeki Kuva Lich etkisi. Takipçilerinin yıldız tablosunda işaretleneceği düğümler yer alıyor. Bu etkiyi azaltmak için bu takipçileri öldür.
-
-![](https://pbs.twimg.com/media/EHCfPAGXUAAtEcO?format=jpg&name=large)
-
-![](https://pbs.twimg.com/media/EHCd5ySWoAAKBDN?format=jpg&name=large)
 
 ### Sentinel
 
