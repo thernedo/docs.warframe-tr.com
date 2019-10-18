@@ -4,7 +4,7 @@ Oyun içerisinde kullanabileceğiniz silah, pet, warframe, archwing, amp, stasis
 
 **Satın alabileceğiniz yuvalar:**
 
-![](https://lh3.googleusercontent.com/ErBibCtreloKsQYlXErXKQYIqqpATfFEfVHt2SC76Qb9vMP4ig0btNRCPArU6xHkkszy0P3mGDw5H1tOuFk=w1625-h628-rw-no)
+![](../../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-llnarp85-ubpec33j5v_-llnc3lckbkhucjh6mhr_image-1.webp)
 
 **Yuva Fiyatları**
 

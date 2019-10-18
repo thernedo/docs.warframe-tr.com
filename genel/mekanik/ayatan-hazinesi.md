@@ -9,7 +9,7 @@ Ayatan Heykeller, oyunda keşfededilen eski Orokin hazineleridir.
 
 Heykellerin değerlerini arttırmak için yıldızlar yerleştirilir.
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LgOamCq2H0SQUVAydQb%2F-LlnArp85-uBPeC33J5V%2F-LlnBBT61kfIjfjrcyqu%2Fimage.png?alt=media&token=66a56c99-08fc-4aaf-adcb-57238aad9572)
+![](../../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-llnarp85-ubpec33j5v_-llnbbt61kfijfjrcyqu_image.png)
 
 Maroo'nun pazarından Ayatan heykellerini Endo olarak ayırıp satabilir veya Orbiter'e süsleme olarak yerleştirebilirsiniz.
 
@@ -17,5 +17,5 @@ Maroo'nun pazarından Ayatan heykellerini Endo olarak ayırıp satabilir veya Or
 
 > Esc &gt; Ekipman &gt; Modlar &gt; Ayatan Hazineleri
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LgOamCq2H0SQUVAydQb%2F-LlnArp85-uBPeC33J5V%2F-LlnBDrkdsM80gF85ge6%2Fimage.png?alt=media&token=953f2dfa-5d84-413e-881b-66c821bbfa25)
+![](../../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-llnarp85-ubpec33j5v_-llnbdrkdsm80gf85ge6_image.png)
 

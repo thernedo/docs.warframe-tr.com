@@ -2,7 +2,7 @@
 
 Arkadaşlarınızla yan yana bir düello'da meydan okuyabileceğiniz arcade fighter, Orbiter'inizi savaş alanına döndüren mini oyundur.
 
-![](https://lh3.googleusercontent.com/PnEnwqTIuvcwFuCfuheUnlN6g5Z73mDeUeG-_WfPuNWgwY5eamuB8H2uxxvxvNefShcrQIKO3O6_8gvMf0c=w1920-h622-rw-no)
+![](../../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lln83t2aoglueutbisa_-lln8aazarzfvbdknzpx_image-1.webp)
 
 #### Nasıl Oynarım?
 

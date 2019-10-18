@@ -10,14 +10,14 @@ Warframe'e ilaveten 1 slot daha açarak kullanılacak Exilus Mod ile Güç veya 
 
 #### Nasıl kullanabilirim?
 
-![](https://lh3.googleusercontent.com/9lUZRL-35P6fVqY16n1UPHEC4rKEmtHgXTLPiPTIaXdqbLBJ5Cpgx087r8dz7gkL9bmQLybto9rRFe4ZiPk=w1028-h517-rw-no)
+![](../../.gitbook/assets/1.webp)
 
 1. Kilitli Exilus mod slotu alanına tıklanır
 2. Füzyonlama işlemi için onay penceresinden Tamam diyerek işlem gerçekleşir.
 
 #### Üretim Gereksinimleri
 
-![](https://lh3.googleusercontent.com/e6CLIMdHufzTtC4s3Uy_ddGD4F38JgH49DjdWSOJkr3hjxngmnOV7fEoXr08p_WGsdLFQJXsFXgI5qDWoXY=w771-h198-rw-no)
+![](../../.gitbook/assets/image.webp)
 
 #### Not
 

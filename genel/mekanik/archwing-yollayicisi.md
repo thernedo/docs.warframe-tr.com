@@ -7,5 +7,5 @@ Archwing Yollayıcısı Serbest dolaşım görevlerinde kullanmak için Archwing
 * Klan Dojosu - **Tenno Laboratuvar**
 * **Archwing Fırlatıcı Segment Araştırması**nı alıp yapın.
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LgOamCq2H0SQUVAydQb%2F-Lln7Hj2_RICby4PlYVN%2F-Lln7hytVAiBAvZiKuya%2Fimage.png?alt=media&token=d7095bca-f4c8-42eb-9598-5d26030bfbde)
+![](../../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lln7hj2_ricby4plyvn_-lln7hytvaibavzikuya_image.png)
 

@@ -12,7 +12,7 @@ Dukatların değeri 3'e ayrılır:
 
 * Dukat Miktarı öğrenmek için **Esc-Ekipman-Envanter**
 
-![](https://lh3.googleusercontent.com/QPN2ArS42yllmYwz_fmNFjuTP0sAYKxxqweWEsOMr45fA0bCFzzJcLfHSOxmocpjChT0zCNxcRPK19Ji8ks=w487-h221-rw-no)
+![](../../.gitbook/assets/warframe0001.webp)
 
 
 

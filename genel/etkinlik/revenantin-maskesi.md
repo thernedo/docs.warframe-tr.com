@@ -2,7 +2,7 @@
 
 Sentient enerjisinden beslenen Revenant, gölgelerden, zayıf ve isteksiz olanları avlamaya için yükseliyor. Cetus’da Nakak’ı ziyaret ederek bu özel Warframe arayışınıza başlayın.
 
-![](https://lh3.googleusercontent.com/qgxQRVuYx2fRCQUGL_vYbl2eoaY5X4WT9ouOglrvQ-iNTU1Ikl9czlWRtty5VUZq6Uegqe-Gd4dk20G3KVc=w1920-h622-rw-no)
+![](../../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lhzobzrw9q_v7tp4kk2_-lhzoirzq-tkizjrsbmj_61cb4a6905ef705fb66fa0343591d9.webp)
 
 ## Nasıl Yapılır ?  <a id="nas&#x131;l-yap&#x131;l&#x131;r-"></a>
 
