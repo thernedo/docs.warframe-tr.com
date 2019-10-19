@@ -4,7 +4,7 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 # Yenilikler
 
-## 2019 / Ekim
+## 2019 / 21-25 Ekim
 
 {% hint style="info" %}
 **Update 26** / The Old Blood
@@ -17,8 +17,6 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 Yeni warframe **Grendel**
 
 {% embed url="https://www.youtube.com/watch?v=skl12MMi0Kw" %}
-
-{% embed url="https://streamable.com/5m94y" %}
 
 Birincil ve ikincil silahlar için Exilus yuvası, yani yardımcı Modlarınızı donatmak için ekstra bir alana sahip olacaksınız. Melee 3.0 aktif olana kadar bu silahları alamayacak.
 
@@ -46,9 +44,15 @@ Sol sistemdeki Kuva Lich etkisi. Takipçilerinin yıldız tablosunda işaretlene
 
 > [https://forums.warframe.com/topic/1132197-vauban-ember-dev-workshop/](https://forums.warframe.com/topic/1132197-vauban-ember-dev-workshop/)
 
+{% tabs %}
+{% tab title="Vauban" %}
 {% embed url="https://streamable.com/bl4as" %}
+{% endtab %}
 
+{% tab title="Ember" %}
 {% embed url="https://streamable.com/3ntdy" %}
+{% endtab %}
+{% endtabs %}
 
 ### Titania Deluxe
 
@@ -61,6 +65,10 @@ Cadılar bayramı etkinlik yaklaşıyor. Etkinlik boyunca kazanılacak ödüller
 ### Bat Ephemera
 
 {% embed url="https://streamable.com/pl210" %}
+
+### Arbitration Ayatan Sculpture
+
+{% embed url="https://streamable.com/kzfv1" %}
 
 ### Vasca Kavat
 
@@ -89,6 +97,30 @@ Sonbahar ayında gelmesi planlanıyor.
 
 {% embed url="https://www.youtube.com/watch?v=wEgRfCef3Q4" caption="Uzun versiyon" %}
 
+###  **Railjack Skins**
+
+{% tabs %}
+{% tab title="1" %}
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/1adf59b3ecc684063e5113b3c59399b7.jpg)
+
+\*\*\*\*
+{% endtab %}
+
+{% tab title="2" %}
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/cc8d0104155c4926c719bd7b9407cc39.jpg)
+
+\*\*\*\*
+{% endtab %}
+
+{% tab title="3" %}
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/9e91d1df49f4a3d43270c23b3e295e5d.jpg)
+{% endtab %}
+
+{% tab title="4" %}
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/81ca3378edf4754f3c0ed486333e4eae.jpg)
+{% endtab %}
+{% endtabs %}
+
 ## 2019 / Aralık
 
 ### The New War
@@ -103,21 +135,43 @@ Sonbahar ayında gelmesi planlanıyor.
 
 Yenilenen & Gelecek fayans işlemeleri
 
+{% tabs %}
+{% tab title="1" %}
 {% embed url="https://streamable.com/c7p6l" %}
 
-{% embed url="https://streamable.com/07nx1" %}
-
-{% embed url="https://streamable.com/u2q1t" %}
-
-{% embed url="https://streamable.com/5x2fx" %}
+\*\*\*\*
+{% endtab %}
+{% endtabs %}
 
 ### Sentinel
 
 Sentinel temalı fayans işlemesi
 
+{% tabs %}
+{% tab title="1" %}
 {% embed url="https://streamable.com/p4cjy" %}
 
+\*\*\*\*
+{% endtab %}
+
+{% tab title="2" %}
 {% embed url="https://streamable.com/x4z8t" %}
+
+\*\*\*\*
+{% endtab %}
+
+{% tab title="3" %}
+{% embed url="https://streamable.com/u2q1t" %}
+
+\*\*\*\*
+{% endtab %}
+
+{% tab title="4" %}
+{% embed url="https://streamable.com/5x2fx" %}
+
+\*\*\*\*
+{% endtab %}
+{% endtabs %}
 
 ### Duviri Paradoks
 
@@ -139,11 +193,19 @@ Yeni Ustalık Rütbe Rozetleri
 
 Yeni deluxe derileri
 
-![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmz0qh8nd99syxj5pa_image.webp)
+{% tabs %}
+{% tab title="Equinox" %}
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lo4Algoh5VxuUALWAd2%2F-LrUwdBC0BiiESramlTW%2F-LrUwvIsSMj-SBuxpeJ8%2Fassets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmz0qh8nd99syxj5pa_image.webp?alt=media&token=e5dd2f42-7cec-4401-b649-719e2e752c81)
+{% endtab %}
 
-![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmzbguxcatytpnpggx_image.webp)
+{% tab title="Ivara" %}
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lo4Algoh5VxuUALWAd2%2F-LrUwdBC0BiiESramlTW%2F-LrUx2wV1ce2C96rItBz%2Fassets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmzbguxcatytpnpggx_image.webp?alt=media&token=52f67491-250d-4654-a4d7-478d1ca7ce59)
+{% endtab %}
 
-![](.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmncuuupph177e2kvn2_-lmnd49warqwjata2yqm_image.webp)
+{% tab title="Zephyr" %}
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lo4Algoh5VxuUALWAd2%2F-LrUwdBC0BiiESramlTW%2F-LrUxBBNjP5O59p9jc2_%2Fassets_-lgoamcq2h0squvaydqb_-lmncuuupph177e2kvn2_-lmnd49warqwjata2yqm_image.webp?alt=media&token=5f01e36d-00cc-4962-8101-dc3e0ba72548)
+{% endtab %}
+{% endtabs %}
 
 ### Echoes of Umbra
 
