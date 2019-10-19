@@ -191,6 +191,10 @@ Yeni deluxe derileri
 {% tab title="Zephyr" %}
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lo4Algoh5VxuUALWAd2%2F-LrUwdBC0BiiESramlTW%2F-LrUxBBNjP5O59p9jc2_%2Fassets_-lgoamcq2h0squvaydqb_-lmncuuupph177e2kvn2_-lmnd49warqwjata2yqm_image.webp?alt=media&token=5f01e36d-00cc-4962-8101-dc3e0ba72548)
 {% endtab %}
+
+{% tab title="Hydroid" %}
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/d2ad88493d128238371429082033a06d.jpg)
+{% endtab %}
 {% endtabs %}
 
 ### Echoes of Umbra
