@@ -102,14 +102,10 @@ Sonbahar ayında gelmesi planlanıyor.
 {% tabs %}
 {% tab title="1" %}
 ![](https://n9e5v4d8.ssl.hwcdn.net/uploads/1adf59b3ecc684063e5113b3c59399b7.jpg)
-
-\*\*\*\*
 {% endtab %}
 
 {% tab title="2" %}
 ![](https://n9e5v4d8.ssl.hwcdn.net/uploads/cc8d0104155c4926c719bd7b9407cc39.jpg)
-
-\*\*\*\*
 {% endtab %}
 
 {% tab title="3" %}
@@ -138,8 +134,6 @@ Yenilenen & Gelecek fayans işlemeleri
 {% tabs %}
 {% tab title="1" %}
 {% embed url="https://streamable.com/c7p6l" %}
-
-\*\*\*\*
 {% endtab %}
 {% endtabs %}
 
@@ -150,26 +144,18 @@ Sentinel temalı fayans işlemesi
 {% tabs %}
 {% tab title="1" %}
 {% embed url="https://streamable.com/p4cjy" %}
-
-\*\*\*\*
 {% endtab %}
 
 {% tab title="2" %}
 {% embed url="https://streamable.com/x4z8t" %}
-
-\*\*\*\*
 {% endtab %}
 
 {% tab title="3" %}
 {% embed url="https://streamable.com/u2q1t" %}
-
-\*\*\*\*
 {% endtab %}
 
 {% tab title="4" %}
 {% embed url="https://streamable.com/5x2fx" %}
-
-\*\*\*\*
 {% endtab %}
 {% endtabs %}
 
