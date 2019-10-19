@@ -197,7 +197,7 @@ Yeni deluxe derileri
 {% endtab %}
 
 {% tab title="Hydroid" %}
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/d2ad88493d128238371429082033a06d.jpg)
+![](https://cdnb.artstation.com/p/assets/images/images/021/376/035/large/liger-inuzuka-hydroid-deluxe-fin-wtrmrk.jpg)
 {% endtab %}
 {% endtabs %}
 
