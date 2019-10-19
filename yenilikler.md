@@ -4,6 +4,10 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 # Yenilikler
 
+## 2019 / 21 Ekim
+
+* Nightwave 2.Sezon arası geliyor!
+
 ## 2019 / 21-25 Ekim
 
 {% hint style="info" %}
