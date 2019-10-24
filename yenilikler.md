@@ -4,7 +4,7 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 # Yenilikler
 
-## 2019 / 21-25 Ekim
+## 2019 / 28-31 Ekim
 
 {% hint style="info" %}
 **Update 26** / The Old Blood
@@ -42,7 +42,7 @@ Sol sistemdeki Kuva Lich etkisi. Takipçilerinin yıldız tablosunda işaretlene
 
 ### Vauban & Ember Reworks
 
-> [https://forums.warframe.com/topic/1132197-vauban-ember-dev-workshop/](https://forums.warframe.com/topic/1132197-vauban-ember-dev-workshop/)
+{% embed url="https://forums.warframe.com/topic/1132197-vauban-ember-dev-workshop/" %}
 
 {% tabs %}
 {% tab title="Vauban" %}
