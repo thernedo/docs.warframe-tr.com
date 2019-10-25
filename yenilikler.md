@@ -40,7 +40,9 @@ Sol sistemdeki Kuva Lich etkisi. Takipçilerinin yıldız tablosunda işaretlene
 
 {% embed url="https://streamable.com/hysiy" %}
 
-###  Palladino
+![](.gitbook/assets/23.PNG)
+
+### Palladino
 
 {% embed url="https://streamable.com/5v47b" %}
 
