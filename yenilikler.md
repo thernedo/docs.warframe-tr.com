@@ -4,12 +4,10 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 # Yenilikler
 
-## 2019 / 28-31 Ekim
+## 2019 / Ekim
 
 {% hint style="info" %}
 **Update 26** / The Old Blood
-
-[https://www.warframe.com/tr/news/the-old-blood](https://www.warframe.com/tr/news/the-old-blood)
 {% endhint %}
 
 ### **Grendel** <a id="grendel"></a>
@@ -17,6 +15,8 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 Yeni warframe **Grendel**
 
 {% embed url="https://www.youtube.com/watch?v=skl12MMi0Kw" %}
+
+{% embed url="https://streamable.com/9201b" %}
 
 Birincil ve ikincil silahlar için Exilus yuvası, yani yardımcı Modlarınızı donatmak için ekstra bir alana sahip olacaksınız. Melee 3.0 aktif olana kadar bu silahları alamayacak.
 
@@ -32,9 +32,25 @@ Sol sistemdeki Kuva Lich etkisi. Takipçilerinin yıldız tablosunda işaretlene
 
 ![](https://n9e5v4d8.ssl.hwcdn.net/uploads/84ac505df29b9fa411d3cca54df1e428.jpg)
 
+### Parazon
+
+{% embed url="https://streamable.com/13gpj" %}
+
+### Requiem Relics
+
+{% embed url="https://streamable.com/hysiy" %}
+
+###  Palladino
+
+{% embed url="https://streamable.com/5v47b" %}
+
 ### Yapılandırmalar
 
 Üç ek satın alınabilir yükseltme ve Görünüm yapılandırması, yani Warframe başına toplam 6'a kadar genişletebilirsiniz.
+
+### Kuva Silahlar
+
+{% embed url="https://streamable.com/nyeyg" %}
 
 ### Melee Değişimleri: 2. Aşama
 
@@ -56,7 +72,15 @@ Sol sistemdeki Kuva Lich etkisi. Takipçilerinin yıldız tablosunda işaretlene
 
 ### Titania Deluxe
 
+{% tabs %}
+{% tab title="1" %}
 ![](https://n9e5v4d8.ssl.hwcdn.net/uploads/05bdada56680821177fe67ea5be467f1.jpg)
+{% endtab %}
+
+{% tab title="2" %}
+{% embed url="https://streamable.com/m48r2" %}
+{% endtab %}
+{% endtabs %}
 
 ### Halloween
 
@@ -69,6 +93,10 @@ Cadılar bayramı etkinlik yaklaşıyor. Etkinlik boyunca kazanılacak ödüller
 ### Arbitration Ayatan Sculpture
 
 {% embed url="https://streamable.com/kzfv1" %}
+
+### UI - Ayarlar
+
+{% embed url="https://streamable.com/v9ebc" %}
 
 ### Vasca Kavat
 
