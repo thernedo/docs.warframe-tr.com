@@ -52,6 +52,8 @@ Sol sistemdeki Kuva Lich etkisi. Takipçilerinin yıldız tablosunda işaretlene
 
 {% embed url="https://streamable.com/nyeyg" %}
 
+Primary\(7\) - Secondary\(4\) - Melee\(1\) - Arch-gun\(1\)
+
 ### Melee Değişimleri: 2. Aşama
 
 {% embed url="https://forums.warframe.com/topic/1134482-dev-workshop-melee-rework-phase-2-technique/" %}
