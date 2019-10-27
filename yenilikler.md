@@ -74,6 +74,12 @@ Primary\(7\) - Secondary\(4\) - Melee\(1\) - Arch-gun\(1\)
 {% endtab %}
 {% endtabs %}
 
+### Tile Sets
+
+Yenilenen & Gelecek fayans işlemeleri
+
+{% embed url="https://streamable.com/c7p6l" %}
+
 ### Titania Deluxe
 
 {% tabs %}
@@ -85,14 +91,6 @@ Primary\(7\) - Secondary\(4\) - Melee\(1\) - Arch-gun\(1\)
 {% embed url="https://streamable.com/m48r2" %}
 {% endtab %}
 {% endtabs %}
-
-### Halloween
-
-Cadılar bayramı etkinlik yaklaşıyor. Etkinlik boyunca kazanılacak ödüllerin yanı sıra warframe görünümüne görsellik katabileceğiniz **yarasa ephemera** alınabilecek.
-
-### Bat Ephemera
-
-{% embed url="https://streamable.com/pl210" %}
 
 ### Arbitration Ayatan Sculpture
 
@@ -158,16 +156,6 @@ Sonbahar ayında gelmesi planlanıyor.
 {% embed url="https://www.youtube.com/watch?v=7ZW4cfsB6Pw" %}
 
 ## ∞ / Yakında
-
-### Tile Sets
-
-Yenilenen & Gelecek fayans işlemeleri
-
-{% tabs %}
-{% tab title="1" %}
-{% embed url="https://streamable.com/c7p6l" %}
-{% endtab %}
-{% endtabs %}
 
 ### Sentinel
 
