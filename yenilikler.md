@@ -4,7 +4,7 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 # Yenilikler
 
-## 2019 / Ekim
+## 2019 / 30 Ekim -1 Kasım
 
 {% hint style="info" %}
 **Update 26** / The Old Blood
