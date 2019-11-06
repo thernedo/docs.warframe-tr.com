@@ -144,7 +144,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Sinir Sens&#xF6;rleri</td>
-      <td style="text-align:left"><b>Jupiter</b> - The Ropalolyst, Themisto, Ganymede</td>
+      <td style="text-align:left"><b>Jupiter</b> - The Ropalolyst, Themisto, Ganymede, Elara</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
