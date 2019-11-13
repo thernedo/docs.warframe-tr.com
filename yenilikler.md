@@ -4,7 +4,7 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 # Yenilikler
 
-## 2019 / Sonbahar
+## 2019
 
 ### Empyrean
 
