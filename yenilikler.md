@@ -49,7 +49,7 @@ Sonbahar ayında gelmesi planlanıyor.
 
 ### The New War
 
-\(24-25 Aralık\) - The New War questi noelde gelmesi planlanıyor.
+The New War questi noelde gelmesi planlanıyor.
 
 {% embed url="https://www.youtube.com/watch?v=7ZW4cfsB6Pw" %}
 
@@ -81,11 +81,15 @@ Sentinel temalı fayans işlemesi
 
 2019 TennoLive'da gösterilen bir sonraki Warframe açık dünyası
 
-{% embed url="https://www.youtube.com/watch?v=8DObN\_3ha6M&t=77s" caption="" %}
+{% tabs %}
+{% tab title="The Duviri Paradox" %}
+{% embed url="https://www.youtube.com/watch?v=8DObN\_3ha6M" %}
+{% endtab %}
 
-#### Dax Duviri
-
-![](.gitbook/assets/9e9a604ac04b060fad079e47a91e2037.webp)
+{% tab title="Dax Duviri" %}
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lo4Algoh5VxuUALWAd2%2F-LrUwdBC0BiiESramlTW%2F-LrUwlobLZkwvDUrTm21%2F9e9a604ac04b060fad079e47a91e2037.webp?alt=media&token=ef93e1a7-226f-4fa5-b3ac-179096f0942b)
+{% endtab %}
+{% endtabs %}
 
 ### MR <a id="mr"></a>
 
@@ -114,6 +118,16 @@ Yeni deluxe derileri
 ![](https://cdnb.artstation.com/p/assets/images/images/021/376/035/large/liger-inuzuka-hydroid-deluxe-fin-wtrmrk.jpg)
 {% endtab %}
 {% endtabs %}
+
+### Melee 3.0
+
+Aşamalı olarak değişen yakın dövüş sistemi yeniden yapılandırılacak.
+
+### Oyuncu Deneyimi
+
+Yeni başlayan oyuncular için daha kolay deneyim sağlanacak. Hazırlanan CGI introsuna göz atmayı unutmayın.
+
+{% embed url="https://www.youtube.com/watch?v=9O-yCnQKYhM" %}
 
 ### Echoes of Umbra
 
