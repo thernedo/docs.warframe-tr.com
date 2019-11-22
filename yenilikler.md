@@ -6,19 +6,15 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 ## 2019
 
-### Empyrean
-
-> Empyrean güncellemesi üç aşamada gerçekleştirilecek
-
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/910f743102c36726495549eae1789ccd.jpg)
-
-### Rising Tide - Aşama 1
+### Rising Tide
 
 Klanını topla, Dry Dock'unu inşa et ve Empyrean için hazır ol.
 
 {% embed url="https://www.youtube.com/watch?v=b0GwWzhH4oc" %}
 
-Aşama 2 ve 3 için şuanlık bir bilgi yok.
+### Empyrean
+
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/910f743102c36726495549eae1789ccd.jpg)
 
 #### Railjack Hakkında Bilgiler
 
