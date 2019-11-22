@@ -8,11 +8,17 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 ### Empyrean
 
-Sonbahar ayında gelmesi planlanıyor.
-
 > Empyrean güncellemesi üç aşamada gerçekleştirilecek
 
 ![](https://n9e5v4d8.ssl.hwcdn.net/uploads/910f743102c36726495549eae1789ccd.jpg)
+
+### Rising Tide - Aşama 1
+
+Klanını topla, Dry Dock'unu inşa et ve Empyrean için hazır ol.
+
+{% embed url="https://www.youtube.com/watch?v=b0GwWzhH4oc" %}
+
+Aşama 2 ve 3 için şuanlık bir bilgi yok.
 
 #### Railjack Hakkında Bilgiler
 
