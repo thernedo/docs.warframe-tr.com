@@ -24,6 +24,11 @@
       <td style="text-align:left">Oxomoco tavsiye edilir</td>
     </tr>
     <tr>
+      <td style="text-align:left">Carbides</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Cryptographic Alu</td>
       <td style="text-align:left"><b>Nept&#xFC;n</b> - Salacia</td>
       <td style="text-align:left">Etkinlik aktifken elde edilir.</td>
