@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Cubic Diodes</td>
-      <td style="text-align:left"><b>?</b>
+      <td style="text-align:left"><b>Ceres</b>
       </td>
       <td style="text-align:left"></td>
     </tr>
