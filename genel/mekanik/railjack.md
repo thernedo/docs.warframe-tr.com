@@ -6,5 +6,7 @@ Quest sayfasındandan Rising Tide questine başlamadan önce The Second Dream ya
 
 Komuta için Railjack Cephalon araştırma kalıbını alarak atolyede tamamlayın. Cephalon CY tarafından araştırma görevlerini sırasıyla tamamlayın.
 
-* **1- Railjack Gövdesini Temin Et** / Ares\(Mars\)
+* **1- Railjack Gövdesini Temin Et** \| Ares\(Mars\) 
+  * Görev tamamlandıktan sonra dojo'ya geri dönerek gövde bileşenini kurun.
+* 2- 
 

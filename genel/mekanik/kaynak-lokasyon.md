@@ -29,6 +29,12 @@
       <td style="text-align:left">Etkinlik aktifken elde edilir.</td>
     </tr>
     <tr>
+      <td style="text-align:left">Cubic Diodes</td>
+      <td style="text-align:left"><b>?</b>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">De&#x11F;erli Metal</td>
       <td style="text-align:left">
         <p><b>Mars</b> - Ultor</p>
