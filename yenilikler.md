@@ -6,11 +6,27 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 ## 2019
 
-### Rising Tide
+### Ivara Prime
 
-Klanını topla, Dry Dock'unu inşa et ve Empyrean için hazır ol.
+Bir sonraki Prime Warframe
 
-{% embed url="https://www.youtube.com/watch?v=b0GwWzhH4oc" %}
+{% tabs %}
+{% tab title="İvara Prime" %}
+{% embed url="https://streamable.com/x4c6t" %}
+{% endtab %}
+
+{% tab title="Silahlar" %}
+#### Baza Prime ve Aksomati Prime
+
+{% embed url="https://streamable.com/5jsgl" %}
+{% endtab %}
+
+{% tab title="Aksesuar" %}
+#### Anasa Zırh + Syandana
+
+{% embed url="https://streamable.com/cyitk" %}
+{% endtab %}
+{% endtabs %}
 
 ### Empyrean
 
@@ -57,11 +73,21 @@ The New War questi noelde gelmesi planlanıyor.
 
 ## ∞ / Yakında
 
+### Corpus Silah
+
+Radyal temalı yeni corpus silahı
+
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/a1ca3cffbbb4c9d91d01c6da01cbbae6.jpg)
+
 ### Sentinel
 
 Sentinel temalı fayans işlemesi
 
 {% tabs %}
+{% tab title="YENİ" %}
+{% embed url="https://streamable.com/thje1" %}
+{% endtab %}
+
 {% tab title="1" %}
 {% embed url="https://streamable.com/p4cjy" %}
 {% endtab %}
