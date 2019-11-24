@@ -16,9 +16,9 @@ Her bileşen için 12 saat onarım süreci vardır.
   * 1m Kredi, 100 Cubics, 3k Plastid, 15k rubedo, 30 Sinir Sensörü
 * **2- İtici Güç Sistemini Temin Et**
   * 1m Kredi, 60 Carbides, 1k Cryotic, 30 Orokin Hücresi, 20k Nano Hücre
-* **3- \***
+* **3- İskele Karteri Temin Et**
+  * 1m Kredi, 60 Carbides, 5k Devre, 27k Alaşım Plaka, 200 Kontrol Modülü
 * **4-** _**\***_
-* **5-** _**\***_
 
 
 
