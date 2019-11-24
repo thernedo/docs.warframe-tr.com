@@ -8,5 +8,6 @@ Komuta için Railjack Cephalon araştırma kalıbını alarak atolyede tamamlay�
 
 * **1- Railjack Gövdesini Temin Et** \| Ares\(Mars\) 
   * Görev tamamlandıktan sonra dojo'ya geri dönerek gövde bileşenini kurun.
-* 2- 
+* **2- İtici Güç Sistemini Temin Et** \| Cervantes\(Dünya\)
+  * Görev tamamlandıktan sonra dojo'ya geri dönerek itici güç sistemini kurun.
 

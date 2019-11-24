@@ -25,7 +25,8 @@
     </tr>
     <tr>
       <td style="text-align:left">Carbides</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>Europa</b>
+      </td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
