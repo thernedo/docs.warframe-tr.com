@@ -11,3 +11,9 @@ Komuta için Railjack Cephalon araştırma kalıbını alarak atolyede tamamlay�
 * **2- İtici Güç Sistemini Temin Et** \| Cervantes\(Dünya\)
   * Görev tamamlandıktan sonra dojo'ya geri dönerek itici güç sistemini kurun.
 
+{% hint style="info" %}
+Her bileşen için 12 saat onarım süreci vardır.
+{% endhint %}
+
+
+
