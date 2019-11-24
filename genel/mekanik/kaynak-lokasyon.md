@@ -35,6 +35,12 @@
       <td style="text-align:left">Etkinlik aktifken elde edilir.</td>
     </tr>
     <tr>
+      <td style="text-align:left">Copernics</td>
+      <td style="text-align:left"><b>Orb Vallis</b>
+      </td>
+      <td style="text-align:left">K&#x131;rm&#x131;z&#x131; Damar</td>
+    </tr>
+    <tr>
       <td style="text-align:left">Cubic Diodes</td>
       <td style="text-align:left"><b>Ceres</b>
       </td>
@@ -153,6 +159,12 @@
         <p><b>Ven&#xFC;s</b> - Montes, V Prime</p>
       </td>
       <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pustrels</td>
+      <td style="text-align:left"><b>Eidolon Ovalar&#x131;</b>
+      </td>
+      <td style="text-align:left">K&#x131;rm&#x131;z&#x131; Damar</td>
     </tr>
     <tr>
       <td style="text-align:left">Sinir Sens&#xF6;rleri</td>
