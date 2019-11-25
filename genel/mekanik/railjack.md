@@ -18,7 +18,7 @@ Her bileşen için 12 saat onarım süreci vardır.
   * 1m Kredi, 60 Carbides, 1k Cryotic, 30 Orokin Hücresi, 20k Nano Hücre
 * **3- İskele Karteri**
   * 1m Kredi, 60 Carbides, 5k Devre, 27k Alaşım Plaka, 200 Kontrol Modülü
-* **4- \***
+* **4- Sancak Karteri**
   * 1m Kredi, 100 Pustrels, 500 Fieldron Örneği, 50 Morphics, 35 Neurode
 * **5-** \*
   * 1m Kredi, 80 Copernics, 10k Ferrite, 4.5k Polimer Demeti, 15 Argon Kristali
