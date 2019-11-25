@@ -20,7 +20,7 @@ Her bileşen için 12 saat onarım süreci vardır.
   * 1m Kredi, 60 Carbides, 5k Devre, 27k Alaşım Plaka, 200 Kontrol Modülü
 * **4- Sancak Karteri**
   * 1m Kredi, 100 Pustrels, 500 Fieldron Örneği, 50 Morphics, 35 Neurode
-* **5-** \*
+* **5- Kuyruk Bölümü**
   * 1m Kredi, 80 Copernics, 10k Ferrite, 4.5k Polimer Demeti, 15 Argon Kristali
 * **6-** \*
   * 1m Kredi, 40 Copernics, 500 Patlayıcı Ampul, 10k Ferrite, 10k Değerli Metal
