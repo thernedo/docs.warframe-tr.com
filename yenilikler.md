@@ -130,10 +130,6 @@ Yeni Ustalık Rütbe Rozetleri
 Yeni deluxe derileri
 
 {% tabs %}
-{% tab title="Equinox" %}
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lo4Algoh5VxuUALWAd2%2F-LrUwdBC0BiiESramlTW%2F-LrUwvIsSMj-SBuxpeJ8%2Fassets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmz0qh8nd99syxj5pa_image.webp?alt=media&token=e5dd2f42-7cec-4401-b649-719e2e752c81)
-{% endtab %}
-
 {% tab title="Ivara" %}
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lo4Algoh5VxuUALWAd2%2F-LrUwdBC0BiiESramlTW%2F-LrUx2wV1ce2C96rItBz%2Fassets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmzbguxcatytpnpggx_image.webp?alt=media&token=52f67491-250d-4654-a4d7-478d1ca7ce59)
 {% endtab %}
