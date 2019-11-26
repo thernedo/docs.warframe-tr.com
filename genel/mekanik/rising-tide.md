@@ -1,6 +1,4 @@
-# Railjack
-
-### Rising Tide \| Aşama 1
+# Rising Tide
 
 Rising Tide Questine başlamadan önce The Second Dream yapılması gerekli. The Second Dream tamamlandıktan sonra Klan dojonuza Dry Dock odasını inşa edin. 
 

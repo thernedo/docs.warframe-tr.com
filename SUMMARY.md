@@ -15,7 +15,7 @@
   * [Kuva Lich](genel/mekanik/kuva-lich.md)
   * [Glyph Kodları](genel/mekanik/glyph-kodlari.md)
   * [Exilus Adapter](genel/mekanik/exilus-adapter.md)
-  * [Railjack](genel/mekanik/railjack.md)
+  * [Rising Tide](genel/mekanik/rising-tide.md)
   * [Orokin Dukat](genel/mekanik/orokin-dukat.md)
   * [Questler](genel/mekanik/questler.md)
   * [Tarama Hedefleri](genel/mekanik/tarama-hedefleri.md)
