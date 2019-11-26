@@ -22,7 +22,7 @@ Her bileşen için 12 saat onarım süreci vardır.
   * 1m Kredi, 100 Pustrels, 500 Fieldron Örneği, 50 Morphics, 35 Neurode
 * **5- Kuyruk Bölümü**
   * 1m Kredi, 80 Copernics, 10k Ferrite, 4.5k Polimer Demeti, 15 Argon Kristali
-* **6-** \*
+* **6- Motor Kapağı**
   * 1m Kredi, 40 Copernics, 500 Patlayıcı Ampul, 10k Ferrite, 10k Değerli Metal
 
 
