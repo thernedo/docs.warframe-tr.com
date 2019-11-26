@@ -25,7 +25,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Carbides</td>
-      <td style="text-align:left"><b>Europa</b>
+      <td style="text-align:left"><b>Ceres</b>
       </td>
       <td style="text-align:left"></td>
     </tr>
@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Cubic Diodes</td>
-      <td style="text-align:left"><b>Ceres</b>
+      <td style="text-align:left"><b>Europa</b>
       </td>
       <td style="text-align:left"></td>
     </tr>
