@@ -37,6 +37,10 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">Boiler</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Bombard</td>
       <td style="text-align:left"><b>Ceres</b> - Ker, Lex, Nuovo, Exta</td>
     </tr>
