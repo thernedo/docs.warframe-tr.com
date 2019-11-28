@@ -92,20 +92,24 @@ Sentinel temalı fayans işlemesi
 {% embed url="https://streamable.com/thje1" %}
 {% endtab %}
 
-{% tab title="1" %}
-{% embed url="https://streamable.com/p4cjy" %}
+{% tab title="Resimler" %}
+---
+
+![](https://pbs.twimg.com/media/EKbcotnXsAAI7Wc?format=jpg&name=large)
+
+![](https://pbs.twimg.com/media/EKbcotpXYAEdYWf?format=jpg&name=large)
+
+![](https://pbs.twimg.com/media/EKbcotlWwAclc07?format=jpg&name=large)
+
+![](https://pbs.twimg.com/media/EKbcotmXkAEq36W?format=jpg&name=large)
 {% endtab %}
 
-{% tab title="2" %}
+{% tab title="Videolar" %}
+{% embed url="https://streamable.com/9jv5s" %}
+
 {% embed url="https://streamable.com/x4z8t" %}
-{% endtab %}
 
-{% tab title="3" %}
-{% embed url="https://streamable.com/u2q1t" %}
-{% endtab %}
-
-{% tab title="4" %}
-{% embed url="https://streamable.com/5x2fx" %}
+{% embed url="https://streamable.com/p4cjy" %}
 {% endtab %}
 {% endtabs %}
 
