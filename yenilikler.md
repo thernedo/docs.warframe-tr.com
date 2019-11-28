@@ -32,8 +32,6 @@ Bir sonraki Prime Warframe
 
 ![](https://n9e5v4d8.ssl.hwcdn.net/uploads/910f743102c36726495549eae1789ccd.jpg)
 
-#### I - Dry Dock
-
 {% page-ref page="genel/mekanik/rising-tide.md" %}
 
 #### Railjack Hakkında Bilgiler
