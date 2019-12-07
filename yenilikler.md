@@ -4,7 +4,7 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 # Yenilikler
 
-## 2019
+## 2019 / 17 Aralık
 
 ### Ivara Prime
 
@@ -27,6 +27,8 @@ Bir sonraki Prime Warframe
 {% embed url="https://streamable.com/cyitk" %}
 {% endtab %}
 {% endtabs %}
+
+## 2019 / 2020
 
 ### Empyrean
 
@@ -65,11 +67,7 @@ Bir sonraki Prime Warframe
 {% endtab %}
 {% endtabs %}
 
-## 2019 / Aralık
-
 ### The New War
-
-The New War questi noelde gelmesi planlanıyor.
 
 {% embed url="https://www.youtube.com/watch?v=7ZW4cfsB6Pw" %}
 
