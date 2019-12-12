@@ -8,25 +8,13 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 ### Ivara Prime
 
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/b5edcc1223c5ad95d87145e102a2afa2.png)
+
 Bir sonraki Prime Warframe
 
-{% tabs %}
-{% tab title="İvara Prime" %}
-{% embed url="https://streamable.com/x4c6t" %}
-{% endtab %}
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/619553eba51472f8a63b62dd1be8b276.png)
 
-{% tab title="Silahlar" %}
-#### Baza Prime ve Aksomati Prime
-
-{% embed url="https://streamable.com/5jsgl" %}
-{% endtab %}
-
-{% tab title="Aksesuar" %}
-#### Anasa Zırh + Syandana
-
-{% embed url="https://streamable.com/cyitk" %}
-{% endtab %}
-{% endtabs %}
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/0607ed4ccdd494cd1e47206d1deb68fb.png)
 
 ## 2019 / 2020
 
