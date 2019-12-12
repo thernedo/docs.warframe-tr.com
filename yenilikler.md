@@ -35,7 +35,7 @@ Bir sonraki Prime Warframe
 
 {% embed url="https://www.youtube.com/watch?v=wEgRfCef3Q4" caption="Uzun versiyon" %}
 
-###  **Railjack Skins**
+###  **Railjack Tasarımlar**
 
 {% tabs %}
 {% tab title="1" %}
