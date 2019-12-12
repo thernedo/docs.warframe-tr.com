@@ -6,7 +6,7 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 ## 2019 / 17 Aralık
 
-### Ivara Prime
+### - Ivara Prime
 
 ![](https://n9e5v4d8.ssl.hwcdn.net/uploads/b5edcc1223c5ad95d87145e102a2afa2.png)
 
