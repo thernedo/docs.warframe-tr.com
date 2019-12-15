@@ -18,46 +18,9 @@ Bir sonraki Prime Warframe
 
 ## 2019 / 2020
 
-### Empyrean
-
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/910f743102c36726495549eae1789ccd.jpg)
-
-{% page-ref page="genel/mekanik/rising-tide.md" %}
-
-#### Railjack Hakkında Bilgiler
-
-* Klandan bağımsız kendinize ait geminiz olacak
-* Hem iç hem dış renkler ayrı ayrı özelleştirilebilir olacak
-* Çeşitli güçler ve yükseltmeler yer alacak, bazıları yeni kazanılacak kaynaklar ile araştırılacak
-* Ekip harici Railjack'inizde size katılabilecek mürettebat üyelerini kullanabileceksiniz
-* Warframe & Silah modlamasına aşina olduğunuz sistem yerine aktif olan modüller ile birlikte görev esnasında seviyeye göre etkinleştirilebilen ve devre dışı bırakılabilen güç ayarlamaları yapılabilecek
-* Görev durumuna bağlı olarak modüller arasında güç ayarlaması, bunu yapmak içinde herhangi bir yerden sistem ekranına erişebilinecek.
-
-{% embed url="https://www.youtube.com/watch?v=wEgRfCef3Q4" caption="Uzun versiyon" %}
-
-###  **Railjack Tasarımlar**
-
-{% tabs %}
-{% tab title="1" %}
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/1adf59b3ecc684063e5113b3c59399b7.jpg)
-{% endtab %}
-
-{% tab title="2" %}
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/cc8d0104155c4926c719bd7b9407cc39.jpg)
-{% endtab %}
-
-{% tab title="3" %}
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/9e91d1df49f4a3d43270c23b3e295e5d.jpg)
-{% endtab %}
-
-{% tab title="4" %}
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/81ca3378edf4754f3c0ed486333e4eae.jpg)
-{% endtab %}
-{% endtabs %}
-
 ### The New War
 
-{% embed url="https://www.youtube.com/watch?v=7ZW4cfsB6Pw" %}
+{% embed url="https://www.youtube.com/watch?v=7ZW4cfsB6Pw" caption="" %}
 
 ## ∞ / Yakında
 
@@ -71,13 +34,7 @@ Radyal temalı yeni corpus silahı
 
 Sentinel temalı fayans işlemesi
 
-{% tabs %}
-{% tab title="YENİ" %}
-{% embed url="https://streamable.com/thje1" %}
-{% endtab %}
-
-{% tab title="Resimler" %}
----
+{% embed url="https://streamable.com/thje1" caption="" %}
 
 ![](https://pbs.twimg.com/media/EKbcotnXsAAI7Wc?format=jpg&name=large)
 
@@ -85,31 +42,19 @@ Sentinel temalı fayans işlemesi
 
 ![](https://pbs.twimg.com/media/EKbcotlWwAclc07?format=jpg&name=large)
 
-![](https://pbs.twimg.com/media/EKbcotmXkAEq36W?format=jpg&name=large)
-{% endtab %}
+{% embed url="https://streamable.com/9jv5s" caption="" %}
 
-{% tab title="Videolar" %}
-{% embed url="https://streamable.com/9jv5s" %}
+{% embed url="https://streamable.com/x4z8t" caption="" %}
 
-{% embed url="https://streamable.com/x4z8t" %}
-
-{% embed url="https://streamable.com/p4cjy" %}
-{% endtab %}
-{% endtabs %}
+{% embed url="https://streamable.com/p4cjy" caption="" %}
 
 ### Duviri Paradoks
 
 2019 TennoLive'da gösterilen bir sonraki Warframe açık dünyası
 
-{% tabs %}
-{% tab title="The Duviri Paradox" %}
-{% embed url="https://www.youtube.com/watch?v=8DObN\_3ha6M" %}
-{% endtab %}
+{% embed url="https://www.youtube.com/watch?v=8DObN\_3ha6M" caption="" %}
 
-{% tab title="Dax Duviri" %}
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lo4Algoh5VxuUALWAd2%2F-LrUwdBC0BiiESramlTW%2F-LrUwlobLZkwvDUrTm21%2F9e9a604ac04b060fad079e47a91e2037.webp?alt=media&token=ef93e1a7-226f-4fa5-b3ac-179096f0942b)
-{% endtab %}
-{% endtabs %}
 
 ### MR <a id="mr"></a>
 
@@ -122,10 +67,6 @@ Yeni Ustalık Rütbe Rozetleri
 Yeni deluxe derileri
 
 {% tabs %}
-{% tab title="Ivara" %}
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lo4Algoh5VxuUALWAd2%2F-LrUwdBC0BiiESramlTW%2F-LrUx2wV1ce2C96rItBz%2Fassets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmzbguxcatytpnpggx_image.webp?alt=media&token=52f67491-250d-4654-a4d7-478d1ca7ce59)
-{% endtab %}
-
 {% tab title="Zephyr" %}
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lo4Algoh5VxuUALWAd2%2F-LrUwdBC0BiiESramlTW%2F-LrUxBBNjP5O59p9jc2_%2Fassets_-lgoamcq2h0squvaydqb_-lmncuuupph177e2kvn2_-lmnd49warqwjata2yqm_image.webp?alt=media&token=5f01e36d-00cc-4962-8101-dc3e0ba72548)
 {% endtab %}
@@ -143,7 +84,7 @@ Aşamalı olarak değişen yakın dövüş sistemi yeniden yapılandırılacak.
 
 Yeni başlayan oyuncular için daha kolay deneyim sağlanacak. Hazırlanan CGI introsuna göz atmayı unutmayın.
 
-{% embed url="https://www.youtube.com/watch?v=9O-yCnQKYhM" %}
+{% embed url="https://www.youtube.com/watch?v=9O-yCnQKYhM" caption="" %}
 
 ### Echoes of Umbra
 
