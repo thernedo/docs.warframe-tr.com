@@ -4,19 +4,7 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 # Yenilikler
 
-## 2019 / 17 Aralık
-
-### - Ivara Prime
-
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/b5edcc1223c5ad95d87145e102a2afa2.png)
-
-Bir sonraki Prime Warframe
-
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/619553eba51472f8a63b62dd1be8b276.png)
-
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/0607ed4ccdd494cd1e47206d1deb68fb.png)
-
-## 2019 / 2020
+## 2020
 
 ### The New War
 
@@ -29,24 +17,6 @@ Bir sonraki Prime Warframe
 Radyal temalı yeni corpus silahı
 
 ![](https://n9e5v4d8.ssl.hwcdn.net/uploads/a1ca3cffbbb4c9d91d01c6da01cbbae6.jpg)
-
-### Sentinel
-
-Sentinel temalı fayans işlemesi
-
-{% embed url="https://streamable.com/thje1" caption="" %}
-
-![](https://pbs.twimg.com/media/EKbcotnXsAAI7Wc?format=jpg&name=large)
-
-![](https://pbs.twimg.com/media/EKbcotpXYAEdYWf?format=jpg&name=large)
-
-![](https://pbs.twimg.com/media/EKbcotlWwAclc07?format=jpg&name=large)
-
-{% embed url="https://streamable.com/9jv5s" caption="" %}
-
-{% embed url="https://streamable.com/x4z8t" caption="" %}
-
-{% embed url="https://streamable.com/p4cjy" caption="" %}
 
 ### Duviri Paradoks
 
