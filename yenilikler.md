@@ -6,6 +6,16 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 ## 2020
 
+### Archwings
+
+Modüler archwings ile oyuncuların istediklerini seçip yönetilebilir olacak.
+
+### **Odalisk**
+
+Bu yıl gelmesi planlanan yeni warframe.
+
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/db7c7e20e0fafc23fb96a38b4f66f523.jpg)
+
 ### The New War
 
 {% embed url="https://www.youtube.com/watch?v=7ZW4cfsB6Pw" caption="" %}
@@ -46,21 +56,9 @@ Yeni deluxe derileri
 {% endtab %}
 {% endtabs %}
 
-### Melee 3.0
-
-Aşamalı olarak değişen yakın dövüş sistemi yeniden yapılandırılacak.
-
 ### Oyuncu Deneyimi
 
 Yeni başlayan oyuncular için daha kolay deneyim sağlanacak. Hazırlanan CGI introsuna göz atmayı unutmayın.
 
 {% embed url="https://www.youtube.com/watch?v=9O-yCnQKYhM" caption="" %}
-
-### Echoes of Umbra
-
-{% hint style="danger" %}
-Spoiler!
-{% endhint %}
-
-{% embed url="https://streamable.com/5buwq" caption="https://forums.warframe.com/topic/1122422-echoes-of-umbra-feedback/page/10/?tab=comments\#comment-10991646" %}
 
