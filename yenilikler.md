@@ -6,6 +6,44 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 ## 2020
 
+### **Prex Cards**
+
+3 yeni warframe Ön Kart eklenecek
+
+### **Moa**
+
+Yeni Moa arkadaşı
+
+{% embed url="https://streamable.com/lj6vk" %}
+
+### **Ivara Deluxe**
+
+{% embed url="https://streamable.com/8gsja" %}
+
+### **Infested**
+
+Railjack ile dolaşabileceğiniz saf Infested uzay kitleleri
+
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/a547c8849bbcd895937c10e279c825c0.jpg)
+
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/693f654f0beedffdf098a97259e7d38f.jpg)
+
+### **Venkra Tel / Sprag**
+
+Venkra Tel ve Sprag yeni bir görünüme kavuşacak. Ödüllerinde veya diğer işlevlerine değişiklikler olabilir.
+
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/ab4052a47158367a61ff51ff03ab1052.jpg)
+
+### Railjack
+
+Corpus temalı içerikler yer alacak.
+
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/7ab9b302f134662cf979419109777ed9.jpg)
+
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/4f665a170780eb86121c42256c48c092.jpg)
+
+### Nightwave: Sezon 3 / Glass Maker
+
 ### Archwings
 
 Modüler archwings ile oyuncuların istediklerini seçip yönetilebilir olacak.

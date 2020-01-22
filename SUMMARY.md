@@ -12,6 +12,7 @@
   * [Pyrus Projesi](genel/etkinlik/pyrus-projesi.md)
   * [Revenant'ın Maskesi](genel/etkinlik/revenantin-maskesi.md)
 * [Mekanik](genel/mekanik/README.md)
+  * [Laverian](genel/mekanik/laverian.md)
   * [Empyrean](genel/mekanik/empyrean.md)
   * [Kuva Lich](genel/mekanik/kuva-lich.md)
   * [Glyph Kodları](genel/mekanik/glyph-kodlari.md)
