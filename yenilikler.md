@@ -10,6 +10,8 @@ description: Gelecek yenilikler hakkında kısa bilgiler
 
 3 yeni warframe Ön Kart eklenecek
 
+{% page-ref page="genel/mekanik/laverian.md" %}
+
 ### **Moa**
 
 Yeni Moa arkadaşı
@@ -42,7 +44,9 @@ Corpus temalı içerikler yer alacak.
 
 ![](https://n9e5v4d8.ssl.hwcdn.net/uploads/4f665a170780eb86121c42256c48c092.jpg)
 
-### Nightwave: Sezon 3 / Glass Maker
+### Nightwave: Sezon 3
+
+Yeni ****Nightwave serisi **The Glass Maker,** Şubat veya Mart ayında gelmesi planlanmakta. Yeni hikayenin yanı sıra  **Kuva Lich** ve **Railjack** ile ilgili yeni zorluklara yer verilecek.
 
 ### Archwings
 
