@@ -41,6 +41,10 @@ Corpus gemi fayans seti tamamen yenilenmiş haliyle artık modern halini aldı.
 
 {% embed url="https://streamable.com/9epx2" %}
 
+#### Yeni corpus silahı
+
+{% embed url="https://streamable.com/6ebg9" %}
+
 ### Titania
 
 Bazı küçük düzenlemeler yer alıyor.
@@ -55,7 +59,7 @@ Bazı küçük düzenlemeler yer alıyor.
 
 ### **Veil Proxima Escalation**
 
-Railjack mürettebatını bekleyen yeni süprizler yer alacak. Sentients!
+Railjack mürettebatını bekleyen yeni süprizler yer alacak, Sentients!
 
 ![](https://n9e5v4d8.ssl.hwcdn.net/uploads/db2773b9a0f67e36d4c7fb0f51368f97.png)
 
@@ -65,7 +69,7 @@ Railjack mürettebatını bekleyen yeni süprizler yer alacak. Sentients!
 
 ###  **Augments**
 
-4 yeni  Augment geliyor: 
+4 yeni Augment geliyor: 
 
 * Garuda - Bloodletting
 * Baruuk - Lull Augment
@@ -83,4 +87,26 @@ Cinayet-gizem teması olacağı bahsedilen yeni sezon, Tenno'nun yeni keşifleri
 Yakında gelecek yeni bir etkinlik ile yenilenmiş Simulacrum haritası kazanılabilecek.
 
 {% embed url="https://streamable.com/9c7ge" %}
+
+### **Deluxe**
+
+**Gara**
+
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/f8a2c1e6ec943ae5366adb104be914f8.jpg)
+
+ **Nova**
+
+{% embed url="https://streamable.com/fvtbt" %}
+
+### **Diğer Yenilikler**
+
+* Birincil Kitgun silahları yakında geliyor.
+* Kitgun silahı için değiştirilebilir kaplamalar
+* Modüler archwing çalışmaları devam etmekte
+* Düşman tiplerinde etkin olan zırh/kalkan gibi mekanik etkenlerinde çalışmalar yapılmakta
+* UI tarafından bazı değişiklikler yapılmakta
+
+### Heavy Metal Shawzin
+
+{% embed url="https://streamable.com/1asp9" %}
 
