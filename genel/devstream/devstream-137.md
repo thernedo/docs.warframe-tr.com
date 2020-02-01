@@ -16,6 +16,8 @@ Yenilenen kuva İnfüzyon ile transfer işlevi yaptığınızda mükemmele yakı
 
 Parazon ekranı ve Lich ekranında bazı değişiklikler yapılacak.
 
+{% embed url="https://streamable.com/bjls5" %}
+
 ### Pets 2.0
 
 * Pet yuva slotlarında değişiklikler olacak
@@ -102,6 +104,9 @@ Yakında gelecek yeni bir etkinlik ile yenilenmiş Simulacrum haritası kazanıl
 
 * Birincil Kitgun silahları yakında geliyor.
 * Kitgun silahı için değiştirilebilir kaplamalar
+
+{% embed url="https://streamable.com/di1yp" %}
+
 * Modüler archwing çalışmaları devam etmekte
 * Düşman tiplerinde etkin olan zırh/kalkan gibi mekanik etkenlerinde çalışmalar yapılmakta
 * UI tarafından bazı değişiklikler yapılmakta
