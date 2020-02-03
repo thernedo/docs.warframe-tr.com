@@ -14,6 +14,12 @@ Yenilenen kuva İnfüzyon ile transfer işlevi yaptığınızda mükemmele yakı
 
 **3 yeni kuva silahı eklenecek:** Kuva Bramma, Kuva Nukor ve Kuva Hind
 
+{% embed url="https://streamable.com/i560n" caption="Kuva Bramma" %}
+
+{% embed url="https://streamable.com/15czg" caption="Kuva Nukor" %}
+
+{% embed url="https://streamable.com/94yk4" caption="Kuva Hind" %}
+
 Parazon ekranı ve Lich ekranında bazı değişiklikler yapılacak.
 
 {% embed url="https://streamable.com/bjls5" %}
@@ -103,6 +109,9 @@ Yakında gelecek yeni bir etkinlik ile yenilenmiş Simulacrum haritası kazanıl
 ### **Diğer Yenilikler**
 
 * Birincil Kitgun silahları yakında geliyor.
+
+{% embed url="https://streamable.com/kwmyd" %}
+
 * Kitgun silahı için değiştirilebilir kaplamalar
 
 {% embed url="https://streamable.com/di1yp" %}
