@@ -12,6 +12,12 @@ Daha sonra oyuncuların kendi müziklerini çalmalarını sağlayan bir Orbiter 
 ```
 {% endcode %}
 
+{% code title="Rammstein - Haifisch" %}
+```text
+6BAABACBAJBAbEAeBAjBA3CA6CBBEBICBPBBTBBuBBwKB3KB+MCGKCKBCQBCbBCiCCoCCwEC3CC+BDC
+```
+{% endcode %}
+
 {% code title="“Song of Storms” - Legend of Zelda: Ocarina of Time: u/werewodo" %}
 ```text
 6BAAEADSAIBAWEAaSAdUAuhA5UA9hBBUBFSBJKBNKBdBBkEBsJBwKB0KCFBCMECTJCXCCbBCtECxSC0BDCEDGSDJUDZhDjUDnhDrUDvSDzKD3KEHBEPEEXJEcKEgKExBE6
