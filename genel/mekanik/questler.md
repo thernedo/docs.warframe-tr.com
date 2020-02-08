@@ -18,12 +18,14 @@ Vor’un ödülü gibi bazı görevler zorunludur, çünkü oyuncular görev tar
 * Apostasy Prologue
 * The Sacrifice
 * Chimera Prologue
+* Erra
 * The New War \(Yakında\)
 {% endtab %}
 
 {% tab title=" Yan Görevler" %}
 * Howl of the Kubrow
 * A Man of Few Words
+* Rising Tide
 {% endtab %}
 
 {% tab title=" Warframe Görevler" %}
