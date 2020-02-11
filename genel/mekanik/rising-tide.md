@@ -23,5 +23,7 @@ Her bileşen için 12 saat onarım süreci vardır.
 * **6- Motor Kapağı**
   * 1m Kredi, 40 Copernics, 500 Patlayıcı Ampul, 10k Ferrite, 10k Değerli Metal
 
+{% page-ref page="kaynak-lokasyon.md" %}
+
 
 

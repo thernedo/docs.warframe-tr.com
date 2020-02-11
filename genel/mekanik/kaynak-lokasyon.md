@@ -38,12 +38,11 @@
       <td style="text-align:left">Copernics</td>
       <td style="text-align:left"><b>Orb Vallis</b>
       </td>
-      <td style="text-align:left">K&#x131;rm&#x131;z&#x131; Damar</td>
+      <td style="text-align:left">K&#x131;rm&#x131;z&#x131; Ta&#x15F;</td>
     </tr>
     <tr>
       <td style="text-align:left">Cubic Diodes</td>
-      <td style="text-align:left"><b>Europa</b>
-      </td>
+      <td style="text-align:left"><b>Europa </b>- Larzac</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -164,7 +163,7 @@
       <td style="text-align:left">Pustrels</td>
       <td style="text-align:left"><b>Eidolon Ovalar&#x131;</b>
       </td>
-      <td style="text-align:left">K&#x131;rm&#x131;z&#x131; Damar</td>
+      <td style="text-align:left">K&#x131;rm&#x131;z&#x131; Ta&#x15F;</td>
     </tr>
     <tr>
       <td style="text-align:left">Sinir Sens&#xF6;rleri</td>
