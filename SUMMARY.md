@@ -1,11 +1,12 @@
 # Table of contents
 
 * [Doküman](README.md)
-* [Yenilikler](yenilikler.md)
+* [Haberler](haberler.md)
 
 ## Genel
 
 * [Devstream](genel/devstream/README.md)
+  * [Devstream 138](genel/devstream/devstream-138.md)
   * [Devstream 137](genel/devstream/devstream-137.md)
   * [Devstream 136](genel/devstream/devstream-136.md)
 * [Etkinlik](genel/etkinlik/README.md)
