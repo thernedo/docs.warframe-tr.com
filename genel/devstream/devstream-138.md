@@ -12,6 +12,14 @@ Scarlet Spear ile başlayacak olan Operasyon görevleri için hazırlanan yeni r
 
 {% embed url="https://streamable.com/gmfbo" %}
 
+### Operasyon: Deadlock Protokol
+
+Corpus hakkındaki sırları ortaya çıkarın ve planlarını yeni bir yeniden düzenlenmiş fayans setindeki yeni savaş çerçevesi protea ile bitirin!
+
+Devstream 137'de gösterilen yenilenmiş Corpus fayans setine göz atın.
+
+{% page-ref page="devstream-137.md" %}
+
 ### Protea
 
 Animasyon
