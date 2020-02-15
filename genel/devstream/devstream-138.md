@@ -31,7 +31,7 @@ Animasyon
 
 ### **Sentient Silahı**
 
-Sentient silah tiplerine bir yenisi daha ekleniyor. Hem ışın hem hızlı ateşleme mekaniği yer alıyor.
+Sentient silah çeşidine bir yenisi daha ekleniyor. Hem ışın hem hızlı ateşleme mekaniği yer alıyor.
 
 {% embed url="https://streamable.com/ccimf" %}
 

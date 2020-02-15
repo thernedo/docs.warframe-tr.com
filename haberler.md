@@ -14,8 +14,6 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 Geliştirici yayınlarında gösterilen yenilikler ve düzenlemeler
 
-{% page-ref page="genel/devstream/devstream-138.md" %}
-
 {% page-ref page="genel/devstream/devstream-137.md" %}
 
 {% page-ref page="genel/devstream/devstream-136.md" %}
