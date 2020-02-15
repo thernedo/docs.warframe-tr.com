@@ -8,7 +8,7 @@ Yakında gelmesi planlanan 2 yeni Operasyon
 
 ### **Operasyon:** Scarlet Spear
 
-Operasyon için yeni görev alanı. Relay benzeri alanda gizemli farklı şeyler olacak.
+Scarlet Spear ile başlayacak olan Operasyon görevleri için hazırlanan yeni relay alanı. \(Farklı şeylerin yer olabileceği belirtiliyor\)
 
 {% embed url="https://streamable.com/gmfbo" %}
 
@@ -22,29 +22,23 @@ Animasyon
 
 {% embed url="https://streamable.com/qnxyx" %}
 
-\*\*\*\*
+### Railjack
 
+* Sentient düşman tipi yer alacak.
+* Düşman tipine göre kullanılacak yeni ses işlemeleri olacak
 
+{% embed url="https://streamable.com/y3nlw" %}
 
+### **Sentient Silahı**
 
+Sentient silah tiplerine bir yenisi daha ekleniyor. Hem ışın hem hızlı ateşleme mekaniği yer alıyor.
 
+{% embed url="https://streamable.com/ccimf" %}
 
+### Notlar
 
+* Primed Champer alamayan oyuncular Tennocon Relay için özel gelen [Baro Ki'Teer](https://warframe.fandom.com/wiki/Baro_Ki%27Teer)'dan temin edebilecek.
+* Daha önce gösterilen sentient tipi düşmana daha yakından bir bakış
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{% embed url="https://streamable.com/jrglv" %}
 
