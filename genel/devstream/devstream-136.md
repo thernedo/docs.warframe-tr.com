@@ -4,7 +4,7 @@
 
 3 yeni warframe Ön Kart eklenecek
 
-{% page-ref page="../mekanik/laverian.md" %}
+{% page-ref page="../rehber/laverian.md" %}
 
 ### **Moa** <a id="moa"></a>
 
