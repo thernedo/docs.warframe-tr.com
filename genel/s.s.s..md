@@ -1,5 +1,17 @@
 # S.S.S.
 
+## Fps Sorunları
+
+Listeli olarak belirtlilenleri uygulanması durumunda FPS sorunlarına çözüm olabilir.
+
+* Launcher ile dosya doğrulama ve önbellek işlemleri yapılmalı
+* Güncel ekran kartı sürücü kullanılmalı
+* Kullanılan işletim sisteminin güncel olması
+* vSync ayarlaması yapılmalı
+* Tam ekran iyileştirmeleri devre dışı bırakılabilir
+
+![](../.gitbook/assets/ekran-alintisi.PNG)
+
 ## Kamera açısını nasıl değiştirebilirim?
 
 Klavyeden **h** kısayol tuşu ile değiştirme yapılır.
