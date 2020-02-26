@@ -93,7 +93,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Morphics</td>
-      <td style="text-align:left"><b>Mars</b> - Ares, Martialis, Augustus, Ultor</td>
+      <td style="text-align:left"><b>Mars</b> - Ara, Ares, Martialis, Augustus, Ultor</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
