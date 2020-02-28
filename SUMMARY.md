@@ -6,10 +6,12 @@
 ## Genel
 
 * [Devstream](genel/devstream/README.md)
+  * [Devstream 139](genel/devstream/devstream-139.md)
   * [Devstream 138](genel/devstream/devstream-138.md)
   * [Devstream 137](genel/devstream/devstream-137.md)
   * [Devstream 136](genel/devstream/devstream-136.md)
 * [Etkinlik](genel/etkinlik/README.md)
+  * [Operasyon: Scarlet Spear](genel/etkinlik/operasyon-scarlet-spear.md)
   * [Nightwave](genel/etkinlik/nightwave/README.md)
     * [Temsilci](genel/etkinlik/nightwave/temsilci.md)
     * [Wolf of Saturn Six](genel/etkinlik/nightwave/wolf-of-saturn-six.md)
