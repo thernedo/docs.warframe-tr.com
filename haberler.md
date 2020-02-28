@@ -4,45 +4,27 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 # Haberler
 
-## Tennocon 2020
-
-![11 Temmuz 2020](https://n9e5v4d8.ssl.hwcdn.net/uploads/0762dea03cb8039209cfa0ea44cd43e1.jpg)
-
-{% embed url="https://www.warframe.com/tennocon2020/" %}
-
 ## Devstream
 
 Geliştirici yayınlarında gösterilen yenilikler ve düzenlemeler
 
-{% page-ref page="genel/devstream/devstream-139.md" %}
-
-{% page-ref page="genel/devstream/devstream-138.md" %}
-
-{% page-ref page="genel/devstream/devstream-137.md" %}
-
-{% page-ref page="genel/devstream/devstream-136.md" %}
+{% page-ref page="genel/devstream/" %}
 
 ## 2020
 
-Yıl içerisinde planlanan büyük yenilikler.
+### Mart
 
-### The New War
+{% page-ref page="genel/etkinlik/operasyon-scarlet-spear.md" %}
 
-{% embed url="https://www.youtube.com/watch?v=7ZW4cfsB6Pw" caption="" %}
+### Temmuz
+
+{% page-ref page="genel/tennocon/tennocon-2020.md" %}
 
 ## ∞ / Yakında
 
 Herhangi bir tarih aralığı belirlenmemiş içerikler
 
-### Duviri Paradoks
+{% page-ref page="genel/rehber/questler/the-new-war.md" %}
 
-2019 TennoLive'da gösterilen bir sonraki Warframe açık dünyası
-
-{% embed url="https://www.youtube.com/watch?v=8DObN\_3ha6M" caption="" %}
-
-### Oyuncu Deneyimi
-
-Yeni başlayan oyuncular için daha kolay deneyim sağlanacak. Hazırlanan CGI introsuna göz atmayı unutmayın.
-
-{% embed url="https://www.youtube.com/watch?v=9O-yCnQKYhM" caption="" %}
+{% page-ref page="genel/rehber/duviri-paradoks.md" %}
 
