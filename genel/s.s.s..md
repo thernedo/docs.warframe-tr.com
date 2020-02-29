@@ -10,7 +10,7 @@ Listeli olarak belirtlilenleri uygulanması durumunda FPS sorunlarına çözüm 
 * vSync ayarlaması yapılmalı
 * Tam ekran iyileştirmeleri devre dışı bırakılabilir
 
-![](../.gitbook/assets/ekran-alintisi.PNG)
+![](https://imgbbb.com/images/2020/02/29/ekran-alintisi.png)
 
 ## Kamera açısını nasıl değiştirebilirim?
 

@@ -2,7 +2,7 @@
 
 Sendikalar, Origin Sisteminde ayrı kurulmuş Grineer,Corpus ve Tennolardan oluşan gruplardır. Kendi ideolojileri ve hedefleriyle aralarında ittifak ve düşmanlık vardır.
 
-![](../../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lhzp1mrekdta7fssujk_-lhzpis_49qrunnq-rjy_sendikalar.webp)
+![](https://imgbbb.com/images/2020/02/29/assets_-lgoamcq2h0squvaydqb_-lhzp1mrekdta7fssujk_-lhzpis_49qrunnq-rjy_sendikalar.png)
 
 ## Sendikalar  <a id="sendikalar"></a>
 

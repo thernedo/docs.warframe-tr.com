@@ -10,7 +10,7 @@ description: 'Sezon 2: Nightwave'
 
 Outbreak Görevleri Sezon 2 - Bölüm 5 ile aktif olan nightwave mevkisi kasabileceğiniz mini görevlerdir.
 
-![](../../../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lo0nsangrcl4da_3xl9_-lo0pw6eftmw-porz5ac_image.png)
+![](https://imgbbb.com/images/2020/02/29/assets_-lgoamcq2h0squvaydqb_-lo0nsangrcl4da_3xl9_-lo0pw6eftmw-porz5ac_image.png)
 
 Navigasyondan aktif olduğu gezegendeki istila görevini 3 kez tamamlanarak gelen kutusuna 1 adet Zealot Derelict Kodu kazanılır. Zealot Derelict Kodu kullanılarak Temsilci Outbreak görevlerini yaparak 1.5k temsilci nightwave puanı verir.
 

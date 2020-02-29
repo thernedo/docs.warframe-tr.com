@@ -2,11 +2,11 @@
 
 **Pyrus Projesi** etkinliği süresince Dünya gezegenindeki yıkılmış **Strata Relay**‘i yeniden inşaat etmek için Steel Meridian’a yardım edin.
 
-![](../../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lhzivu81kmgiulz81jg_-lhzji3vtumkajq-xm82_64179d467e89f2525b45bb65b23618.webp)
+![](https://imgbbb.com/images/2020/02/29/assets_-lgoamcq2h0squvaydqb_-lhzivu81kmgiulz81jg_-lhzji3vtumkajq-xm82_64179d467e89f2525b45bb65b23618.png)
 
 Kayıp Relay’ı yeniden inşa etmek için aşağıdaki görevleri tamamlayın ve gerekli kaynakları **Strata Relay**‘a giderek bağışlayın. Gereken talimatlar Cressa Tal ile oyuna giriş yaptığınızda gelen kutunuza iletilecek.
 
-## Görev içeriği 
+## Görev içeriği
 
 {% tabs %}
 {% tab title="Aşama 1" %}
