@@ -147,9 +147,9 @@ Anahat güncellemesi ile birlikte daha iyi gölgeler, yansımalar, ışık duyar
 
 Maksimum görüş alanı 78'den 90'a çıkartıldı.
 
-![78](http://n9e5v4d8.ssl.hwcdn.net/uploads/f9c85ffc1072b3c01c606dcf0b5195da.jpg)
+![78](https://n9e5v4d8.ssl.hwcdn.net/uploads/f9c85ffc1072b3c01c606dcf0b5195da.jpg)
 
-![90](http://n9e5v4d8.ssl.hwcdn.net/uploads/9bc51707a085609583e1da670b7ce304.jpg)
+![90](https://n9e5v4d8.ssl.hwcdn.net/uploads/9bc51707a085609583e1da670b7ce304.jpg)
 
 ### Operasyon: Deadlock Protokol
 
