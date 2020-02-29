@@ -95,6 +95,8 @@ Kullanıcı arayüzünde değişiklikler yapılacak. Ana hat güncellemesi ile b
 
 ![](https://content.invisioncic.com/Mwarframe/monthly_2020_02/Placeholder.thumb.png.31905b14481c527ba494f1f33e5ff173.png)
 
+![](https://imgbbb.com/images/2020/02/29/assets_-lgoamcq2h0squvaydqb_-lmmsxg5h8evry9jm2wt_-lmmzo7uqhe9ws45vs15_image.png)
+
 ve daha fazlası!
 
 ## x100 Planlar
