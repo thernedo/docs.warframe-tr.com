@@ -10,20 +10,20 @@ Kayıp Relay’ı yeniden inşa etmek için aşağıdaki görevleri tamamlayın 
 
 {% tabs %}
 {% tab title="Aşama 1" %}
-#### 3 tane Grustrag Üçlüsü‘nü yen
+### 3 tane Grustrag Üçlüsü‘nü yen
 
 * Dünya, Merkür ve Satürn gezegenlerinden herhangi bir göreve girerek **Grustrag Üçlüsü**‘nü yenin. 3 kere yaptıktan sonra Grustrag Üçlüsü’nü yen aşaması tamamlanacaktır.
 * **Ceres\(Lex\)**, **Sedna\(Adaro\)**, **Satürn\(Cassini\)** görevlerden herhangi birine girerek, 1-5dk arasında Grustrag Üçlüsü saptanmasını bekleyin. Grustrag Üçlüsü saptandığında Cressa Ta’den bir mesaj alacaksınız. Mini haritada gözüken sarı ikonlu Grustrag Üçlüsü’nü öldürerek görevi tamamlayın.
 {% endtab %}
 
 {% tab title="Aşama 2" %}
-#### 30 tane **Pyrus Özü** bağışla
+### 30 tane **Pyrus Özü** bağışla
 
 * Dünya, Merkür, Satürn ve Ceres gezegenlerinde herhangi bir göreve girerek Essence taşıyıcısı saptandığında Cressa Ta’den bir mesaj alacaksınız. Haritada yerini gösteren özel bir simge ile belirecektir. Taşıyıcıyı öldürüp **Pyrus Özü** kazanıyorsunuz.
 {% endtab %}
 
 {% tab title="Aşama 3" %}
-#### Günlük Simaris Sentez Görevini tamamla
+### Günlük Simaris Sentez Görevini tamamla
 
 Günlük Sentez Görevi Nereden Alınır?
 
@@ -34,7 +34,7 @@ Günlük Sentez Görevi Nereden Alınır?
 {% endtab %}
 
 {% tab title="Aşama 4" %}
-#### 5 tane Relay Sütun Malzemesi bağışla
+### 5 tane Relay Sütun Malzemesi bağışla
 
 * Cressa Tal ile gelen kutunuza iletilen **Relay Sütun Bileşeni** kalıbını atölyenizde inşa edin. Trembaba Cevheri bileşeni Dünya, Merkür, Ceres ve Satürn gezegenlerinden herhangi bir göreve girerek elde ediliyor.
 * **Tavsiye Görev:** Satürn - \(Helene, Titan\)

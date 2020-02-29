@@ -1,22 +1,22 @@
 # Devstream 139
 
-### Operasyon: Scarlet Spear <a id="operasyon-scarlet-spear"></a>
+## Operasyon: Scarlet Spear <a id="operasyon-scarlet-spear"></a>
 
 Mart ayı başlarında gelmesi planlanıyor.
 
 {% page-ref page="../etkinlik/operasyon-scarlet-spear.md" %}
 
-{% embed url="https://streamable.com/08ebo" %}
+{% embed url="https://streamable.com/08ebo" caption="" %}
 
 ![](https://i.ibb.co/y6hmzq1/image.png)
 
-### Quest
+## Quest
 
 Eski savaşı anlatan yeni mini quest içeriği gelecek.
 
-{% embed url="https://streamable.com/iczk9" %}
+{% embed url="https://streamable.com/iczk9" caption="" %}
 
-### Rising Tide
+## Rising Tide
 
 Railjack yapımı için harcanan kaynaklarda değişiklikler yapıldı. Fazla kaynak, uzun zaman alan onarımlar ve yakında gelmesi planlanan Scarlet Spear etkinliği için oyuncu erişebilirliği arttırmak için değişikliğe gidildi.
 
@@ -25,9 +25,9 @@ Railjack yapımı için harcanan kaynaklarda değişiklikler yapıldı. Fazla ka
 
 Önceden tamamlayan oyunlar için ödüller verilecek
 
-{% embed url="https://streamable.com/vk0f5" %}
+{% embed url="https://streamable.com/vk0f5" caption="" %}
 
-### Railjack
+## Railjack
 
 Scarlet Spear ile birlikte büyük hata düzenlemeleri yapılacak.
 
@@ -38,15 +38,15 @@ Scarlet Spear ile birlikte büyük hata düzenlemeleri yapılacak.
 
 ve çok daha fazlası!
 
-### Zırh / Sağlık / Kalkan
+## Zırh / Sağlık / Kalkan
 
 Hasar ve oyuncu değişikliliğine gidilerek oyuncuların düşmanları ele alırken çeşitlilik ve seçim hissi yaşaması sağlanılacak.
 
-### **AI Aimbots**
+## **AI Aimbots**
 
 Daha yüksek seviye düşmanlar için dengelemede değişiklikler yapılacak. Tek başına oynadığınızda "daha az vurulma" gibi düşmanlar üzerinde yapılacak değişiklikle, oyun mekaniği bütünsel bir yenilenmenin parçası olacak.
 
-### **Arcane**
+## **Arcane**
 
 Warframe ve Operatör arcane değişiklikleri yapılarak, Rank3 seviyesi Rank5'e kadar arttırma yapılacak.
 
@@ -54,23 +54,23 @@ Warframe ve Operatör arcane değişiklikleri yapılarak, Rank3 seviyesi Rank5'e
 * Birleştirilen arcane'ler artık ayrıştırılabilecek
 * Scarlet Spear etkinliği ödüllerine arcane eklenmesi yapılacak
 
-{% embed url="https://streamable.com/2zl3l" %}
+{% embed url="https://streamable.com/2zl3l" caption="" %}
 
-### **Self Damage**
+## **Self Damage**
 
 Kendinize hasar verdiğiniz silahlar artık sorun olmaktan kalkıyor. Ağır hasar aldığınız durumlarda sersemleme animasyonları olacak.
 
-{% embed url="https://streamable.com/y98wp" %}
+{% embed url="https://streamable.com/y98wp" caption="" %}
 
-### Kazı Görevleri
+## Kazı Görevleri
 
 Kazılarda kalkan ve sağlık durumları Mobil Savunma görevleri ile aynı ölçeklendirilecek.
 
 ![](https://i.ibb.co/R9ZDr4c/image.png)
 
-{% embed url="https://streamable.com/k1wne" %}
+{% embed url="https://streamable.com/k1wne" caption="" %}
 
-### **Titania + Vauban**
+## **Titania + Vauban**
 
 **Titania** için Devstream 137'de gösterilen yetenek değişiklikleri yer alıyor.
 
@@ -78,32 +78,38 @@ Kazılarda kalkan ve sağlık durumları Mobil Savunma görevleri ile aynı öl�
 
 **Vauban** için temek zırh 50'den 150'ye / Vauban Prime için 100'den 200'e artış olacak.
 
-### **UI**
+## **Nova**
+
+[Worm Hole](https://warframe.fandom.com/wiki/Worm_Hole) yeteneği ile artık bazı şeyleri gönderebilirsiniz.
+
+{% embed url="https://streamable.com/7ge31" %}
+
+## **UI**
 
 Kullanıcı arayüzünde değişiklikler yapılacak. Ana hat güncellemesi ile birlikte gelecek.
 
 * Etiket adları artık varsayılan olarak ayarlanacak
 * Aviyonik ekranında "Tümünü Onar" yer alacak
 
-{% embed url="https://streamable.com/657jb" %}
+{% embed url="https://streamable.com/657jb" caption="" %}
 
 ![](https://content.invisioncic.com/Mwarframe/monthly_2020_02/Placeholder.thumb.png.31905b14481c527ba494f1f33e5ff173.png)
 
 ve daha fazlası!
 
-### 100x Planlar
+## 100x Planlar
 
 Enerji, sağlık, kalkan vb. potlar için tek seferde x100 adet yapılabilecek.
 
-{% embed url="https://streamable.com/687dc" %}
+{% embed url="https://streamable.com/687dc" caption="" %}
 
-### Sentinel
+## Sentinel
 
 Sentinel silahları ve warframe silahları aynı modu paylaşamama durumu kaldırılıyor.
 
-{% embed url="https://streamable.com/p9dfj" %}
+{% embed url="https://streamable.com/p9dfj" caption="" %}
 
-### Statü
+## Statü
 
 Daha fazla durum şansı kazanım getirilmesi planlanıyor. Kritik şans çarpanlarında olduğu gibi statüler içinde %200 varan artma yapılarak iki durum efekti ile sonuçlanabilecek. Statü durum şansını arttıran modlarda değişiklikler olacak.
 
@@ -112,21 +118,21 @@ Daha fazla durum şansı kazanım getirilmesi planlanıyor. Kritik şans çarpan
 * Sure Shot -&gt; %15'den %90'a çıkartıldı
 * Shotgun Savvy -&gt; %30'dan %90'a çıkartıldı
 
-{% embed url="https://streamable.com/8tujj" %}
+{% embed url="https://streamable.com/8tujj" caption="" %}
 
-### Deluxe Skin
+## Deluxe Skin
 
 ASH için hazırlanan yeni deluxe skin.
 
-{% embed url="https://streamable.com/s6u8m" %}
+{% embed url="https://streamable.com/s6u8m" caption="" %}
 
-### HUD
+## HUD
 
 El bombalarının nerede olduğu konusunda daha fazla farkındalık için işaret eklemesi yapıldı.
 
-{% embed url="https://streamable.com/vue57" %}
+{% embed url="https://streamable.com/vue57" caption="" %}
 
-### Kuva Lich
+## Kuva Lich
 
 Diğer sistemler ile kuva lich bağıntısı yapılarak, ana hat güncellemesi ile hazır hale getirecek.
 
@@ -137,13 +143,13 @@ Diğer sistemler ile kuva lich bağıntısı yapılarak, ana hat güncellemesi i
 
 ve daha fazlası!
 
-### HDR
+## HDR
 
 Yüksek Dinamik Aralığı destekleyen Grafik Kartı ve Monitörü olan **HDR Önizleme** oynatıcıları, yeni teknoloji ile önizlenebilecek!
 
 Anahat güncellemesi ile birlikte daha iyi gölgeler, yansımalar, ışık duyarlılığı ve daha fazlası en iyi görünecek.
 
-### Görüş Alanı
+## Görüş Alanı
 
 Maksimum görüş alanı 78'den 90'a çıkartıldı.
 
@@ -151,7 +157,7 @@ Maksimum görüş alanı 78'den 90'a çıkartıldı.
 
 ![90](https://n9e5v4d8.ssl.hwcdn.net/uploads/9bc51707a085609583e1da670b7ce304.jpg)
 
-### Operasyon: Deadlock Protokol
+## Operasyon: Deadlock Protokol
 
 Scarlet Spear operayonundan sonra gelecek büyük etkinlik. Yeni warframe Protea serbest bırakılacak.
 

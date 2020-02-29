@@ -4,11 +4,11 @@ Güneş Sistemi genelinde Tenno Relay’larının bünyesinde bulunan Cephalon y
 
 ![](https://imgbbb.com/images/2020/02/29/assets_-lgoamcq2h0squvaydqb_-lhznolo0rpkxafjwfkp_-lhzo7s4zz7oxmsi7laq_1.png)
 
-### Kinetic Siphon Trap
+## Kinetic Siphon Trap
 
 Sentez hedeflerini yavaşlatmak veya dikkatlerini çekmek için kullanılır.
 
-### Günlük Sentez Görevi Nereden Alınır?
+## Günlük Sentez Görevi Nereden Alınır?
 
 * Navigasyon’dan herhangi bir Relaya gidin. \(Örn: Satürn-Relay\)
 * Esc - Hızlı Gezinme - Cephalon Simaris

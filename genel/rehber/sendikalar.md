@@ -4,13 +4,13 @@ Sendikalar, Origin Sisteminde ayrı kurulmuş Grineer,Corpus ve Tennolardan olu�
 
 ![](https://imgbbb.com/images/2020/02/29/assets_-lgoamcq2h0squvaydqb_-lhzp1mrekdta7fssujk_-lhzpis_49qrunnq-rjy_sendikalar.png)
 
-## Sendikalar  <a id="sendikalar"></a>
+## Sendikalar <a id="sendikalar"></a>
 
 * **Grup Sendikalar:** Steel Meridian - Arbiters of Hexis - Cephalon Suda - The Perrin Sequence - Red Veil - New Loka
 * **Tarafsız Sendikalar:** Conclave - Cephalon Simaris - Ostron - The Quills - Solaris United
 * **Etkinlik Sendikalar:** Operational Supply
 
-## Grup Sendikalarına Katılım ve Puan Kasma  <a id="grup-sendikalar&#x131;na-kat&#x131;l&#x131;m-ve-puan-kasma"></a>
+## Grup Sendikalarına Katılım ve Puan Kasma <a id="grup-sendikalar&#x131;na-kat&#x131;l&#x131;m-ve-puan-kasma"></a>
 
 * Sendikalara katılım yapılmadan önce Ustalık seviyesi 3’e ulaşılmalıdır.
 * Ustalık seviyesi 3’e ulaşıldığında Sendika seçiminde ilk 3 veya son 3 sendika arasında birine karar vererek seçmeniz gerekir. ilk 3 ve son 3 sendikalar:

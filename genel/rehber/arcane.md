@@ -4,7 +4,7 @@ Oyun içerisinde birtakım özellikleri kullanabilmenizi sağlayan geliştirileb
 
 ![](https://imgbbb.com/images/2020/02/29/assets_-lgoamcq2h0squvaydqb_-lhzivu81kmgiulz81jg_-lhziiud-h9fwx2ojkja_arcane.png)
 
-## Notlar  <a id="notlar"></a>
+## Notlar <a id="notlar"></a>
 
 * Warframe için kullanılan arcaneler Teralyst, Gantulyst ve Hydrolyst’den düşer.
 * Operatör için kullanılan arcaneler **Quill Onkko**‘dan alınıyor. \(**The Quills** sendika puanıyla\)
