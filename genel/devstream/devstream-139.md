@@ -97,7 +97,7 @@ Kullanıcı arayüzünde değişiklikler yapılacak. Ana hat güncellemesi ile b
 
 ve daha fazlası!
 
-## 100x Planlar
+## x100 Planlar
 
 Enerji, sağlık, kalkan vb. potlar için tek seferde x100 adet yapılabilecek.
 
