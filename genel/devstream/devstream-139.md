@@ -6,6 +6,8 @@ Mart ayı başlarında gelmesi planlanıyor.
 
 {% page-ref page="../etkinlik/operasyon-scarlet-spear.md" %}
 
+{% embed url="https://streamable.com/08ebo" %}
+
 ![](https://i.ibb.co/y6hmzq1/image.png)
 
 ### Quest
@@ -51,6 +53,8 @@ Warframe ve Operatör arcane değişiklikleri yapılarak, Rank3 seviyesi Rank5'e
 * Aynı arcane'den ikisini aynı anda donatma kaldırılacak
 * Birleştirilen arcane'ler artık ayrıştırılabilecek
 * Scarlet Spear etkinliği ödüllerine arcane eklenmesi yapılacak
+
+{% embed url="https://streamable.com/2zl3l" %}
 
 ### **Self Damage**
 
@@ -107,6 +111,14 @@ Daha fazla durum şansı kazanım getirilmesi planlanıyor. Kritik şans çarpan
 * Melee Prowess -&gt; %15'den %90'a çıkartıldı
 * Sure Shot -&gt; %15'den %90'a çıkartıldı
 * Shotgun Savvy -&gt; %30'dan %90'a çıkartıldı
+
+{% embed url="https://streamable.com/8tujj" %}
+
+### Deluxe Skin
+
+ASH için hazırlanan yeni deluxe skin.
+
+{% embed url="https://streamable.com/s6u8m" %}
 
 ### HUD
 
