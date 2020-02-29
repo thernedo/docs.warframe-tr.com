@@ -6,13 +6,13 @@ Dukatların değeri 3'e ayrılır:
 
 * Bronz - 15 Dukat
 * Gümüş - 45 Dukat
-* Altın - 100 Dukat 
+* Altın - 100 Dukat
 
 > Dukat: Sadece Prime kalıp ve bileşenlerden elde edilir. Diğer oyuncular ile takas edilemez!
 
 * Dukat Miktarı öğrenmek için **Esc-Ekipman-Envanter**
 
-![](../../.gitbook/assets/warframe0001.webp)
+![](https://imgbbb.com/images/2020/02/29/warframe0001.png)
 
 
 

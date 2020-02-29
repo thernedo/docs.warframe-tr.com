@@ -4,7 +4,7 @@ description: 'Sezon 2: Nightwave'
 
 # Temsilci
 
-![](../../../.gitbook/assets/assets_-lgoamcq2h0squvaydqb_-lmrst1orqcdindsuoms_-lmrsub5zhoore5qnnx7_image.webp)
+![](https://imgbbb.com/images/2020/02/29/assets_-lgoamcq2h0squvaydqb_-lmrst1orqcdindsuoms_-lmrsub5zhoore5qnnx7_image.png)
 
 ## Outbreak <a id="outbreak"></a>
 
