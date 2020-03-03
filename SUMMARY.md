@@ -11,6 +11,7 @@
   * [Empyrean](genel/rehber/empyrean.md)
   * [Kuva Lich](genel/rehber/kuva-lich.md)
   * [Glyph Kodları](genel/rehber/glyph-kodlari.md)
+  * [Ephemera](genel/rehber/ephemera.md)
   * [Exilus Adapter](genel/rehber/exilus-adapter.md)
   * [Rising Tide](genel/rehber/rising-tide.md)
   * [Orokin Dukat](genel/rehber/orokin-dukat.md)
