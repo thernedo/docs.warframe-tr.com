@@ -1,5 +1,11 @@
 # S.S.S.
 
+## Klandan Nasıl Ayrılırım ?
+
+Esc - İletişim - Klan
+
+Klan sayfasından kullanıcı adınıza sağ tıklama yaparak "Klandan Ayrıl" demeniz yeterlidir.
+
 ## Fps Sorunları
 
 Listeli olarak belirtlilenleri uygulanması durumunda FPS sorunlarına çözüm olabilir.
