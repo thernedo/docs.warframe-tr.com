@@ -35,6 +35,16 @@
       <td style="text-align:left">Etkinlik aktifken elde edilir.</td>
     </tr>
     <tr>
+      <td style="text-align:left">Corpun</td>
+      <td style="text-align:left">Eidolon Ovalar&#x131;</td>
+      <td style="text-align:left">Madenlerden elde edilir</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Corpun Ala&#x15F;&#x131;m&#x131;</td>
+      <td style="text-align:left"><b>Cetus</b> - Ya&#x15F;l&#x131; Suumbaat</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Copernics</td>
       <td style="text-align:left"><b>Orb Vallis</b>
       </td>
