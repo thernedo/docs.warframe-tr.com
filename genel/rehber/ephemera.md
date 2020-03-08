@@ -12,7 +12,7 @@ Warframe ve Operatör için bir kozmetik ürünüdür. Kuşanıldığında gövd
 
 ### Vengeful Serisi
 
-Larvingler, silahların hasar bonuslarına göre %20 şansa bir Ephemeraya sahiptir. Ephemeraya sahip Kuva Lich'i dönüştürme yada öldürme yapıldığında kazanılır. 
+Larvingler, %20 şansa bir Ephemeraya sahiptir. Ephemeraya sahip Kuva Lich'i dönüştürme yada öldürme yapıldığında kazanılır. 
 
 | Ephemera Adı | Görsel |
 | :--- | :--- |
