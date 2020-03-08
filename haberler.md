@@ -14,6 +14,8 @@ Geliştirici yayınlarında gösterilen yenilikler ve düzenlemeler
 
 ### Mart
 
+Mart ayında gelmesi planlanan içerikler.
+
 {% page-ref page="genel/etkinlik/operasyon-scarlet-spear.md" %}
 
 ### Temmuz
