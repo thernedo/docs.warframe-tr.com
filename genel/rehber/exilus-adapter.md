@@ -17,8 +17,6 @@ Warframe'e ilaveten 1 slot daha açarak kullanılacak Exilus Mod ile Güç veya 
 
 ## Üretim Gereksinimleri
 
-![](../../.gitbook/assets/image.webp)
-
 ## Not
 
 * Füzyonlama işlemi yapıldıktan sonra kullanılan **Exilus Adapter** geri alınamaz.

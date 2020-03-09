@@ -57,3 +57,7 @@ Nightwave ile haftalık ve günlük olarak yenilenen görevleri kolay yoldan yap
 {% endtab %}
 {% endtabs %}
 
+{% page-ref page="wolf-of-saturn-six.md" %}
+
+{% page-ref page="temsilci.md" %}
+

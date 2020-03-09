@@ -10,23 +10,23 @@ Geliştirici yayınlarında gösterilen yenilikler ve düzenlemeler
 
 {% page-ref page="genel/devstream/" %}
 
-## 2020
-
-### Mart
+## Mart/2020
 
 Mart ayında gelmesi planlanan içerikler.
 
 {% page-ref page="genel/etkinlik/operasyon-scarlet-spear.md" %}
 
-### Temmuz
+## Temmuz/2020
 
-{% page-ref page="genel/tennocon/tennocon-2020.md" %}
+![11 Temmuz 2020](https://n9e5v4d8.ssl.hwcdn.net/uploads/0762dea03cb8039209cfa0ea44cd43e1.jpg)
+
+{% embed url="https://www.warframe.com/tennocon2020/" %}
 
 ## ∞ / Yakında
 
 Herhangi bir tarih aralığı belirlenmemiş içerikler
 
-{% page-ref page="genel/rehber/questler/the-new-war.md" %}
+{% page-ref page="genel/rehber/the-new-war.md" %}
 
 {% page-ref page="genel/rehber/duviri-paradoks.md" %}
 
