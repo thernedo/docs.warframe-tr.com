@@ -14,7 +14,7 @@ Geliştirici yayınlarında gösterilen yenilikler ve düzenlemeler
 
 Mart ayında gelmesi planlanan içerikler.
 
-{% page-ref page="genel/etkinlik/operasyon-scarlet-spear.md" %}
+{% page-ref page="genel/lore/operasyon-scarlet-spear.md" %}
 
 ## Temmuz/2020
 
