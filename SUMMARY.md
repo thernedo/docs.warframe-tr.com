@@ -34,6 +34,7 @@
   * [Yuvalar](genel/rehber/yuvalar.md)
   * [Shawzin](genel/rehber/shawzin.md)
 * [Devstream](genel/devstream/README.md)
+  * [Devstream 140](genel/devstream/devstream-140.md)
   * [Devstream 139](genel/devstream/devstream-139.md)
   * [Devstream 138](genel/devstream/devstream-138.md)
   * [Devstream 137](genel/devstream/devstream-137.md)
