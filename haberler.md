@@ -18,7 +18,7 @@ Mart ayında gelmesi planlanan içerikler.
 
 ## Temmuz/2020
 
-![](https://pbs.twimg.com/media/ETAhLKBWAAAdhWA?format=jpg&name=large)
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/31df890399a657dc66029af18984dadd.jpg)
 
 {% embed url="https://www.warframe.com/tr/tennocon" %}
 
