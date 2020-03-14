@@ -46,7 +46,17 @@ Flotilla'daki Little Duck'tan satın alınabilecek ödüller:
 
 {% embed url="https://streamable.com/qu213" %}
 
+## Simulacrum
+
+Flotilla'daki Little Duck'tan satın alabileceğiniz yenilenmiş Simulacrum haritası
+
+{% embed url="https://streamable.com/u0s6l" %}
+
+## Nova
+
 Güncelleme ile birlikte Nova Deluxe Skin ve koleksiyonu yer alacak
+
+{% embed url="https://streamable.com/0snht" %}
 
 ## Revize
 
