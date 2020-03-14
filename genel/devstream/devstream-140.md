@@ -10,7 +10,7 @@ Yakında daha fazla ayrıntı olarak paylaşımlar yapılacak.
 
 Bir sonraki Prime Warframe
 
-### [Titania Prime](https://clips.twitch.tv/HilariousSweetClipzHotPokket?tt_content=player_title&tt_medium=clips_embed)
+### Titania Prime
 
 {% embed url="https://streamable.com/1vpfp" %}
 
