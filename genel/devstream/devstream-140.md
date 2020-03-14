@@ -2,7 +2,7 @@
 
 ## Tennocon 2020
 
-COVID-19'u çevreleyen yaygın endişeler nedeniyle TennoCon 2020'nin katılımcı etkinliği bölümünü iptal edildi. Tennocon'un büyüsünü ve heyecanını paylaşmak için 11 Temmuz'da dijital olarak paylaşılmasını sağlanacak.
+COVID-19'u çevreleyen yaygın endişeler nedeniyle TennoCon 2020'nin katılımcı etkinliği bölümünü iptal edildi. Tennocon'un büyüsünü ve heyecanını paylaşmak için 11 Temmuz'da dijital olarak paylaşılması sağlanacak.
 
 Yakında daha fazla ayrıntı olarak paylaşımlar yapılacak.
 
@@ -18,7 +18,7 @@ Bir sonraki Prime Warframe
 
 {% embed url="https://streamable.com/o2jm5" %}
 
-Razorwing'de kendi benzersiz hareket seti ve özel FX içeriyor.
+Razorwing kendi benzersiz hareket seti ve özel FX içeriyor.
 
 ## Scarlet Spear
 
@@ -28,11 +28,11 @@ Dünyadaki Scarlet Spear Flotilla'ya katılan oyunculara iki farklı görev tür
 
 Bunlar, sizi yeni bir Sentient tehdidiyle temasa sokan ve ekibinizi ve ekipmanınızı sınırına itmek için teşvikler sunan sonsuz görevlerdir. Ne kadar uzun kalırsanız, o kadar değerli olacaktır!
 
-Dünyadaki yeni Condrix düşmanlarını devre dışı bırakarak öldürme kodlarını toplayın ve uzaydaki Tenno arkadaşınız için kodları Orbit'e yükleyin:
+Dünyadaki yeni Condrix düşmanlarını devre dışı bırakarak öldürme kodlarını toplayın ve uzaydaki Tenno arkadaşınız için kodları Orbit'e yükleyin.
 
 {% embed url="https://streamable.com/nv5r8" %}
 
-Murex Raid oyuncularının bir Sentient gemisindeki OpLinks savunmasını dengelemeleri gerekirken aynı zamanda Railjack'leriyle bir uyduyu da savunmaları gerekir:
+Murex Raid oyuncularının bir Sentient gemisindeki OpLinks savunmasını dengelemeleri gerekirken aynı zamanda Railjack'leriyle bir uyduyu da savunmaları gerekir.
 
 {% embed url="https://streamable.com/xm1v9" %}
 
@@ -43,6 +43,8 @@ Flotilla'daki Little Duck'tan satın alınabilecek ödüller:
 * Klan Sigils
 * Yeni Simulacrum alanı
 * Arcaneler yer alacak.
+
+{% embed url="https://streamable.com/qu213" %}
 
 Güncelleme ile birlikte Nova Deluxe Skin ve koleksiyonu yer alacak
 
