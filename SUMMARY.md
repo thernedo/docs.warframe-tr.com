@@ -41,6 +41,7 @@
   * [Devstream 136](genel/devstream/devstream-136.md)
 * [Lore](genel/lore/README.md)
   * [Operasyon: Scarlet Spear](genel/lore/operasyon-scarlet-spear.md)
+  * [Operasyon: Deadlock Protokol](genel/lore/operasyon-deadlock-protokol.md)
   * [Pyrus Projesi](genel/lore/pyrus-projesi.md)
   * [Nightwave](genel/lore/nightwave.md)
   * [Wolf of Saturn Six](genel/lore/wolf-of-saturn-six.md)

@@ -14,7 +14,17 @@ Geliştirici yayınlarında gösterilen yenilikler ve düzenlemeler
 
 Mart ayında gelmesi planlanan içerikler.
 
+### Operasyon: Scarlet Spear
+
+16-20 Mart arası gelmesi planlanıyor
+
+![](https://i.ibb.co/y6hmzq1/image.png)
+
 {% page-ref page="genel/lore/operasyon-scarlet-spear.md" %}
+
+## Nisan/2020
+
+{% page-ref page="genel/lore/operasyon-deadlock-protokol.md" %}
 
 ## Temmuz/2020
 
