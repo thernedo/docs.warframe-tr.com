@@ -57,7 +57,17 @@ Nightwave ile haftalık ve günlük olarak yenilenen görevleri kolay yoldan yap
 {% endtab %}
 {% endtabs %}
 
+## Sezon 1
+
 {% page-ref page="wolf-of-saturn-six.md" %}
 
+## Sezon 2
+
 {% page-ref page="temsilci.md" %}
+
+## Sezon 3
+
+{% page-ref page="glassmaker.md" %}
+
+
 

@@ -1,5 +1,5 @@
 ---
-description: 'Sezon 2: Nightwave'
+description: 'Nightwave: Sezon 2'
 ---
 
 # Temsilci

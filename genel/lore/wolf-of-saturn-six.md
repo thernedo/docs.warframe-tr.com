@@ -1,5 +1,5 @@
 ---
-description: 'Sezon 1: Nightwave'
+description: 'Nightwave: Sezon 1'
 ---
 
 # Wolf of Saturn Six

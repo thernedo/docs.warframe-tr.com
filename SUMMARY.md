@@ -44,6 +44,8 @@
   * [Operasyon: Deadlock Protokol](genel/lore/operasyon-deadlock-protokol.md)
   * [Pyrus Projesi](genel/lore/pyrus-projesi.md)
   * [Nightwave](genel/lore/nightwave.md)
+  * [Nightwave Görevler](genel/lore/nightwave-goerevler.md)
+  * [Glassmaker](genel/lore/glassmaker.md)
   * [Wolf of Saturn Six](genel/lore/wolf-of-saturn-six.md)
   * [Temsilci](genel/lore/temsilci.md)
   * [Revenant'ın Maskesi](genel/lore/revenantin-maskesi.md)
