@@ -2,6 +2,8 @@
 
 Nightwave ile haftalık ve günlük olarak yenilenen görevleri kolay yoldan yapabileceğiniz ipuçları
 
+### Görevler
+
 <table>
   <thead>
     <tr>
@@ -48,5 +50,3 @@ Nightwave ile haftalık ve günlük olarak yenilenen görevleri kolay yoldan yap
     </tr>
   </tbody>
 </table>
-
-
