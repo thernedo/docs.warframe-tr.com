@@ -18,7 +18,7 @@ Bir sonraki Prime Warframe
 
 {% embed url="https://streamable.com/o2jm5" %}
 
-Razorwing'de kendi benzersiz hareket setini ve özel FX içeriyor.
+Razorwing'de kendi benzersiz hareket seti ve özel FX içeriyor.
 
 ## Scarlet Spear
 
