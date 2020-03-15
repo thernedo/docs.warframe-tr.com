@@ -82,7 +82,7 @@ Mevcut Archwing setleriyle yapabileceğiniz tüm çeşitli kombinasyonlara bir g
 
 ![](https://n9e5v4d8.ssl.hwcdn.net/uploads/b3592c4a0382067f56f44a23ec845683.jpg)
 
-Tüm veya herhangi bir Archwings'e sahipseniz, değişiklikler yapıldığında onları istediğiniz gibi inşa etmeniz için modüler parçaları verilecek.
+Modüler Archwings ile birlikte tüm veya herhangi bir Archwings'e sahipseniz, onları istediğiniz gibi inşa etmeniz için modüler parçaları verilecek.
 
 ## Ash Deluxe Skin
 
