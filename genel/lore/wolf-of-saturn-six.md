@@ -4,7 +4,5 @@ description: 'Nightwave: Sezon 1'
 
 # Wolf of Saturn Six
 
-
-
-![](https://imgbbb.com/images/2020/02/29/66eb64e59870151fe3955e68e84af9f2.png)
+![](https://cdn-w1.netlify.com/warframe-tr.com/2020/89931771_2574570316204009_9190134603505991680_o.jpg)
 

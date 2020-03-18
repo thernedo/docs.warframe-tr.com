@@ -4,7 +4,7 @@ description: 'Nightwave: Sezon 2'
 
 # Temsilci
 
-![](https://imgbbb.com/images/2020/02/29/assets_-lgoamcq2h0squvaydqb_-lmrst1orqcdindsuoms_-lmrsub5zhoore5qnnx7_image.png)
+![](https://cdn-w1.netlify.com/warframe-tr.com/2020/assets_-lgoamcq2h0squvaydqb_-lmrst1orqcdindsuoms_-lmrsub5zhoore5qnnx7_image.png)
 
 ## Outbreak <a id="outbreak"></a>
 
