@@ -22,6 +22,14 @@ Mart ayında gelmesi planlanan içerikler.
 
 {% page-ref page="genel/lore/operasyon-scarlet-spear.md" %}
 
+### Prime Access
+
+Ivara Prime Access 31 Mart'ta sona eriyor!
+
+![](https://pbs.twimg.com/media/ETaJJChXkAIKiMc?format=jpg&name=large)
+
+{% embed url="https://www.warframe.com/tr/news/ivara-prime-access-ends-march-31" %}
+
 ## Nisan/2020
 
 {% page-ref page="genel/lore/operasyon-deadlock-protokol.md" %}
