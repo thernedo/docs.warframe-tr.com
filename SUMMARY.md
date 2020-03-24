@@ -18,6 +18,7 @@
   * [Orokin Dukat](genel/rehber/orokin-dukat.md)
   * [Questler](genel/rehber/questler.md)
   * [The New War](genel/rehber/the-new-war.md)
+  * [Prime Access](genel/rehber/prime-access.md)
   * [Tarama Hedefleri](genel/rehber/tarama-hedefleri.md)
   * [Arcane](genel/rehber/arcane.md)
   * [Sohbet Komutları](genel/rehber/sohbet-komutlari.md)

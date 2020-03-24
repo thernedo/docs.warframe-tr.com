@@ -1,3 +1,7 @@
+---
+description: Geliştirici yayınlarında gösterilen yenilikler ve düzenlemeler
+---
+
 # Devstream
 
 ## 2020

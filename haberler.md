@@ -4,31 +4,13 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 # Haberler
 
-## Devstream
-
-Geliştirici yayınlarında gösterilen yenilikler ve düzenlemeler
-
 {% page-ref page="genel/devstream/" %}
 
 ## Mart/2020
 
 Mart ayında gelmesi planlanan içerikler.
 
-### Operasyon: Scarlet Spear
-
-16-20 Mart arası gelmesi planlanıyor
-
-![](https://i.ibb.co/y6hmzq1/image.png)
-
-{% page-ref page="genel/lore/operasyon-scarlet-spear.md" %}
-
-### Prime Access
-
-Ivara Prime Access 31 Mart'ta sona eriyor!
-
-![](https://pbs.twimg.com/media/ETaJJChXkAIKiMc?format=jpg&name=large)
-
-{% embed url="https://www.warframe.com/tr/news/ivara-prime-access-ends-march-31" %}
+{% page-ref page="genel/rehber/prime-access.md" %}
 
 ## Nisan/2020
 
