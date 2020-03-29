@@ -12,8 +12,6 @@ Digital Extremes çalışanları tarafından bahsedilen veya onaylanan gelecekte
 
 ### Sentient
 
-{% embed url="https://streamable.com/05l2e" %}
-
 {% embed url="https://streamable.com/0fdtq" %}
 
 {% embed url="https://streamable.com/m4gi0" %}
