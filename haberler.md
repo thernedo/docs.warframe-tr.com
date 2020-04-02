@@ -6,12 +6,6 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 {% page-ref page="genel/devstream/" %}
 
-## Mart/2020
-
-Mart ayında gelmesi planlanan içerikler.
-
-{% page-ref page="genel/rehber/prime-access.md" %}
-
 ## Nisan/2020
 
 {% page-ref page="genel/lore/operasyon-deadlock-protokol.md" %}
