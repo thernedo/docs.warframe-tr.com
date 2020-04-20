@@ -9,7 +9,6 @@
   * [Duviri Paradoks](genel/rehber/duviri-paradoks.md)
   * [Laverian](genel/rehber/laverian.md)
   * [Empyrean](genel/rehber/empyrean.md)
-  * [Gelecek Yenilikler](genel/rehber/gelecek-yenilikler.md)
   * [Kuva Lich](genel/rehber/kuva-lich.md)
   * [Glyph Kodları](genel/rehber/glyph-kodlari.md)
   * [Ephemera](genel/rehber/ephemera.md)
