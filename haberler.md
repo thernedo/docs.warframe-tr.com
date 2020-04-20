@@ -6,9 +6,11 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 {% page-ref page="genel/devstream/" %}
 
-## Nisan/2020
+## Mayıs/2020
 
-{% page-ref page="genel/lore/operasyon-deadlock-protokol.md" %}
+Nightwave: Sezon Arası II sona eriyor \(3 Mayıs\)
+
+{% embed url="https://www.warframe-tr.com/nightwave" %}
 
 ## Temmuz/2020
 
@@ -19,6 +21,8 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 ## ∞ / Yakında
 
 Herhangi bir tarih aralığı belirlenmemiş içerikler
+
+{% page-ref page="genel/lore/operasyon-deadlock-protokol.md" %}
 
 {% page-ref page="genel/rehber/the-new-war.md" %}
 
