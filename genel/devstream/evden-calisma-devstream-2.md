@@ -20,13 +20,37 @@ Reaktör parçaları ile füzyonlama işlemi yapılabilecek
 
 ## Protea
 
+Operasyon: Deadlock Protokol ile gelmesi planlanan yeni warframe
+
+### Animasyon & Miğfer
+
+{% embed url="https://streamable.com/0jb2jx" %}
+
+### Yetenekler & Oynanış 
+
+{% embed url="https://streamable.com/xk5l7z" %}
+
 ## Nightwave
+
+{% page-ref page="../lore/glassmaker.md" %}
+
+{% embed url="https://streamable.com/6rk4om" %}
+
+### Glassmaker Emerges
+
+{% embed url="https://streamable.com/yy47ms" %}
 
 ## Corpus
 
+Yenilenmiş corpus tileset
+
+{% embed url="https://streamable.com/e1az5r" %}
+
 ## Jackal
 
-## Pets 2.0
+{% embed url="https://streamable.com/523wdq" %}
+
+Yenilenmiş corpus tileset ile geliyor
 
 ## Market
 
@@ -47,4 +71,8 @@ Warframe topluluğu tarafından oluşturulan bir sonraki warframe
 Forum üzerinen Broken warframe için yetenek fikirlerinizi paylaşabilirsiniz.
 
 {% embed url="https://forums.warframe.com/topic/1185933-open-call-for-warframe-ability-ideas/" %}
+
+## Diğer
+
+* Pets 2.0 üzerinde çalışmalar devam ediyor
 
