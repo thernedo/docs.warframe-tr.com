@@ -12,6 +12,8 @@ Nightwave: Sezon Arası II sona eriyor \(3 Mayıs\)
 
 {% embed url="https://www.warframe-tr.com/nightwave" %}
 
+{% page-ref page="genel/lore/operasyon-deadlock-protokol.md" %}
+
 ## Temmuz/2020
 
 ![](https://n9e5v4d8.ssl.hwcdn.net/uploads/31df890399a657dc66029af18984dadd.jpg)
@@ -21,8 +23,6 @@ Nightwave: Sezon Arası II sona eriyor \(3 Mayıs\)
 ## ∞ / Yakında
 
 Herhangi bir tarih aralığı belirlenmemiş içerikler
-
-{% page-ref page="genel/lore/operasyon-deadlock-protokol.md" %}
 
 {% page-ref page="genel/rehber/the-new-war.md" %}
 
