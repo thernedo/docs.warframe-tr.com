@@ -6,9 +6,9 @@ description: Geliştirici yayınlarında gösterilen yenilikler ve düzenlemeler
 
 ## 2020
 
-{% page-ref page="evden-calisma-devstream-2.md" %}
+{% page-ref page="home-devstream-2.md" %}
 
-{% page-ref page="evden-calisma-devstream-1.md" %}
+{% page-ref page="home-devstream-1.md" %}
 
 {% page-ref page="devstream-140.md" %}
 
