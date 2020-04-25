@@ -1,4 +1,4 @@
-# Evden Çalışma - Devstream 2
+# Home Devstream 2
 
 ### Deadlock Protocol
 
@@ -32,7 +32,7 @@ Operasyon: Deadlock Protokol ile gelmesi planlanan yeni warframe
 
 ## Nightwave
 
-{% page-ref page="../lore/glassmaker.md" %}
+Yeni ödüller ve hikaye ile gelecek
 
 {% embed url="https://streamable.com/6rk4om" %}
 
@@ -45,6 +45,8 @@ Operasyon: Deadlock Protokol ile gelmesi planlanan yeni warframe
 Yenilenmiş corpus tileset
 
 {% embed url="https://streamable.com/e1az5r" %}
+
+![Deadlock protokol&#xFC; i&#xE7;in token sistemi](https://vignette.wikia.nocookie.net/warframe/images/9/97/Screenshot_20200424-225815_YouTube.jpg/revision/latest?cb=20200425071444)
 
 ## Jackal
 
@@ -60,7 +62,7 @@ Market arayüzünde yeni filtrelemeler eklendi
 
 ## Ash Deluxe
 
-{% embed url="https://streamable.com/iy7ujs" %}
+![](https://vignette.wikia.nocookie.net/warframe/images/7/78/Screenshot_20200424-221752_Twitch.jpg/revision/latest?cb=20200425070940)
 
 ## Broken Warframe
 
