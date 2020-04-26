@@ -34,6 +34,8 @@ Operasyon: Deadlock Protokol ile gelmesi planlanan yeni warframe
 
 Yeni ödüller ve hikaye ile gelecek
 
+![](https://imgbbb.com/images/2020/04/26/image1e4930fb43b1e796.png)
+
 {% embed url="https://streamable.com/6rk4om" %}
 
 ### Glassmaker Emerges
@@ -61,6 +63,8 @@ Market arayüzünde yeni filtrelemeler eklendi
 {% embed url="https://streamable.com/787wl9" %}
 
 ## Ash Deluxe
+
+Bir sonraki deluxe içeriği
 
 ![](https://vignette.wikia.nocookie.net/warframe/images/7/78/Screenshot_20200424-221752_Twitch.jpg/revision/latest?cb=20200425070940)
 
