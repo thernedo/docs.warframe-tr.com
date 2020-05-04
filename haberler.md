@@ -8,7 +8,7 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 ## Mayıs/2020
 
-Nightwave: Sezon Arası II sona eriyor \(3 Mayıs\)
+{% page-ref page="genel/lore/glassmaker.md" %}
 
 {% embed url="https://www.warframe-tr.com/nightwave" %}
 
