@@ -20,7 +20,7 @@ Bu ay içerisinde gelmesi planlanıyor.
 
 Bir sonraki deluxe içeriği
 
-{% embed url="https://streamable.com/k4hvig" %}
+{% embed url="https://streamable.com/eudyjc" %}
 
 ### Yay & Prex Kart
 
@@ -32,7 +32,7 @@ Bir sonraki deluxe içeriği
 
 ![](https://imgbbb.com/images/2020/05/09/imaged724ab9bc86dfc9f.png)
 
-{% embed url="https://streamable.com/9nh43t" %}
+{% embed url="https://streamable.com/86ujsc" %}
 
 ## Soru-Cevap Kanalı
 
@@ -44,39 +44,29 @@ Oyun için yeni soru-cevap sohbet kanalı
 
 ## Garuda Deluxe
 
-{% embed url="https://streamable.com/hnyfy1" %}
+{% embed url="https://streamable.com/mhv6sj" %}
 
 ## Khora Deluxe
 
-{% embed url="https://streamable.com/aw23sy" %}
+{% embed url="https://streamable.com/6ry82b" %}
 
 ## Dojo Skybox Odası
 
-{% embed url="https://streamable.com/a9evqz" %}
-
-## TennoCon 2020 Dijital Paket Sanatı
-
-{% embed url="https://streamable.com/ifzqi0" %}
+{% embed url="https://streamable.com/h2k6h1" %}
 
 ## Kuva Lich Sinematik
 
-{% embed url="https://streamable.com/kkkwmr" %}
+{% embed url="https://streamable.com/ptighr" %}
 
 ## "Herhangi Bir Mürettebata Katıl" Demiryolu Eşleştirme
 
-{% embed url="https://streamable.com/zfqfdr" %}
-
-## Warframe Revised: Railjack
-
-Warframe Revize: Railjack Revisited \(Bölüm 2\) ile yenilik ve değişiklikler hakkında bilgilendirmeler
-
-{% embed url="https://streamable.com/e1vvj0" %}
+{% embed url="https://streamable.com/s8nn7c" %}
 
 ## "Zor Mod" Görevleri
 
-{% embed url="https://streamable.com/p5hyz8" %}
+{% embed url="https://streamable.com/2dhvbd" %}
 
 ## Corpus - Omuz Zırhı
 
-{% embed url="https://streamable.com/xyx5nh" %}
+{% embed url="https://streamable.com/1pi0bo" %}
 
