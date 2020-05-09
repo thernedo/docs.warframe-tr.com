@@ -8,9 +8,9 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 ## Mayıs/2020
 
-{% page-ref page="genel/lore/glassmaker.md" %}
+#### \[11-15\] Mayıs / Nightwave: Series 3 - Glassmaker
 
-{% embed url="https://www.warframe-tr.com/nightwave" %}
+![](https://imgbbb.com/images/2020/05/09/image840bfd1ead7bec99.png)
 
 {% page-ref page="genel/lore/operasyon-deadlock-protokol.md" %}
 
@@ -20,11 +20,13 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 {% embed url="https://www.warframe.com/tr/tennocon" %}
 
+## 2021
+
+{% page-ref page="genel/rehber/duviri-paradoks.md" %}
+
 ## ∞ / Yakında
 
 Herhangi bir tarih aralığı belirlenmemiş içerikler
 
 {% page-ref page="genel/rehber/the-new-war.md" %}
-
-{% page-ref page="genel/rehber/duviri-paradoks.md" %}
 
