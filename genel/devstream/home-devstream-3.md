@@ -4,7 +4,7 @@
 
 Tennocon'a kadar planlanan içerikler
 
-![](https://imgbbb.com/images/2020/05/08/image71de8eb87db469bc.png)
+![](https://imgbbb.com/images/2020/05/10/imagef887f1b4a901249b.png)
 
 ## Nightwave: Series 3 - Glassmaker
 
@@ -44,7 +44,7 @@ Oyun için yeni soru-cevap sohbet kanalı
 
 ## Garuda Deluxe
 
-{% embed url="https://streamable.com/mhv6sj" %}
+![](https://imgbbb.com/images/2020/05/10/EXmziqtXkAATXS4.jpg)
 
 ## Khora Deluxe
 
@@ -54,7 +54,7 @@ Oyun için yeni soru-cevap sohbet kanalı
 
 {% embed url="https://streamable.com/h2k6h1" %}
 
-## Kuva Lich Sinematik
+## Kuva Lich - Sinematik
 
 {% embed url="https://streamable.com/ptighr" %}
 
@@ -63,6 +63,8 @@ Oyun için yeni soru-cevap sohbet kanalı
 {% embed url="https://streamable.com/s8nn7c" %}
 
 ## "Zor Mod" Görevleri
+
+Gezegen görevlerine yeni zorluk seviyeleri geliyor.
 
 {% embed url="https://streamable.com/2dhvbd" %}
 
