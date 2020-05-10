@@ -50,6 +50,8 @@ Oyun için yeni soru-cevap sohbet kanalı
 
 ## Khora Deluxe
 
+![](https://imgbbb.com/images/2020/05/10/EXrMbHNXQAALMjU.jpg)
+
 {% embed url="https://streamable.com/7ie039" %}
 
 ## Dojo Skybox Odası
