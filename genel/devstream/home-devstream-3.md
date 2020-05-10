@@ -20,7 +20,7 @@ Bu ay içerisinde gelmesi planlanıyor.
 
 Bir sonraki deluxe içeriği
 
-{% embed url="https://streamable.com/eudyjc" %}
+{% embed url="https://streamable.com/npu53j" %}
 
 ### Yay & Prex Kart
 
@@ -46,9 +46,11 @@ Oyun için yeni soru-cevap sohbet kanalı
 
 ![](https://imgbbb.com/images/2020/05/10/EXmziqtXkAATXS4.jpg)
 
+{% embed url="https://streamable.com/guwuw5" %}
+
 ## Khora Deluxe
 
-{% embed url="https://streamable.com/6ry82b" %}
+{% embed url="https://streamable.com/7ie039" %}
 
 ## Dojo Skybox Odası
 
