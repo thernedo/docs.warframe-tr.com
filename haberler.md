@@ -14,7 +14,7 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 12 Mayıs 22.00'da gelmesi planlanıyor
 {% endhint %}
 
-![](https://imgbbb.com/images/2020/05/09/image840bfd1ead7bec99.png)
+{% embed url="https://streamable.com/hyvluy" %}
 
 {% page-ref page="genel/lore/operasyon-deadlock-protokol.md" %}
 
