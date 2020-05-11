@@ -8,9 +8,11 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 ## Mayıs/2020
 
+{% hint style="info" %}
 ### Nightwave: Series 3 - Glassmaker
 
-\[11-15\] Mayıs arası gelmesi planlanıyor
+12 Mayıs 22.00'da gelmesi planlanıyor
+{% endhint %}
 
 ![](https://imgbbb.com/images/2020/05/09/image840bfd1ead7bec99.png)
 
