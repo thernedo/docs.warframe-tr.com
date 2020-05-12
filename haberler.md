@@ -11,7 +11,7 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 {% hint style="info" %}
 ### Nightwave: Series 3 - Glassmaker
 
-12 Mayıs 22.00'da gelmesi planlanıyor
+12 Mayıs 21.00'da geliyor.
 {% endhint %}
 
 {% embed url="https://streamable.com/hyvluy" %}
