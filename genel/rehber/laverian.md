@@ -4,15 +4,15 @@
 
 Leverianlar, Warframe hakkında Lore eklememizin bir yoludur. Ustalaşan Warframe ile bir Warframe’in Leverian'ı girerseniz, toplamanız için bir Prex kartı görünür - eğer bulabilirseniz!
 
-### Atlas
+### Ash
 
-### Gauss
+### Atlas
 
 ### Grendel
 
-## Yakında
+### Ivara
 
-**Eklenmesi planan yeni kartlar:** Ivara / Vauban / Ember
+### Gauss
 
-
+### Nova
 
