@@ -8,14 +8,6 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 ## Mayıs/2020
 
-{% hint style="info" %}
-### Nightwave: Series 3 - Glassmaker
-
-12 Mayıs 21.00'da geliyor.
-{% endhint %}
-
-{% embed url="https://streamable.com/hyvluy" %}
-
 {% page-ref page="genel/lore/operasyon-deadlock-protokol.md" %}
 
 ## Temmuz/2020

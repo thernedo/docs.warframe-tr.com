@@ -30,7 +30,7 @@ Bir sonraki deluxe içeriği
 
 ## TennoCon 2020 - Dijital Paket Ürünleri
 
-![](https://imgbbb.com/images/2020/05/09/imaged724ab9bc86dfc9f.png)
+![](https://imgbbb.com/images/2020/05/12/image6aa02de7e04e8894.png)
 
 {% embed url="https://streamable.com/86ujsc" %}
 
