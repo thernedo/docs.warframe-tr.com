@@ -18,6 +18,10 @@ Protea'nın görevi, ön şart olarak Vox Solaris görevinin tamamlanmasını ge
 
 ![](https://imgbbb.com/images/2020/05/23/4hJsOHJ.png)
 
+### Prex Kart
+
+![](https://imgbbb.com/images/2020/05/23/bC8TTOA.png)
+
 ### Yeni silahlar
 
 #### Stahlta
@@ -39,6 +43,12 @@ Protea'nın görevi, ön şart olarak Vox Solaris görevinin tamamlanmasını ge
 ### Garuda Deluxe - Syandana
 
 ![](https://imgbbb.com/images/2020/05/23/MqGNrC3.png)
+
+### Gunsen Skin
+
+Protea koleksiyon ile geliyor
+
+![](https://imgbbb.com/images/2020/05/23/6O2R0aq.png)
 
 ### Parnum Crowns
 
@@ -89,7 +99,7 @@ Trinity Prime ve Nova Prime 26 Mayıs'ta Geri Dönüyor
 
 ## Diğer
 
-* **Deadlock Protocol** dağıtımıyla birlikte Jackal boss, 7 günlük sürecek özel görevleri kapsıyacak
+* **Deadlock Protocol** dağıtımıyla birlikte yenilenen Jackal, 7 günlük sürecek özel görevleri kapsıyacak
 * **Riven** kapasitesi 150'ye yükseltildi
 * **Garuda** pençeleri buff alacak
 * Gemi görünümleri ve yetenekleri ayrılacak
