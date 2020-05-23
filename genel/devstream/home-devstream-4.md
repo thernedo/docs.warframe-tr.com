@@ -8,8 +8,6 @@ Tennocon'a kadar planlanan içerikler
 
 ## Deadlock Protocol
 
-**Update 28 - Ana Hat Güncellemesi**
-
 \[25-29\] Mayıs tarihleri arasında gelmesi planlanan içerikler. \(_Haziran ayına kayabilir_\)
 
 ### Protea
@@ -65,19 +63,19 @@ Yeni Solaris Dojo süslemeleri
 
 ![](https://imgbbb.com/images/2020/05/23/VqyfewD.png)
 
-### Diğer
+### Arayüz
 
-* **Deadlock Protocol** dağıtımıyla birlikte Jackal boss, 7 günlük sürecek özel görevleri kapsıyacak.
-* **Riven** kapasitesi 150'ye yükseltildi
-* **Garuda** pençeleri buff alacak
-* Gemi görünümleri ve yetenekleri ayrılacak
-* **Nora'**nın iniş gemisi yakında bulunan düşmanları uyutma özelliğine sahip olacak.
-* Yeni **MOA** ve silah geliyor
-* **Pet 2.0** ile statis değişikleri olacak.
+Kullanıcı arayüzünde ustalık puan dökümü yer alacak
 
-## TennoGen / 19‌ <a id="tennogen-19"></a>
+![](https://imgbbb.com/images/2020/05/23/1z7Zp8q.png)
 
-TennoGen Round 19 - 20 Temmuz'da sizlerle!
+### Özel İmleçler
+
+![](https://imgbbb.com/images/2020/05/23/aNLzOPt.png)
+
+## TennoGen Round 19 <a id="tennogen-19"></a>
+
+20 Temmuz'da sizlerle!
 
 ## Prime Vault
 
@@ -86,4 +84,15 @@ Trinity Prime ve Nova Prime 26 Mayıs'ta Geri Dönüyor
 ![](https://imgbbb.com/images/2020/05/23/image32af3180ea85b143.png)
 
 {% embed url="https://www.warframe.com/tr/news/trinity-and-nova-prime-vault" %}
+
+## Diğer
+
+* **Deadlock Protocol** dağıtımıyla birlikte Jackal boss, 7 günlük sürecek özel görevleri kapsıyacak
+* **Riven** kapasitesi 150'ye yükseltildi
+* **Garuda** pençeleri buff alacak
+* Gemi görünümleri ve yetenekleri ayrılacak
+* Blazing Step ESO'dan kaldırılıp, Arbitrasyon ve Railjack görevine konulacak
+* **Nora'**nın iniş gemisi yakında bulunan düşmanları uyutma özelliğine sahip olacak
+* Yeni **MOA** ve silah geliyor
+* **Pet 2.0** ile statis değişikleri olacak
 

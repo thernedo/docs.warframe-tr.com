@@ -6,6 +6,8 @@ description: Geliştirici yayınlarında gösterilen yenilikler ve düzenlemeler
 
 ## 2020
 
+{% page-ref page="home-devstream-4.md" %}
+
 {% page-ref page="home-devstream-3.md" %}
 
 {% page-ref page="home-devstream-2.md" %}
