@@ -14,19 +14,21 @@ Tennocon'a kadar planlanan içerikler
 
 Protea'nın görevi, ön şart olarak Vox Solaris görevinin tamamlanmasını gerektirir
 
-### Syandana
+### Protea - Syandana
 
 ![](https://imgbbb.com/images/2020/05/23/4hJsOHJ.png)
 
-### Stahlta <a id="stahlta"></a>
+### Yeni silahlar
+
+#### Stahlta
 
 ![](https://imgbbb.com/images/2020/05/23/imagea30aaef9ba768dbb.png)
 
-### Velox
+#### Velox
 
 ![](https://imgbbb.com/images/2020/05/23/image0562edd2a05c9cb0.png)
 
-### Stropha
+#### Stropha
 
 ![](https://imgbbb.com/images/2020/05/23/image71109e02744ea299.png)
 
