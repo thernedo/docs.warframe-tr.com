@@ -54,7 +54,7 @@ Protea koleksiyon ile geliyor
 
 Crowns kullanılarak yeni oyun setleri ve bölümlere erişerek Protea ve silahlarına sahip olunabilecek.
 
-![](https://imgbbb.com/images/2020/05/23/LWKKt9L.png)
+![](https://imgbbb.com/images/2020/05/24/EYybwVbWkAELD7_formatjpgnamelarge.jpg)
 
 ### Zor Mod
 
