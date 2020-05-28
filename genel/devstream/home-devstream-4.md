@@ -8,7 +8,9 @@ Tennocon'a kadar planlanan içerikler
 
 ## Deadlock Protocol
 
-\[25-29\] Mayıs tarihleri arasında gelmesi planlanan içerikler. \(_Haziran ayına kayabilir_\)
+![](https://imgbbb.com/images/2020/05/25/EY400NCXkAg2jRAformatjpgname4096x4096.jpg)
+
+Haziran ayında gelmesi planlanan içerikler.
 
 ### Protea
 
