@@ -50,3 +50,4 @@ Nightwave ile haftalık ve günlük olarak yenilenen görevleri kolay yoldan yap
     </tr>
   </tbody>
 </table>
+

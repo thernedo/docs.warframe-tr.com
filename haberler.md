@@ -8,9 +8,13 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 ## Haziran/2020
 
+Haziran'ın ilk haftası gelmesi planlanıyor.
+
 ![](https://imgbbb.com/images/2020/05/25/EY400NCXkAg2jRAformatjpgname4096x4096.jpg)
 
 {% page-ref page="genel/lore/operasyon-deadlock-protokol.md" %}
+
+{% embed url="https://www.youtube.com/watch?v=gAS-Q0L8YqY" %}
 
 ## Temmuz/2020
 
