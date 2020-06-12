@@ -46,7 +46,3 @@ Kalıp markette alınıyor.
 
 Tüm parçaları **The Deadlock Protocol** görevinden elde ediliyor.
 
-
-
-
-
