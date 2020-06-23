@@ -13,6 +13,7 @@
   * [Glyph Kodları](genel/rehber/glyph-kodlari.md)
   * [Ephemera](genel/rehber/ephemera.md)
   * [Exilus Adapter](genel/rehber/exilus-adapter.md)
+  * [Crowns](genel/rehber/crowns.md)
   * [Rising Tide](genel/rehber/rising-tide.md)
   * [TennoGen](genel/rehber/tennogen.md)
   * [Orokin Dukat](genel/rehber/orokin-dukat.md)
