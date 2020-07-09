@@ -184,6 +184,7 @@
       <td style="text-align:left">Steel Essence</td>
       <td style="text-align:left">
         <p><b>Jupiter </b>- Metis</p>
+        <p><b>Mars </b>- Gradivus</p>
         <p><b>Ven&#xFC;s</b> - Montes</p>
       </td>
       <td style="text-align:left"></td>
