@@ -181,6 +181,14 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">Steel Essence</td>
+      <td style="text-align:left">
+        <p><b>Jupiter </b>- Metis</p>
+        <p><b>Ven&#xFC;s</b> - Montes</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Tellurium</td>
       <td style="text-align:left"><b>Nept&#xFC;n</b> - Salacia</td>
       <td style="text-align:left"></td>
