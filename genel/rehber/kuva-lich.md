@@ -12,6 +12,18 @@ Kullanılan warframe'e göre şekillenir ve element türüne göre Kuva Lich'in 
 * Element türüne göre silahların temel element hasarı belirlenebilir
 * Rastgele oran ile silahların temel hasar oranları belirlenir
 
+#### Kuva Lich öldürme ekranında yapabileceğiniz 2 alternatif seçim:
+
+* **Dönüştür\(A\):** Bağışlama yaparak çaldığı ganimetler geri alınır ve aktif ephemera varsa elde edilir.
+* **Vanquish\(D\):** Öldürme yaparak elindeki silah ve aktif ephemera varsa elde edilir.
+
+#### Diğer Bilgiler
+
+* Takaslanan kuva lich 2.kez takas yapılamıyor.
+* 7 farklı ephemera bulunuyor.
+
+{% page-ref page="ephemera.md" %}
+
 {% hint style="info" %}
 Element türlerine göre kullanabileceğiniz warframe listesi
 {% endhint %}

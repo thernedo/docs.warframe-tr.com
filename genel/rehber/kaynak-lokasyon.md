@@ -13,7 +13,7 @@
       <td style="text-align:left">Ala&#x15F;&#x131;m Plaka</td>
       <td style="text-align:left">
         <p><b>Ceres</b> - Draco</p>
-        <p><b>J&#xFC;piter </b>- Ganymede</p>
+        <p><b>J&#xFC;piter</b> - Ganymede</p>
         <p><b>Ven&#xFC;s</b> - V Prime</p>
       </td>
       <td style="text-align:left"></td>
@@ -52,7 +52,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Cubic Diodes</td>
-      <td style="text-align:left"><b>Europa </b>- Larzac</td>
+      <td style="text-align:left"><b>Europa</b> - Larzac</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -93,7 +93,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Kontrol Mod&#xFC;l&#xFC;</td>
-      <td style="text-align:left"><b>Void - </b>Oxomoco</td>
+      <td style="text-align:left"><b>Void -</b> Oxomoco</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -183,8 +183,8 @@
     <tr>
       <td style="text-align:left">Steel Essence</td>
       <td style="text-align:left">
-        <p><b>Jupiter </b>- Metis</p>
-        <p><b>Mars </b>- Gradivus</p>
+        <p><b>Jupiter</b> - Metis</p>
+        <p><b>Mars</b> - Gradivus</p>
         <p><b>Ven&#xFC;s</b> - Montes</p>
       </td>
       <td style="text-align:left"></td>
@@ -202,7 +202,7 @@
   </tbody>
 </table>
 
-#### Listede yer almayan diğer drop lokasyonları
+## Listede yer almayan diğer drop lokasyonları
 
-{% embed url="https://www.warframe-tr.com/drops" %}
+{% embed url="https://www.warframe-tr.com/drops" caption="" %}
 
