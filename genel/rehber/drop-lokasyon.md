@@ -46,3 +46,7 @@ Kalıp markette alınıyor.
 
 Tüm parçaları **The Deadlock Protocol** görevinden elde ediliyor.
 
+## Listede yer almayan diğer drop lokasyonları
+
+{% embed url="https://www.warframe-tr.com/drops" %}
+
