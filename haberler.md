@@ -4,12 +4,6 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 # Haberler
 
-{% page-ref page="genel/devstream/home-devstream-4.md" %}
-
-## Temmuz/2020
-
-{% page-ref page="genel/rehber/tennogen.md" %}
-
 ## Ağustos/2020
 
 ### Deimos'un Kalbi
