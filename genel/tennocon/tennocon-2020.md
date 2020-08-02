@@ -16,7 +16,7 @@ Infested yaratıklarla dolu tuhaf bir manzara ile Necramech'inize komuta edin. D
 
 Deimos'un altında, tüm Ay'ı ele geçiren istila ve İstiladan bile gizlenen uğursuz bir gizem var. 
 
-* Yeni bir açık dünyayı keşfedin; Infested düşmanları, karanlık Entrati ve sürekli değişen yeraltı mağara ağlarında görülmeyi bekleyen güzel bir manzaralar.
+* Yeni bir açık dünyayı keşfedin; Infested düşmanları, karanlık Entrati ve sürekli değişen yeraltı mağara ağlarında görülmeyi bekleyen güzel manzaralar.
 
 ![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119451-5d70d200-d4b7-11ea-9105-ad2ef8201806.jpg)
 
