@@ -24,13 +24,13 @@ Deimos'un altında, tüm Ay'ı ele geçiren istila ve İstiladan bile gizlenen u
 
 ![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119454-61045900-d4b7-11ea-96e7-82577ca5b17e.jpg)
 
-* Gündüz/Gece döngüsünde etken olacak iki dev solucanın bitmeyen savaşı döngüde bir değişiklik katacak. 
+* Gündüz/Gece döngüsünde etken olacak iki dev solucanın bitmeyen savaşı döngüde bir değişiklik katacak.
 
-{% embed url="https://clips.twitch.tv/HappyDarkFennelHeyGuys?tt\_content=url&tt\_medium=clips\_api" %}
+{% embed url="https://cdn-w1.gitlab.io/s-1/2020/08/02/116258984\_580194625996057\_8230739568743149402\_n.mp4" %}
 
 * Döngü esnasında solucanların yaptığı keşif tünelleri sürekli değişim halinde olacak. Yüzeyin altındaki solucan tünellerinin içerisine gideceğiniz yeni görevler olacak.
 
-{% embed url="https://clips.twitch.tv/HorribleGrossCheddarKappaWealth?tt\_content=url&tt\_medium=clips\_api" %}
+{% embed url="https://cdn-w1.gitlab.io/s-1/2020/08/02/10000000\_321643385694149\_438961398417502482\_n.mp4" %}
 
 * Daha fazla madencilik yapılacak.
 * Yeni açık dünya haritasının çok daha geniş hikaye içeriği var. Hikaye içeriği genişletilerek oyunculara Void kökenleri hakkında yeni şeyler öğretecek. 
@@ -38,9 +38,11 @@ Deimos'un altında, tüm Ay'ı ele geçiren istila ve İstiladan bile gizlenen u
 
 ![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119444-4e8a1f80-d4b7-11ea-8605-c8bce2ff747e.jpg)
 
+{% embed url="https://cdn-w1.gitlab.io/s-1/2020/08/02/117169388\_991504251289601\_3688044811202508530\_n.mp4" %}
+
 Deimos'ta yaşayan ve Void'i araştırırken Kalbi koruyan Entrati ailesinin bir üyesi, Deimos'un merkezi karakteri: ANNE
 
-{% embed url="https://clips.twitch.tv/LazyObedientOryxPeteZarollTie?tt\_content=url&tt\_medium=clips\_api" %}
+{% embed url="https://cdn-w1.gitlab.io/s-1/2020/08/02/10000000\_309253060130926\_1272001890531404589\_n.mp4" %}
 
 ### Düşmanlar
 
@@ -66,6 +68,8 @@ Kendinize ölü insanlardan oluşan bir makine inşa edin
 
 Necramechs, Heart of Deimos'un canlı demosunda tanıtılan zorlu yeni bir düşmandır. Güçlü silahlarla donatılmış birer çevik bedenler. Necramech'lerin Infested ordularını yok edebilecek güçlü bir topçu modu gibi kendi silahları ve yetenekleri olacak.
 
+{% embed url="https://cdn-w1.gitlab.io/s-1/2020/08/02/116844421\_349997546401763\_4212923597758135229\_n.mp4" %}
+
 Fortuna'daki Moa evcil hayvanları ve Eidolon Plains'deki özelleştirilebilir silahlar gibi, oyuncular da kendi Necramech'lerini inşa edebilecek ve özelleştirebilecekler. Diğer açık dünya bölgelerinde çağrıma yaparak istediğinz zaman kullanabileceksiniz.
 
 ## Helminth Chrysalis Sistemi
@@ -80,7 +84,7 @@ Helminth odasında yeni eklenenecek canavar çook aç, ne kadar çok kaynak ile 
 * Ne kadar fazla yemek verirseniz, o kadar yüksek olur ve size kendi yeteneklerini verir.
 * Helminth ile değiştirdiğiniz bir sonraki yetenek, iki kat daha güçlü hale getirmenize izin verir.
 
-{% embed url="https://clips.twitch.tv/TemperedAmusedBaconTheRinger?tt\_content=url&tt\_medium=clips\_api" %}
+{% embed url="https://cdn-w1.gitlab.io/s-1/2020/08/02/110262887\_1168673153508612\_4056780452194346385\_n.mp4" %}
 
 * Yeteneği aktarılacak Warfarme, Helmint tarafından emilerek feda etmeleri gerekir.
 * Her warframe için sadece 1 adet yetenek aktarım vardır.
