@@ -6,9 +6,9 @@ Koronavirüs \(COVID-19\) pandemisi nedeniyle TennoCon 2020'nin katılımcı etk
 
 ## Deimos'un Kalbine Girin
 
-Warframe'in üçüncü açık dünyası Deimos'un Kalbi, 25 Ağustos'ta tüm platformlara geliyor!
+Warframe'in üçüncü açık dünyası Deimos'un Kalbi, 25 Ağustos'ta tüm platformlara geliyor.
 
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/642e7e91f13e3410f52409eb05a962ac.png)
+![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119977-f6551c80-d4ba-11ea-9db7-2225a7b58e88.jpg)
 
 Infested yaratıklarla dolu tuhaf bir manzara ile Necramech'inize komuta edin. Deimos'un karanlık sakinleri, Entrati'nin arkasındaki gerçeği öğrenin ve Enfestasyon'un korkunç kökenleriyle yüz yüze gelin.
 
@@ -21,8 +21,6 @@ Deimos'un altında, tüm Ay'ı ele geçiren istila ve İstiladan bile gizlenen u
 ![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119451-5d70d200-d4b7-11ea-9105-ad2ef8201806.jpg)
 
 ![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119458-62ce1c80-d4b7-11ea-8660-06fb59f3006a.jpg)
-
-
 
 ![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119454-61045900-d4b7-11ea-96e7-82577ca5b17e.jpg)
 
@@ -142,7 +140,7 @@ Heart of Deimos'un lansmanına daha yakın bir zamanda yaklaşan bir Twitch Drop
 
 ### Zephyr Deluxe Skin
 
-![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89117834-a7eb5200-d4a9-11ea-8e0e-e5de068319f9.jpg)
+![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89120388-a11b0a00-d4be-11ea-9941-4c1e1d14e79f.jpg)
 
 ### Gara Deluxe Skin
 
