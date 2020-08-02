@@ -12,21 +12,31 @@ Infested yaratıklarla dolu tuhaf bir manzara ile Necramech'inize komuta edin. D
 
 ![](https://n9e5v4d8.ssl.hwcdn.net/uploads/642e7e91f13e3410f52409eb05a962ac.png)
 
-### Oynanış Videosu
-
-{% embed url="https://youtu.be/QZriHdUG\_Q4" %}
-
 Deimos'un altında, tüm Ay'ı ele geçiren istila ve İstiladan bile gizlenen uğursuz bir gizem var. 
 
 * Yeni bir açık dünyayı keşfedin; Infested düşmanları, karanlık Entrati ve sürekli değişen yeraltı mağara ağlarında görülmeyen güzel bir manzara.
 * Void'in gücünü, Tenno tarafından tasarlanan ikinci Warframe olan Topluluk tasarımı Xaku ile kullanın!
 * Helminth Chrysalis sistemi ile Warframe'inizi daha önce hiç olmadığı gibi özelleştirin. İmzalı bir Yeteneği absorbe etmek ve başka bir Warframe'e aktarmak için Helmint'e bir warframe besleyin.
 
+### Gece/Gündüz Döngüsü
+
+{% embed url="https://clips.twitch.tv/HappyDarkFennelHeyGuys?tt\_content=url&tt\_medium=clips\_api" %}
+
 ### Helminth Chrysalis Sistemi
 
 Heart of Deimos'a varmak, Warframe'in teteneklerini özelleştirmenin yepyeni bir yolu olan Helminth Chrysalis sistemidir. Yeni bir yetenekler paketinin kilidini açmak için Helminth kaynaklarını besleyin veya Helminth'in bir Warframe'i tüketerek bir diğerini infüze etme yeteneğini elde etmesine izin verin.
 
 {% embed url="https://youtu.be/Hn7t6MjC7SI" %}
+
+Helminth odasında yeni eklenenecek canavar çook aç, ne kadar çok kaynak ile beslerseniz seviyesi yüksek olur ve kendi yeteneklerini verir. 
+
+* Helminth, yeni yetenekler için ana yeteneklerinizden birini değiştirmenize izin vererek sizi ödüllendirir.
+* Ne kadar fazla yemek verirseniz, o kadar yüksek olur ve size kendi yeteneklerini verir.
+* Helminth ile değiştirdiğiniz bir sonraki yetenek, iki kat daha güçlü hale getirmenize izin verir.
+* Yeteneklerini başka bir warfame'e aktarma yaparak aktarım yaptığınız warfarme'i feda edebilirsiniz. Helminth sistemine geçerken emilen warframe kullanılamıyacaktır. 
+* Her warframe için sadece 1 adet yetenek aktarım vardır ve özel yetenek\(4.yetenek\) aktarım yoktur ancak bazı ilginç kombinasyonlar yapmanıza izin verir.
+
+{% embed url="https://clips.twitch.tv/TemperedAmusedBaconTheRinger?tt\_content=url&tt\_medium=clips\_api" %}
 
 ### Düşmanlar
 
