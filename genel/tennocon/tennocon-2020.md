@@ -140,13 +140,7 @@ Simyacı olarak tanıtılan yeni warframe konsept tasarımı.
 
 ### Diğer
 
-![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89117864-c94c3e00-d4a9-11ea-8242-26663f3f921d.jpg)
-
-![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89117867-ca7d6b00-d4a9-11ea-823f-b934179a1577.jpg)
-
-![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89117860-c0f40300-d4a9-11ea-9752-cc93c0b1a026.jpg)
-
-![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89117866-c9e4d480-d4a9-11ea-9ecb-23a49c4c0fd2.jpg)
+{% embed url="https://cdn-w1.gitlab.io/s-1/2020/08/02/89117860-c0f40300-d4a9-11ea-9752-cc93c0b1a026.mp4" %}
 
 ## Ses Paneli
 
