@@ -8,19 +8,69 @@ Koronavirüs \(COVID-19\) pandemisi nedeniyle TennoCon 2020'nin katılımcı etk
 
 Warframe'in üçüncü açık dünyası Deimos'un Kalbi, 25 Ağustos'ta tüm platformlara geliyor!
 
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/642e7e91f13e3410f52409eb05a962ac.png)
+
 Infested yaratıklarla dolu tuhaf bir manzara ile Necramech'inize komuta edin. Deimos'un karanlık sakinleri, Entrati'nin arkasındaki gerçeği öğrenin ve Enfestasyon'un korkunç kökenleriyle yüz yüze gelin.
 
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/642e7e91f13e3410f52409eb05a962ac.png)
+![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119473-6c578480-d4b7-11ea-9941-69c61f7c2e01.jpg)
 
 Deimos'un altında, tüm Ay'ı ele geçiren istila ve İstiladan bile gizlenen uğursuz bir gizem var. 
 
-* Yeni bir açık dünyayı keşfedin; Infested düşmanları, karanlık Entrati ve sürekli değişen yeraltı mağara ağlarında görülmeyen güzel bir manzara.
+* Yeni bir açık dünyayı keşfedin; Infested düşmanları, karanlık Entrati ve sürekli değişen yeraltı mağara ağlarında görülmeyi bekleyen güzel bir manzaralar.
 
-### Gece/Gündüz Döngüsü
+![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119451-5d70d200-d4b7-11ea-9105-ad2ef8201806.jpg)
+
+![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119458-62ce1c80-d4b7-11ea-8660-06fb59f3006a.jpg)
+
+
+
+![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119454-61045900-d4b7-11ea-96e7-82577ca5b17e.jpg)
+
+* Gündüz/Gece döngüsünde etken olacak iki dev solucanın bitmeyen savaşı döngüde bir değişiklik katacak. 
 
 {% embed url="https://clips.twitch.tv/HappyDarkFennelHeyGuys?tt\_content=url&tt\_medium=clips\_api" %}
 
-### Helminth Chrysalis Sistemi
+* Döngü esnasında solucanların yaptığı keşif tünelleri sürekli değişim halinde olacak. Yüzeyin altındaki solucan tünellerinin içerisine gideceğiniz yeni görevler olacak.
+
+{% embed url="https://clips.twitch.tv/HorribleGrossCheddarKappaWealth?tt\_content=url&tt\_medium=clips\_api" %}
+
+* Daha fazla madencilik yapılacak.
+* Yeni açık dünya haritasının çok daha geniş hikaye içeriği var. Hikaye içeriği genişletilerek oyunculara Void kökenleri hakkında yeni şeyler öğretecek. 
+* Hızlı seyahat sistemi getirilecek.
+
+![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119444-4e8a1f80-d4b7-11ea-8605-c8bce2ff747e.jpg)
+
+Deimos'ta yaşayan ve Void'i araştırırken Kalbi koruyan Entrati ailesinin bir üyesi, Deimos'un merkezi karakteri: ANNE
+
+{% embed url="https://clips.twitch.tv/LazyObedientOryxPeteZarollTie?tt\_content=url&tt\_medium=clips\_api" %}
+
+### Düşmanlar
+
+#### Infested Ashen
+
+![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89117856-be91a900-d4a9-11ea-8c84-fcff68eaaa76.jpg)
+
+#### Infested Femur
+
+![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119447-55b12d80-d4b7-11ea-9604-3f4e85607671.jpg)
+
+![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89117857-bf2a3f80-d4a9-11ea-86bb-cd288f3a354d.jpg)
+
+#### Infested Bone Blade
+
+![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119448-58138780-d4b7-11ea-872b-f4a28a64b5f3.jpg)
+
+## Necramechs
+
+Kendinize ölü insanlardan oluşan bir makine inşa edin
+
+![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119475-6e214800-d4b7-11ea-843d-24751de590c9.jpg)
+
+Necramechs, Heart of Deimos'un canlı demosunda tanıtılan zorlu yeni bir düşmandır. Güçlü silahlarla donatılmış birer çevik bedenler. Necramech'lerin Infested ordularını yok edebilecek güçlü bir topçu modu gibi kendi silahları ve yetenekleri olacak.
+
+Fortuna'daki Moa evcil hayvanları ve Eidolon Plains'deki özelleştirilebilir silahlar gibi, oyuncular da kendi Necramech'lerini inşa edebilecek ve özelleştirebilecekler. Diğer açık dünya bölgelerinde çağrıma yaparak istediğinz zaman kullanabileceksiniz.
+
+## Helminth Chrysalis Sistemi
 
 Heart of Deimos'a varmak, Warframe'in teteneklerini özelleştirmenin yepyeni bir yolu olan Helminth Chrysalis sistemidir. Yeni bir yetenekler paketinin kilidini açmak için Helminth kaynaklarını besleyin veya Helminth'in bir Warframe'i tüketerek bir diğerini infüze etme yeteneğini elde etmesine izin verin.
 
@@ -31,28 +81,22 @@ Helminth odasında yeni eklenenecek canavar çook aç, ne kadar çok kaynak ile 
 * Helminth, yeni yetenekler için ana yeteneklerinizden birini değiştirmenize izin vererek sizi ödüllendirir.
 * Ne kadar fazla yemek verirseniz, o kadar yüksek olur ve size kendi yeteneklerini verir.
 * Helminth ile değiştirdiğiniz bir sonraki yetenek, iki kat daha güçlü hale getirmenize izin verir.
-* Yeteneklerini başka bir warfame'e aktarma yaparak aktarım yaptığınız warfarme'i feda edebilirsiniz. Helminth sistemine geçerken emilen warframe kullanılamıyacaktır. 
-* Her warframe için sadece 1 adet yetenek aktarım vardır.
 
 {% embed url="https://clips.twitch.tv/TemperedAmusedBaconTheRinger?tt\_content=url&tt\_medium=clips\_api" %}
 
-### Düşmanlar
-
-#### Ashen
-
-![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89117856-be91a900-d4a9-11ea-8c84-fcff68eaaa76.jpg)
-
-#### Femur
-
-![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89117857-bf2a3f80-d4a9-11ea-86bb-cd288f3a354d.jpg)
+* Yeteneği aktarılacak Warfarme, Helmint tarafından emilerek feda etmeleri gerekir.
+* Her warframe için sadece 1 adet yetenek aktarım vardır.
+* Helminth'e herhangi bir Prime Warframe'i besleyemezsiniz.
 
 ## **Xaku**
 
 Void enerji ile bir araya gelen Xaku, topluluk tarafından tasarlanan ikinci Warframe**.** 
 
-{% embed url="https://youtu.be/3kxlCk0jNHg" %}
+![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119438-48943e80-d4b7-11ea-880f-364fae5634ec.jpg)
 
 Xaku’nun Yetenekleri tamamen Void enerjiyi manipüle etmekle ilgilidir. Xaku, silahlarını void enerjiyle aşılama, hasarlarını parlatma gücüne sahiptir. Çok azı void'in çekilmesine direnebilir ve düşmanlarını onlar için savaşmak için kandırmak, hatta düşman silahlarını onlara karşı çevirmek için enerjisini kullanır.
+
+{% embed url="https://youtu.be/3kxlCk0jNHg" %}
 
 ### Xaku - Kask
 
