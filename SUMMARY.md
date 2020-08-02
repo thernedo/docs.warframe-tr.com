@@ -44,6 +44,8 @@
   * [Devstream 138](genel/devstream/devstream-138.md)
   * [Devstream 137](genel/devstream/devstream-137.md)
   * [Devstream 136](genel/devstream/devstream-136.md)
+* [TennoCon](genel/tennocon/README.md)
+  * [TennoCon 2020](genel/tennocon/tennocon-2020.md)
 * [Lore](genel/lore/README.md)
   * [Operasyon: Scarlet Spear](genel/lore/operasyon-scarlet-spear.md)
   * [Operasyon: Deadlock Protokol](genel/lore/operasyon-deadlock-protokol.md)
