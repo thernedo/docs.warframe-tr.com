@@ -70,15 +70,15 @@ Necramechs, Heart of Deimos'un canlı demosunda tanıtılan zorlu yeni bir düş
 
 {% embed url="https://cdn-w1.gitlab.io/s-1/2020/08/02/116844421\_349997546401763\_4212923597758135229\_n.mp4" %}
 
-Fortuna'daki Moa evcil hayvanları ve Eidolon Plains'deki özelleştirilebilir silahlar gibi, oyuncular da kendi Necramech'lerini inşa edebilecek ve özelleştirebilecekler. Diğer açık dünya bölgelerinde çağrıma yaparak istediğinz zaman kullanabileceksiniz.
+Fortuna'daki Moa evcil hayvanları ve Eidolon Plains'deki özelleştirilebilir silahlar gibi, oyuncular da kendi Necramech'lerini inşa edebilecek ve özelleştirebilecekler. Diğer açık dünya bölgelerinde çağırma yaparak istediğinz zaman kullanabileceksiniz.
 
 ## Helminth Chrysalis Sistemi
 
-Heart of Deimos'a varmak, Warframe'in teteneklerini özelleştirmenin yepyeni bir yolu olan Helminth Chrysalis sistemidir. Yeni bir yetenekler paketinin kilidini açmak için Helminth kaynaklarını besleyin veya Helminth'in bir Warframe'i tüketerek bir diğerini infüze etme yeteneğini elde etmesine izin verin.
+Heart of Deimos'a varmak, Warframe'in yeteneklerini özelleştirmenin yepyeni bir yolu olan Helminth Chrysalis sistemidir. Yeni bir yetenekler paketinin kilidini açmak için Helminth'i kaynaklar ile besleyin veya Helminth'in bir Warframe'i tüketerek bir diğerini infüze etme yeteneğini elde etmesine izin verin.
 
 {% embed url="https://youtu.be/Hn7t6MjC7SI" %}
 
-Helminth odasında yeni eklenenecek canavar çook aç, ne kadar çok kaynak ile beslerseniz seviyesi yüksek olur ve kendi yeteneklerini verir. 
+Helminth odasında yeni eklenenecek canavar çok aç, ne kadar çok kaynak ile beslerseniz seviyesi yüksek olur ve kendi yeteneklerini verir. 
 
 * Helminth, yeni yetenekler için ana yeteneklerinizden birini değiştirmenize izin vererek sizi ödüllendirir.
 * Ne kadar fazla yemek verirseniz, o kadar yüksek olur ve size kendi yeteneklerini verir.
@@ -92,11 +92,11 @@ Helminth odasında yeni eklenenecek canavar çook aç, ne kadar çok kaynak ile 
 
 ## **Xaku**
 
-Void enerji ile bir araya gelen Xaku, topluluk tarafından tasarlanan ikinci Warframe**.** 
+Void enerji ile bir araya gelen Xaku, topluluk tarafından tasarlanan ikinci warframe**.**
 
 ![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119438-48943e80-d4b7-11ea-880f-364fae5634ec.jpg)
 
-Xaku’nun Yetenekleri tamamen Void enerjiyi manipüle etmekle ilgilidir. Xaku, silahlarını void enerjiyle aşılama, hasarlarını parlatma gücüne sahiptir. Çok azı void'in çekilmesine direnebilir ve düşmanlarını onlar için savaşmak için kandırmak, hatta düşman silahlarını onlara karşı çevirmek için enerjisini kullanır.
+Xaku’nun Yetenekleri tamamen Void enerjiyi manipüle etmekle ilgilidir. Xaku, silahlarını void enerjiyle aşılama, hasarlarını parlatma gücüne sahiptir. Çok azı void'in çekilmesine direnebilir ve düşmanlarını onlar için savaşarak kandırmak, hatta düşman silahlarını onlara karşı çevirmek için enerjisini kullanır.
 
 {% embed url="https://youtu.be/3kxlCk0jNHg" %}
 
