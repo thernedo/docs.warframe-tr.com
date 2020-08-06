@@ -12,6 +12,8 @@ Warframe'in üçüncü açık dünyası Deimos'un Kalbi, 25 Ağustos'ta tüm pla
 
 Infested yaratıklarla dolu tuhaf bir manzara ile Necramech'inize komuta edin. Deimos'un karanlık sakinleri, Entrati'nin arkasındaki gerçeği öğrenin ve Enfestasyon'un korkunç kökenleriyle yüz yüze gelin.
 
+![](https://cdn-w1.gitlab.io/s-1/2020/08/06/rosa-eunche-lee-rl-infested-eris-planet-wip007.jpg)
+
 ![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119473-6c578480-d4b7-11ea-9941-69c61f7c2e01.jpg)
 
 Deimos'un altında, tüm Ay'ı ele geçiren istila ve İstiladan bile gizlenen uğursuz bir gizem var. 
@@ -38,6 +40,8 @@ Deimos'un altında, tüm Ay'ı ele geçiren istila ve İstiladan bile gizlenen u
 
 ![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119444-4e8a1f80-d4b7-11ea-8605-c8bce2ff747e.jpg)
 
+![](https://cdn-w1.gitlab.io/s-1/2020/08/06/rosa-eunche-lee-rl-creature-kdrive-final002.jpg)
+
 {% embed url="https://cdn-w1.gitlab.io/s-1/2020/08/02/117169388\_991504251289601\_3688044811202508530\_n.mp4" %}
 
 Deimos'ta yaşayan ve Void'i araştırırken Kalbi koruyan Entrati ailesinin bir üyesi, Deimos'un merkezi karakteri: ANNE
@@ -48,7 +52,7 @@ Deimos'ta yaşayan ve Void'i araştırırken Kalbi koruyan Entrati ailesinin bir
 
 #### Infested Ashen
 
-![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89117856-be91a900-d4a9-11ea-8c84-fcff68eaaa76.jpg)
+![](https://cdn-w1.gitlab.io/s-1/2020/08/06/samuel-compain-eglin-infestedashen-04.jpg)
 
 #### Infested Femur
 
@@ -170,11 +174,13 @@ Simyacı olarak tanıtılan yeni warframe konsept tasarımı.
 
 ### Infested Kavat
 
+[https://cdn-w1.gitlab.io/s-1/2020/08/06/rosa-eunche-lee-rl-infested-kavat-fox-final005.jpg](https://cdn-w1.gitlab.io/s-1/2020/08/06/rosa-eunche-lee-rl-infested-kavat-fox-final005.jpg)
+
 ![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89117850-b5a0d780-d4a9-11ea-869d-285322612c37.jpg)
 
 ### Infested Kubrow
 
-![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89117851-b89bc800-d4a9-11ea-9718-b6279cdb245d.jpg)
+![](https://cdn-w1.gitlab.io/s-1/2020/08/06/samuel-compain-eglin-infestedpredator-09.jpg)
 
 ### Infested Syandana
 
