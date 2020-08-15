@@ -68,6 +68,8 @@ Deimos'ta yaşayan ve Void'i araştırırken Kalbi koruyan Entrati ailesinin bir
 
 Kendinize ölü insanlardan oluşan bir makine inşa edin
 
+![](https://cdn-w1.gitlab.io/s-1/2020/08/15/EfeunyAXoAAdFf0.jfif)
+
 ![](https://cdn-w1.gitlab.io/s-1/2020/08/02/89119475-6e214800-d4b7-11ea-843d-24751de590c9.jpg)
 
 Necramechs, Heart of Deimos'un canlı demosunda tanıtılan zorlu yeni bir düşmandır. Güçlü silahlarla donatılmış birer çevik bedenler. Necramech'lerin Infested ordularını yok edebilecek güçlü bir topçu modu gibi kendi silahları ve yetenekleri olacak.
