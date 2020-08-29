@@ -1,6 +1,8 @@
 # Platinum
 
-Platin, gerçek para birimi ile diğer oyuncularla ticaret yaparak satın alınabilecek bir oyun içi para birimidir. Çeşitli miktarlarda paketler halinde gelir ve resmi Warframe web sitesinden satın alınabilir. [**Platinum Satın Al**](https://warframe.com/buyplatinum)\*\*\*\*
+Platin, gerçek para birimi ile diğer oyuncularla ticaret yaparak satın alınabilecek bir oyun içi para birimidir. Çeşitli miktarlarda paketler halinde gelir ve resmi Warframe web sitesinden satın alınabilir.
+
+[**Platinum Satın Al**](https://warframe.com/buyplatinum)\*\*\*\*
 
 ## **Platinum Nasıl Kasabilirim?**
 

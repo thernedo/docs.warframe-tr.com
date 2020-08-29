@@ -204,5 +204,5 @@
 
 ## Listede yer almayan diğer drop lokasyonları
 
-{% embed url="https://www.warframe-tr.com/drops" caption="" %}
+{% embed url="https://www.warframe-tr.com/drops" %}
 

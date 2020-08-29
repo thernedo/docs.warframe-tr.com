@@ -7,7 +7,7 @@
 
 * [Rehber](genel/rehber/README.md)
   * [Duviri Paradoks](genel/rehber/duviri-paradoks.md)
-  * [Laverian](genel/rehber/laverian.md)
+  * [Leverian](genel/rehber/leverian.md)
   * [Empyrean](genel/rehber/empyrean.md)
   * [Kuva Lich](genel/rehber/kuva-lich.md)
   * [Glyph Kodları](genel/rehber/glyph-kodlari.md)
@@ -15,7 +15,6 @@
   * [Exilus Adapter](genel/rehber/exilus-adapter.md)
   * [Crowns](genel/rehber/crowns.md)
   * [Rising Tide](genel/rehber/rising-tide.md)
-  * [TennoGen](genel/rehber/tennogen.md)
   * [Orokin Dukat](genel/rehber/orokin-dukat.md)
   * [Questler](genel/rehber/questler.md)
   * [The New War](genel/rehber/the-new-war.md)

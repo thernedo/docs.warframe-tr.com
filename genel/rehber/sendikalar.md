@@ -2,13 +2,11 @@
 
 Sendikalar, Origin Sisteminde ayrı kurulmuş Grineer,Corpus ve Tennolardan oluşan gruplardır. Kendi ideolojileri ve hedefleriyle aralarında ittifak ve düşmanlık vardır.
 
-![](https://imgbbb.com/images/2020/02/29/assets_-lgoamcq2h0squvaydqb_-lhzp1mrekdta7fssujk_-lhzpis_49qrunnq-rjy_sendikalar.png)
-
 ## Sendikalar <a id="sendikalar"></a>
 
 * **Grup Sendikalar:** Steel Meridian - Arbiters of Hexis - Cephalon Suda - The Perrin Sequence - Red Veil - New Loka
-* **Tarafsız Sendikalar:** Conclave - Cephalon Simaris - Ostron - The Quills - Solaris United
-* **Etkinlik Sendikalar:** Operational Supply
+* **Tarafsız Sendikalar:** Conclave - Cephalon Simaris - Ostron - The Quills - Solaris United - Vox Solaris - Ventkids - Entrati - Necraloid
+* **Etkinlik Sendikaları:** Operational Supply - Nightwave
 
 ## Grup Sendikalarına Katılım ve Puan Kasma <a id="grup-sendikalar&#x131;na-kat&#x131;l&#x131;m-ve-puan-kasma"></a>
 

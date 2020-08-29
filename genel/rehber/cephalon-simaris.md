@@ -2,8 +2,6 @@
 
 Güneş Sistemi genelinde Tenno Relay’larının bünyesinde bulunan Cephalon yapısıdır. Cephalon Simaris’in gelişmiş sentez tarayıcısı kullanılarak Kodeks’e özgü hedefleri tarayarak yeni bilgiler ve Sendika ödülleri elde edilir.
 
-![](https://imgbbb.com/images/2020/02/29/assets_-lgoamcq2h0squvaydqb_-lhznolo0rpkxafjwfkp_-lhzo7s4zz7oxmsi7laq_1.png)
-
 ## Kinetic Siphon Trap
 
 Sentez hedeflerini yavaşlatmak veya dikkatlerini çekmek için kullanılır.

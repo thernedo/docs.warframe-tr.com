@@ -1,7 +1,5 @@
 # Crowns
 
-![](https://imgbbb.com/images/2020/05/24/EYybwVbWkAELD7_formatjpgnamelarge.jpg)
-
 Crowns Seviyeleri
 
 * **0-15:** Granum Crown 

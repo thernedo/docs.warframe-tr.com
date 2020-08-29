@@ -31,6 +31,9 @@ Vor’un ödülü gibi bazı görevler zorunludur, çünkü oyuncular görev tar
 {% tab title=" Warframe Görevler" %}
 * Hidden Messages
 * The Limbo Theorem
+* Heart of Deimos
 {% endtab %}
 {% endtabs %}
+
+
 

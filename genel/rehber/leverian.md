@@ -1,4 +1,4 @@
-# Laverian
+# Leverian
 
 ## Prex Kartlar
 
@@ -8,11 +8,11 @@ Leverianlar, Warframe hakkında Lore eklememizin bir yoludur. Ustalaşan Warfram
 
 ### Atlas
 
+### Gauss
+
 ### Grendel
 
 ### Ivara
-
-### Gauss
 
 ### Nova
 

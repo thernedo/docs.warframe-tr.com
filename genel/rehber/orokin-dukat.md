@@ -10,7 +10,5 @@ Dukatların değeri 3'e ayrılır:
 
 > Dukat: Sadece Prime kalıp ve bileşenlerden elde edilir. Diğer oyuncular ile takas edilemez!
 
-* Dukat Miktarı öğrenmek için **Esc-Ekipman-Envanter**
-
-![](https://imgbbb.com/images/2020/02/29/warframe0001.png)
+* Dukat Miktarı öğrenmek için **Esc / Ekipman /** Envanter
 

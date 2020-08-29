@@ -1,7 +1,5 @@
 # Ephemera
 
-Ephemera
-
 Warframe ve Operatör için bir kozmetik ürünüdür. Kuşanıldığında gövde kısmında özel görsel efekler yaratır.
 
 ## Varyantlar
