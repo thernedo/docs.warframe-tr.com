@@ -4,7 +4,7 @@
 
 Mayıs ayında gelmesi planlanan yeni operasyon
 
-{% page-ref page="../lore/operasyon-deadlock-protokol.md" %}
+{% page-ref page="../rehber/operasyon-deadlock-protokol.md" %}
 
 ## Railjack
 

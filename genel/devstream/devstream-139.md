@@ -4,7 +4,7 @@
 
 Mart ayı başlarında gelmesi planlanıyor.
 
-{% page-ref page="../lore/operasyon-scarlet-spear.md" %}
+{% page-ref page="../rehber/operasyon-scarlet-spear.md" %}
 
 {% embed url="https://streamable.com/08ebo" caption="" %}
 
