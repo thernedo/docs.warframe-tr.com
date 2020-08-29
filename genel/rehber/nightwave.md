@@ -6,15 +6,15 @@ Günlük ve haftalık meydan okumaları tamamla — Bunlara Acts denir — sın�
 
 ### Sezon 1
 
-{% page-ref page="../wolf-of-saturn-six.md" %}
+{% page-ref page="wolf-of-saturn-six.md" %}
 
 ### Sezon 2
 
-{% page-ref page="../temsilci.md" %}
+{% page-ref page="temsilci.md" %}
 
 ### Sezon 3
 
-{% page-ref page="../glassmaker.md" %}
+{% page-ref page="glassmaker.md" %}
 
 
 
