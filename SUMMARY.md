@@ -6,6 +6,7 @@
 ## Genel
 
 * [Rehber](genel/rehber/README.md)
+  * [Helminth](genel/rehber/helminth.md)
   * [Leverian](genel/rehber/leverian.md)
   * [Empyrean](genel/rehber/empyrean.md)
   * [Kuva Lich](genel/rehber/kuva-lich.md)
