@@ -6,7 +6,6 @@
 ## Genel
 
 * [Rehber](genel/rehber/README.md)
-  * [Duviri Paradoks](genel/rehber/duviri-paradoks.md)
   * [Leverian](genel/rehber/leverian.md)
   * [Empyrean](genel/rehber/empyrean.md)
   * [Kuva Lich](genel/rehber/kuva-lich.md)

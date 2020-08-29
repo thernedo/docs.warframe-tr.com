@@ -8,8 +8,6 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 ## 2021
 
-{% page-ref page="genel/rehber/duviri-paradoks.md" %}
-
 ## ∞
 
 Herhangi bir tarih aralığı belirlenmemiş içerikler
