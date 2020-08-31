@@ -6,6 +6,8 @@
 ## Genel
 
 * [Rehber](genel/rehber/README.md)
+  * [Pustulite](genel/rehber/pustulite.md)
+  * [Trumna](genel/rehber/trumna.md)
   * [Helminth](genel/rehber/helminth.md)
   * [Leverian](genel/rehber/leverian.md)
   * [Empyrean](genel/rehber/empyrean.md)
@@ -54,5 +56,9 @@
   * [Devstream 136](genel/devstream/devstream-136.md)
 * [TennoCon](genel/tennocon/README.md)
   * [TennoCon 2020](genel/tennocon/tennocon-2020.md)
-* [S.S.S.](genel/s.s.s..md)
+* [S.S.S.](genel/s.s.s./README.md)
+  * [Ustalık Seviyesini nasıl test edebilirim?](genel/s.s.s./ustalik-seviyesini-nasil-test-edebilirim.md)
+  * [Kamera açısını nasıl değiştirebilirim?](genel/s.s.s./kamera-acisini-nasil-degistirebilirim.md)
+  * [Arayüz temasını nasıl değiştirebilirim?](genel/s.s.s./arayuez-temasini-nasil-degistirebilirim.md)
+  * [Klandan Nasıl Ayrılırım ?](genel/s.s.s./klandan-nasil-ayrilirim.md)
 
