@@ -67,7 +67,8 @@ Subsumable yetenek aktarmaları için öneriler
 |  [![SarynIcon272](https://vignette.wikia.nocookie.net/warframe/images/2/23/SarynIcon272.png/revision/latest/scale-to-width-down/19?cb=20180121174215)​](https://warframe.fandom.com/wiki/Saryn) [Saryn](https://warframe.fandom.com/wiki/Saryn) | Toxic Lash | N/A |
 |  [![ProteaIcon272](https://vignette.wikia.nocookie.net/warframe/images/6/63/ProteaIcon272.png/revision/latest/scale-to-width-down/19?cb=20200616142026)​](https://warframe.fandom.com/wiki/Protea) [Protea](https://warframe.fandom.com/wiki/Protea) | N/A | N/A |
 |  [![HildrynIcon272](https://vignette.wikia.nocookie.net/warframe/images/1/19/HildrynIcon272.png/revision/latest/scale-to-width-down/19?cb=20190308054142)​](https://warframe.fandom.com/wiki/Hildryn) [Hildryn](https://warframe.fandom.com/wiki/Hildryn) | Pillage | [Rebuild Shields](https://warframe.fandom.com/wiki/Rebuild_Shields) |
-|  [![ChromaIcon272](https://vignette.wikia.nocookie.net/warframe/images/6/60/ChromaIcon272.png/revision/latest/scale-to-width-down/19?cb=20180121174115)​](https://warframe.fandom.com/wiki/Chroma) [Chroma](https://warframe.fandom.com/wiki/Chroma) |  |  |
+|  [![ChromaIcon272](https://vignette.wikia.nocookie.net/warframe/images/6/60/ChromaIcon272.png/revision/latest/scale-to-width-down/19?cb=20180121174115)​](https://warframe.fandom.com/wiki/Chroma) [Chroma](https://warframe.fandom.com/wiki/Chroma) | N/A | N/A |
+| Revenant | 4. | Larva |
 
 
 
