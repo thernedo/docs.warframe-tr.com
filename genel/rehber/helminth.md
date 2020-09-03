@@ -1,6 +1,6 @@
 # Helminth
 
-Subsumable Yetenekler
+### Subsumable Yetenekler
 
 | Warframe  | Subsumable Yetenekler | Uygulanabilir Arttırmalar |
 | :--- | :--- | :--- |
@@ -48,4 +48,26 @@ Subsumable Yetenekler
 | [![WukongIcon272](https://vignette.wikia.nocookie.net/warframe/images/6/68/WukongIcon272.png/revision/latest/scale-to-width-down/19?cb=20180121174232)](https://warframe.fandom.com/wiki/Wukong) [Wukong](https://warframe.fandom.com/wiki/Wukong) | [![Defy130xDark](https://vignette.wikia.nocookie.net/warframe/images/5/5f/Defy130xDark.png/revision/latest/scale-to-width-down/19?cb=20190620141251)](https://warframe.fandom.com/wiki/Defy) [Defy](https://warframe.fandom.com/wiki/Defy) | N/A |
 | [![XakuIcon272](https://vignette.wikia.nocookie.net/warframe/images/b/be/XakuIcon272.png/revision/latest/scale-to-width-down/19?cb=20200826170409)](https://warframe.fandom.com/wiki/Xaku) [Xaku](https://warframe.fandom.com/wiki/Xaku) | [![Xata&amp;\#039;sWhisper130xDark](https://vignette.wikia.nocookie.net/warframe/images/6/6b/Xata%27sWhisper130xDark.png/revision/latest/scale-to-width-down/19?cb=20200826172316)](https://warframe.fandom.com/wiki/Xata%27s_Whisper) [Xata's Whisper](https://warframe.fandom.com/wiki/Xata%27s_Whisper) | N/A |
 | [![ZephyrIcon272](https://vignette.wikia.nocookie.net/warframe/images/1/1d/ZephyrIcon272.png/revision/latest/scale-to-width-down/19?cb=20180121174233)](https://warframe.fandom.com/wiki/Zephyr) [Zephyr](https://warframe.fandom.com/wiki/Zephyr) | [![Airburst130xDark](https://vignette.wikia.nocookie.net/warframe/images/7/72/Airburst130xDark.png/revision/latest/scale-to-width-down/19?cb=20180321162712)](https://warframe.fandom.com/wiki/Airburst) [Airburst](https://warframe.fandom.com/wiki/Airburst) | N/A |
+
+### Yetenek Önerileri
+
+Subsumable yetenek aktarmaları için öneriler
+
+| Warframe | Yetenek | Subsumable yetenek |
+| :--- | :--- | :--- |
+| [![GaussIcon272](https://vignette.wikia.nocookie.net/warframe/images/3/34/GaussIcon272.png/revision/latest/scale-to-width-down/19?cb=20191102061637)](https://warframe.fandom.com/wiki/Gauss) [Gauss](https://warframe.fandom.com/wiki/Gauss) | Termal Sunder | [Infested Mobility](https://warframe.fandom.com/wiki/Infested_Mobility) |
+| [![WispIcon272](https://vignette.wikia.nocookie.net/warframe/images/a/a3/WispIcon272.png/revision/latest/scale-to-width-down/19?cb=20190518000814)](https://warframe.fandom.com/wiki/Wisp) [Wisp](https://warframe.fandom.com/wiki/Wisp) | Breach Surge | [Empower](https://warframe.fandom.com/wiki/Empower) |
+| Ember | Fireball | N/A |
+| Volt | Shock | N/A |
+| Loki | Radial Disarm | N/A |
+| Wukong | Defy & Primal Fury | N/A |
+| Inaros | Sandstorm | N/A |
+| Rhino | Rhino Stomp | N/A |
+| Nekros | Soul Punch & Terrify | N/A |
+| Saryn | Toxic Lash | N/A |
+| Protea | N/A | N/A |
+| Hildryn | Pillage | [Rebuild Shields](https://warframe.fandom.com/wiki/Rebuild_Shields) |
+| Chroma |  |  |
+
+
 
