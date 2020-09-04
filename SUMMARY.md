@@ -6,6 +6,7 @@
 ## Genel
 
 * [Rehber](genel/rehber/README.md)
+  * [Necramech](genel/rehber/necramech.md)
   * [Pustulite](genel/rehber/pustulite.md)
   * [Trumna](genel/rehber/trumna.md)
   * [Helminth](genel/rehber/helminth.md)
