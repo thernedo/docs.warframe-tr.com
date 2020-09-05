@@ -53,22 +53,51 @@
 
 Subsumable yetenek aktarmaları için öneriler
 
-| Warframe | Yetenek | Subsumable yetenek |
-| :--- | :--- | :--- |
-| [![GaussIcon272](https://vignette.wikia.nocookie.net/warframe/images/3/34/GaussIcon272.png/revision/latest/scale-to-width-down/19?cb=20191102061637)](https://warframe.fandom.com/wiki/Gauss) [Gauss](https://warframe.fandom.com/wiki/Gauss) | Termal Sunder | [Infested Mobility](https://warframe.fandom.com/wiki/Infested_Mobility) |
-| [![WispIcon272](https://vignette.wikia.nocookie.net/warframe/images/a/a3/WispIcon272.png/revision/latest/scale-to-width-down/19?cb=20190518000814)](https://warframe.fandom.com/wiki/Wisp) [Wisp](https://warframe.fandom.com/wiki/Wisp) | Breach Surge | [Empower](https://warframe.fandom.com/wiki/Empower) |
-|  [![EmberIcon272](https://vignette.wikia.nocookie.net/warframe/images/5/50/EmberIcon272.png/revision/latest/scale-to-width-down/19?cb=20180121174118)​](https://warframe.fandom.com/wiki/Ember) [Ember](https://warframe.fandom.com/wiki/Ember) | Fireball | N/A |
-|  [![VoltIcon272](https://vignette.wikia.nocookie.net/warframe/images/9/95/VoltIcon272.png/revision/latest/scale-to-width-down/19?cb=20180121174230)​](https://warframe.fandom.com/wiki/Volt) [Volt](https://warframe.fandom.com/wiki/Volt) | Shock | N/A |
-|  [![LokiIcon272](https://vignette.wikia.nocookie.net/warframe/images/0/0e/LokiIcon272.png/revision/latest/scale-to-width-down/19?cb=20180121174142)​](https://warframe.fandom.com/wiki/Loki) [Loki](https://warframe.fandom.com/wiki/Loki) | Radial Disarm | N/A |
-|  [![WukongIcon272](https://vignette.wikia.nocookie.net/warframe/images/6/68/WukongIcon272.png/revision/latest/scale-to-width-down/19?cb=20180121174232)​](https://warframe.fandom.com/wiki/Wukong) [Wukong](https://warframe.fandom.com/wiki/Wukong) | Defy & Primal Fury | N/A |
-|  [![InarosIcon272](https://vignette.wikia.nocookie.net/warframe/images/3/33/InarosIcon272.png/revision/latest/scale-to-width-down/19?cb=20180121174135)​](https://warframe.fandom.com/wiki/Inaros) [Inaros](https://warframe.fandom.com/wiki/Inaros) | Sandstorm | N/A |
-|  [![RhinoIcon272](https://vignette.wikia.nocookie.net/warframe/images/8/8d/RhinoIcon272.png/revision/latest/scale-to-width-down/19?cb=20180121174212)​](https://warframe.fandom.com/wiki/Rhino) [Rhino](https://warframe.fandom.com/wiki/Rhino) | Rhino Stomp | N/A |
-|  [![NekrosIcon272](https://vignette.wikia.nocookie.net/warframe/images/8/8b/NekrosIcon272.png/revision/latest/scale-to-width-down/19?cb=20180121174153)​](https://warframe.fandom.com/wiki/Nekros) [Nekros](https://warframe.fandom.com/wiki/Nekros) | Soul Punch & Terrify | N/A |
-|  [![SarynIcon272](https://vignette.wikia.nocookie.net/warframe/images/2/23/SarynIcon272.png/revision/latest/scale-to-width-down/19?cb=20180121174215)​](https://warframe.fandom.com/wiki/Saryn) [Saryn](https://warframe.fandom.com/wiki/Saryn) | Toxic Lash | N/A |
-|  [![ProteaIcon272](https://vignette.wikia.nocookie.net/warframe/images/6/63/ProteaIcon272.png/revision/latest/scale-to-width-down/19?cb=20200616142026)​](https://warframe.fandom.com/wiki/Protea) [Protea](https://warframe.fandom.com/wiki/Protea) | N/A | N/A |
-|  [![HildrynIcon272](https://vignette.wikia.nocookie.net/warframe/images/1/19/HildrynIcon272.png/revision/latest/scale-to-width-down/19?cb=20190308054142)​](https://warframe.fandom.com/wiki/Hildryn) [Hildryn](https://warframe.fandom.com/wiki/Hildryn) | Pillage | [Rebuild Shields](https://warframe.fandom.com/wiki/Rebuild_Shields) |
-|  [![ChromaIcon272](https://vignette.wikia.nocookie.net/warframe/images/6/60/ChromaIcon272.png/revision/latest/scale-to-width-down/19?cb=20180121174115)​](https://warframe.fandom.com/wiki/Chroma) [Chroma](https://warframe.fandom.com/wiki/Chroma) | N/A | N/A |
-| Revenant | 4. | Larva |
+### Gauss
 
+* **HIZ:** ~~Termal Sunder~~ yeteneği yerine **Infested Mobility** yetenek aktarması yaparak hız artışı yapabilirsiniz.
 
+### Wisp
+
+* **GÜÇ:** ~~Breach Surge~~ yeteneği yerine **Empower** yetenek aktarması yaparak güç artışı yapabilirsiniz.
+
+### Ember
+
+* Fireball - N/A
+
+### Volt
+
+* Shock - N/A
+
+### Loki
+
+* **CASUS:** ~~Radial Disarm~~ yeteneği yerine **Perspicacity** yetenek aktarması yaparak bir sonraki hack girişimlerini otomatik olarak başarılı yapabilirsiniz
+
+### Wukong
+
+* Defy & Primal Fury - N/A
+
+### Inaros
+
+* **SAĞLIK:** ~~Sandstorm~~ yeteneği yerine **Master's Summons** yetenek aktarması yaparak sağlığı her yetenek kullanımında %100 doldurma yapabilirsiniz.
+
+### Rhino
+
+* **GÜÇ:** ~~Rhino Stomp~~ yeteneği yerine **Empower** yetenek aktarması yaparak güç artışı yapabilirsiniz. Empower ve Rior yeteneğini kombin ederek kullanılmalıdır.
+
+### Nekros
+
+* Soul Punch & Terrify - N/A
+
+### Saryn
+
+* Toxic Lash - N/A
+
+### Hildryn
+
+* **KALKAN:** ~~Pillage~~ yeteneği yerine **Rebuild Shields** yetenek aktarması yaparak kalkanı her yetenek kullanımında %100 doldurma yapabilirsiniz.
+
+### Ash
+
+* **HASAR:** ~~Shuriken~~ yeteneği yerine **Marked For Death** yetenek aktarması yaparak bir düşmana fazladan hasar vererek etrafındaki düşmanlara yansıtma yapabilirsiniz. Fatal Teleport modlu build kullanarak teleport yeteneği ve Marked For Death yeteneğini kombin ederek kullanılmalıdır.
 
