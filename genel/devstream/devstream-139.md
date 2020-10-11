@@ -1,3 +1,7 @@
+---
+description: '#139'
+---
+
 # Devstream 139
 
 ## Operasyon: Scarlet Spear <a id="operasyon-scarlet-spear"></a>

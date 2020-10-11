@@ -46,6 +46,8 @@
   * [Yuvalar](genel/rehber/yuvalar.md)
   * [Shawzin](genel/rehber/shawzin.md)
 * [Devstream](genel/devstream/README.md)
+  * [Home Devstream 7](genel/devstream/home-devstream-7.md)
+  * [Home Devstream 6](genel/devstream/home-devstream-6.md)
   * [Home Devstream 5](genel/devstream/home-devstream-5.md)
   * [Home Devstream 4](genel/devstream/home-devstream-4.md)
   * [Home Devstream 3](genel/devstream/home-devstream-3.md)
