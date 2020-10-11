@@ -8,7 +8,7 @@ description: '#147'
 
 Haftaya geliyor.
 
-![](https://pbs.twimg.com/media/Ej6Yp3oWsAI7MOk?format=jpg&name=4096x4096)
+![](https://cdn-w1.gitlab.io/s-1/2020/10/11/Ej6Yp3oWsAI7MOk.jpg)
 
 * Etkinlik ile beraber Naberus'dan plague zaw parçaları, exodias glifleri, yeni necramech/silah görünümü ve ürkütücü bir hikayeyi anlatıcak bir dekorasyon eklenicek.
 
@@ -24,7 +24,7 @@ UI renklerinizi özelleştirin. Renk körlüğü için hazır ayarlar da var
 
 Yeni simyacı warframe
 
-![](https://pbs.twimg.com/media/Ej-5-IsXcAEXycX?format=jpg&name=4096x4096)
+![](https://cdn-w1.gitlab.io/s-1/2020/10/11/Ej-5-IsXcAEXycX.jpg)
 
 ## Update 29.5
 
@@ -32,7 +32,7 @@ Yeni simyacı warframe
 
 Deimos: Arcana'da Infested ayı yeniden ziyaret edin, çok yakında!
 
-![](https://pbs.twimg.com/media/Ej607cdWAAE7hA9?format=jpg&name=large)
+![](https://cdn-w1.gitlab.io/s-1/2020/10/11/Ej607cdWAAE7hA9.jpg)
 
 * Yeni Necramech muhtemelen **Bonewidow**
 * Yeni yer altı görevleri gelecek
@@ -57,13 +57,13 @@ Ustalık seviyesi 30 için gelecek içerikler
 * Relaydan edibileceği özel buff
 * Yeni efsanevi seviyeler 
 
-![](https://pbs.twimg.com/media/Ej_VkHpWoAMDiKO?format=jpg&name=large)
+![](https://cdn-w1.gitlab.io/s-1/2020/10/11/Ej_VkHpWoAMDiKO.jpg)
 
 ## Deluxe Skin
 
 Mirage Deluxe Skin
 
-![](https://pbs.twimg.com/media/Ej62A7SU0AA-3gi?format=jpg&name=4096x4096)
+![](https://cdn-w1.gitlab.io/s-1/2020/10/11/Ej62A7SU0AA-3gi.jpg)
 
 ## Revizyon
 
@@ -77,15 +77,15 @@ Yıl sonuna kadar başka bir "**The Great Ensmallening**" yenilenme güncellemes
 
 Nezha Prime ile, düşmanlarını göklerin kutsal ateşiyle kuşat. Ateş Prensi, Guandao Prime, Zakti Prime ve daha fazlasıyla birlikte son şekliyle ortaya çıkıyor!
 
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/07dd31bb3e96d47b2c5a6b00a0356f08.jpg)
+![](https://cdn-w1.gitlab.io/s-1/2020/10/11/07dd31bb3e96d47b2c5a6b00a0356f08.jpg)
 
 ### Guandao Prime **&** Zakti Prime
 
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/19558390692bd6e020325488547850b2.jpg)
+![](https://cdn-w1.gitlab.io/s-1/2020/10/11/19558390692bd6e020325488547850b2.jpg)
 
 ### Baurahn Prime Ephemera & Ransha Prime Zırh
 
-![](https://n9e5v4d8.ssl.hwcdn.net/uploads/f88c9c2f71cccfda38e200a150491e0f.jpg)
+![](https://cdn-w1.gitlab.io/s-1/2020/10/11/f88c9c2f71cccfda38e200a150491e0f.jpg)
 
 {% embed url="https://www.warframe.com/tr/news/nezha-prime-access-coming-soon" %}
 

@@ -14,9 +14,9 @@ description: '#146'
 
 Sezon sonu için getirilecek yenilikler için çalışmalar devam ediyor.
 
-![](https://user-images.githubusercontent.com/7725575/95682030-cb3e2600-0beb-11eb-9f65-dc02b2e2d238.png)
+![](https://cdn-w1.gitlab.io/s-1/2020/10/11/95682054-e90b8b00-0beb-11eb-8b0f-4ba5f55d2f39.png)
 
-![](https://user-images.githubusercontent.com/7725575/95682054-e90b8b00-0beb-11eb-8b0f-4ba5f55d2f39.png)
+![](https://cdn-w1.gitlab.io/s-1/2020/10/11/95682030-cb3e2600-0beb-11eb-9f65-dc02b2e2d238.png)
 
 ### Yeni Cam Kılıcı
 
@@ -30,7 +30,7 @@ Sezon sonu için getirilecek yenilikler için çalışmalar devam ediyor.
 
 ### Gara Deluxe Skin
 
-![](https://pbs.twimg.com/media/EiYVnejXgAMT5SQ?format=jpg&name=4096x4096)
+![](https://cdn-w1.gitlab.io/s-1/2020/10/11/EiYVnejXgAMT5SQ.jpg)
 
 ## Diğer
 
@@ -43,6 +43,4 @@ Sezon sonu için getirilecek yenilikler için çalışmalar devam ediyor.
 * Ses iyileştirmeleri olacak
 
 {% embed url="https://streamable.com/2t1uq3" %}
-
-
 
