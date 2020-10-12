@@ -14,6 +14,8 @@ Haftaya geliyor.
 
 {% embed url="https://streamable.com/ym75da" %}
 
+{% embed url="https://www.facebook.com/PlayWarframe/videos/366337654570323/" %}
+
 ## UI
 
 UI renklerinizi özelleştirin. Renk körlüğü için hazır ayarlar da var
@@ -43,7 +45,11 @@ Deimos: Arcana'da Infested ayı yeniden ziyaret edin, çok yakında!
 
 ### **Yeni Düşman: Legs**
 
-{% embed url="https://streamable.com/uk9yy3" %}
+{% embed url="https://www.facebook.com/PlayWarframe/videos/362433714900659/" %}
+
+### **Yeni Silah**
+
+{% embed url="https://www.facebook.com/PlayWarframe/videos/389808632053140/?v=389808632053140" %}
 
 ## MR 30
 
