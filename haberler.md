@@ -8,23 +8,19 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 ## 2020
 
-{% hint style="info" %}
-Firewalker, 27 Ekim'de Prime Access'e geliyor!
-{% endhint %}
+### The Great Ensmallening: Part 2
 
-{% embed url="https://www.warframe.com/tr/news/nezha-prime-access-coming-soon" %}
+Oyun boyutunda azalma ve dokularda yeni sıkıştırmalar olacak The Great Ensmallening, 2. aşama olarak 2-6 Kasım arası gelmesi planlanıyor.
+
+![](https://content.invisioncic.com/Mwarframe/monthly_2020_10/LookAtGun.jpg.6a7d417371da25baea4008431a1d2a9f.jpg)
+
+{% embed url="https://forums.warframe.com/topic/1233324-the-great-ensmallening-part-2" %}
 
 ### Update 29.5: Deimos Arcana
 
 Deimos: Arcana'da Infested ayı yeniden ziyaret edin, çok yakında!
 
 ![](https://cdn-w1.gitlab.io/s-1/2020/10/11/Ej607cdWAAE7hA9.jpg)
-
-{% hint style="info" %}
-Inaros Prime, Prime Silah ve Aksesuarlarına 27 Ekim'den önce anında sahip ol!
-{% endhint %}
-
-{% embed url="https://www.warframe.com/tr/news/inaros-prime-access-ending-soon" %}
 
 ## ∞
 
