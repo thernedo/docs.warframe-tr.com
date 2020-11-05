@@ -8,14 +8,6 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 ## 2020
 
-### The Great Ensmallening: Part 2
-
-Oyun boyutunda azalma ve dokularda yeni sıkıştırmalar olacak The Great Ensmallening, 2. aşama olarak 2-6 Kasım arası gelmesi planlanıyor.
-
-![](https://content.invisioncic.com/Mwarframe/monthly_2020_10/LookAtGun.jpg.6a7d417371da25baea4008431a1d2a9f.jpg)
-
-{% embed url="https://forums.warframe.com/topic/1233324-the-great-ensmallening-part-2" %}
-
 ### Update 29.5: Deimos Arcana
 
 Deimos: Arcana'da Infested ayı yeniden ziyaret edin, çok yakında!
