@@ -70,9 +70,9 @@ Queenpin, corpus railjack ve yeni bir çerçeve
 
 ## Steel Path & Acolytes
 
-* Acolyte'lar çelik yolda miniboss olarak ortaya çıkacak ve çelik özü bırakacak.
+* Acolyte'lar çelik yolda miniboss olarak ortaya çıkacak ve steel essence bırakacak.
 * Günlük kazanabileceğiniz çelik yol görevleri
-* Teshin, çelik özü için haftalık olarak değişen nadir öğelerden oluşan bir seçkiye sahip olacak
+* Teshin, steel essence için haftalık olarak değişen nadir öğelerden oluşan bir seçkiye sahip olacak
 
 ## Augments
 
