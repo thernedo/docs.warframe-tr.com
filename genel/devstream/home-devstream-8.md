@@ -20,7 +20,7 @@ Deimos: Arcana'da Infested ayı yeniden ziyaret edin, çok yakında!
 * Yeni hayvan yakalama
 * Yeni Arcaneler
 * Yeni gelecek Augmentler
-* * Wisp - Breach Surge
+  * Wisp - Breach Surge
   * Revenant - Enthrall
   * Gauss - Mach Rush
   * Garuda - Talons
@@ -29,7 +29,7 @@ Deimos: Arcana'da Infested ayı yeniden ziyaret edin, çok yakında!
 
 Deimos Arcane güncellemesi ile birlikte geliyor.
 
-![](https://cdn-w1.gitlab.io/s-1/2020/11/07/1.jpg)
+{% embed url="https://www.facebook.com/PlayWarframe/videos/375363643611959/" %}
 
 ### Silahlar
 
