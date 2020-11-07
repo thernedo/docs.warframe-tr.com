@@ -20,8 +20,6 @@ Herhangi bir tarih aralığı belirlenmemiş içerikler
 
 ### Bir sonraki warframe: Lavos
 
-{% page-ref page="genel/devstream/home-devstream-7.md" %}
-
 {% embed url="https://streamable.com/jorj13" %}
 
 ### Zephyr deluxe ile birlikte gelecek Operatör kozmetik konsept çizimi
