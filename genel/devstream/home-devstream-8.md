@@ -16,12 +16,20 @@ Deimos: Arcana'da Infested ayı yeniden ziyaret edin, çok yakında!
 
 * Görevlerde yeni iyileştirmeler \(Yollar, Çağrı noktaları, Token ekonomisi\)
 * Yeni yer altı genişlemesi
+* Yeni görevler
+* Yeni hayvan yakalama
+* Yeni Arcaneler
+* Yeni gelecek Augmentler
+* * Wisp - Breach Surge
+  * Revenant - Enthrall
+  * Gauss - Mach Rush
+  * Garuda - Talons
 
 ### Gara Deluxe Skin
 
 Deimos Arcane güncellemesi ile birlikte geliyor.
 
-![](https://cdn-w1.gitlab.io/s-1/2020/10/11/EiYVnejXgAMT5SQ.jpg)
+![](https://cdn-w1.gitlab.io/s-1/2020/11/07/1.jpg)
 
 ### Silahlar
 
@@ -37,8 +45,6 @@ ve diğer 7 yeni silah ve Infested Kitgunlar geliyor.
 Deimos Arcane güncellemesi ile gelecek yeni Necramech
 
 * Loid'den temin edilecek
-
-{% embed url="https://streamable.com/9aer1p" %}
 
 ## Lavos
 
@@ -60,6 +66,8 @@ Queenpin, corpus railjack ve yeni bir çerçeve
 * Tüfek çantası
 * İkincil ve yakın dövüş çantası da olacak
 
+![](https://cdn-w1.gitlab.io/s-1/2020/11/07/2.jpg)
+
 ## Glaives
 
 * Ağır saldırılar tutarlı bir şekilde daha fazla hasar verecek
@@ -68,18 +76,14 @@ Queenpin, corpus railjack ve yeni bir çerçeve
 * Zıplama sırasında atışlar, birden çok kez yapılabilecek
 * Yakın dövüş duruş kombinasyonları Glaive + Silah modunda mevcut
 
+{% embed url="https://forums.warframe.com/topic/1234487-glaive-revisit-workshop/" %}
+
 ## Steel Path & Acolytes
 
 * Acolyte'lar çelik yolda miniboss olarak ortaya çıkacak ve steel essence bırakacak.
 * Günlük kazanabileceğiniz çelik yol görevleri
+
+![](https://cdn-w1.gitlab.io/s-1/2020/11/07/3.jpg)
+
 * Teshin, steel essence için haftalık olarak değişen nadir öğelerden oluşan bir seçkiye sahip olacak
-
-## Augments
-
-Yeni gelecek Augmentler
-
-* Wisp - Breach Surge
-* Revenant - Enthrall
-* Gauss - Mach Rush
-* Garuda - Talons
 
