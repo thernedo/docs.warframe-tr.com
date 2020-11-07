@@ -4,7 +4,7 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 # Haberler
 
-{% page-ref page="genel/devstream/home-devstream-7.md" %}
+{% page-ref page="genel/devstream/home-devstream-8.md" %}
 
 ## 2020
 

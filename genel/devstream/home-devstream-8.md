@@ -30,11 +30,15 @@ Deimos Arcane güncellemesi ile birlikte geliyor.
 
 ve diğer 7 yeni silah ve Infested Kitgunlar geliyor.
 
+{% embed url="https://www.facebook.com/watch/?v=389808632053140" %}
+
 ### Bonewidow Necramech
 
 Deimos Arcane güncellemesi ile gelecek yeni Necramech
 
 * Loid'den temin edilecek
+
+{% embed url="https://streamable.com/9aer1p" %}
 
 ## Lavos
 
