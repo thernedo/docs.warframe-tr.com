@@ -31,6 +31,10 @@ Deimos Arcane güncellemesi ile birlikte geliyor.
 
 {% embed url="https://www.facebook.com/PlayWarframe/videos/375363643611959/" %}
 
+### Loid Sentinel Skin
+
+![](https://pbs.twimg.com/media/EmaP5GSW8AAEJvl?format=jpg&name=4096x4096)
+
 ### Silahlar
 
 * Yeni Warfan yakın dövüş silahı geliyor. \(Yeni animasyon ve iyileştirmeler olacak\)
