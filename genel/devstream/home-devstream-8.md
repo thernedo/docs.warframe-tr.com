@@ -52,7 +52,7 @@ Deimos Arcane güncellemesi ile gelecek yeni Necramech
 
 ## Lavos
 
-Oyun için modele bir bakış. Çıkış tarihi belirlenmemiş yeni warframe
+Çıkış tarihi belirlenmemiş yeni warframe
 
 ![](https://cdn-w1.gitlab.io/s-1/2020/10/11/Ej-5-IsXcAEXycX.jpg)
 
