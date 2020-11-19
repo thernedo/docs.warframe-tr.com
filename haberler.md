@@ -10,9 +10,11 @@ description: 'Yayınlar, Yenilikler ve Etkinlikler hakkında bilgilendirme'
 
 ### Update 29.5: Deimos Arcana
 
-Deimos: Arcana'da Infested ayı yeniden ziyaret edin, çok yakında!
+Deimos: Arcana'da Infested ayı yeniden ziyaret edin, bu hafta PC'de
 
-![](https://cdn-w1.gitlab.io/s-1/2020/10/11/Ej607cdWAAE7hA9.jpg)
+![](https://n9e5v4d8.ssl.hwcdn.net/uploads/2efb02d4931aa2d33d28ff9f4ea635b4.jpg)
+
+{% embed url="https://www.warframe.com/tr/news/deimos-arcana" %}
 
 ## ∞
 
